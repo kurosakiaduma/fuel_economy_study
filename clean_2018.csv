@@ -1,0 +1,1684 @@
+,record_year,model,displ,cyl,trans,drive,fuel,cert_region,veh_class,air_pollution_score,city_mpg,hwy_mpg,cmb_mpg,greenhouse_gas_score,smartway
+0,2018,ACURA RDX,3.5,60,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,20.0,28.0,23.0,5,No
+1,2018,ACURA RDX,3.5,60,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,20.0,28.0,23.0,5,No
+2,2018,ACURA RDX,3.5,60,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,19.0,27.0,22.0,4,No
+3,2018,ACURA RDX,3.5,60,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,19.0,27.0,22.0,4,No
+4,2018,ACURA TLX,2.4,40,AMS-8,2WD,Gasoline,CA,small car,3.0,23.0,33.0,27.0,6,No
+5,2018,ACURA TLX,2.4,40,AMS-8,2WD,Gasoline,FA,small car,3.0,23.0,33.0,27.0,6,No
+6,2018,ACURA TLX,3.5,60,SemiAuto-9,2WD,Gasoline,CA,small car,3.0,20.0,32.0,24.0,5,No
+7,2018,ACURA TLX,3.5,60,SemiAuto-9,2WD,Gasoline,FA,small car,3.0,20.0,32.0,24.0,5,No
+8,2018,ACURA TLX,3.5,60,SemiAuto-9,4WD,Gasoline,CA,small car,3.0,21.0,30.0,24.0,5,No
+9,2018,ACURA TLX,3.5,60,SemiAuto-9,4WD,Gasoline,FA,small car,3.0,21.0,30.0,24.0,5,No
+10,2018,ACURA TLX AWD A-SPEC,3.5,60,SemiAuto-9,4WD,Gasoline,CA,small car,3.0,20.0,29.0,23.0,5,No
+11,2018,ACURA TLX AWD A-SPEC,3.5,60,SemiAuto-9,4WD,Gasoline,FA,small car,3.0,20.0,29.0,23.0,5,No
+12,2018,ACURA TLX FWD A-SPEC,3.5,60,SemiAuto-9,2WD,Gasoline,CA,small car,3.0,20.0,30.0,23.0,5,No
+13,2018,ACURA TLX FWD A-SPEC,3.5,60,SemiAuto-9,2WD,Gasoline,FA,small car,3.0,20.0,30.0,23.0,5,No
+14,2018,ALFA ROMEO 4C,1.8,40,AutoMan-6,2WD,Gasoline,CA,small car,1.0,24.0,34.0,28.0,6,No
+15,2018,ALFA ROMEO 4C,1.8,40,AutoMan-6,2WD,Gasoline,FA,small car,1.0,24.0,34.0,28.0,6,No
+16,2018,ALFA ROMEO Giulia,2.0,40,Auto-8,2WD,Gasoline,FA,midsize car,3.0,24.0,33.0,27.0,6,No
+17,2018,ALFA ROMEO Giulia,2.9,60,Auto-8,2WD,Gasoline,CA,midsize car,3.0,17.0,24.0,20.0,4,No
+18,2018,ALFA ROMEO Giulia,2.9,60,Auto-8,2WD,Gasoline,FA,midsize car,3.0,17.0,24.0,20.0,4,No
+19,2018,ALFA ROMEO Giulia AWD,2.0,40,Auto-8,4WD,Gasoline,FA,midsize car,3.0,23.0,31.0,26.0,5,No
+20,2018,ALFA ROMEO Stelvio AWD,2.0,40,Auto-8,4WD,Gasoline,FA,small SUV,3.0,22.0,28.0,24.0,5,No
+21,2018,AUDI A3,2.0,40,AMS-6,4WD,Gasoline,CA,small car,7.0,24.0,31.0,27.0,6,No
+22,2018,AUDI A3,2.0,40,AMS-6,4WD,Gasoline,FA,small car,7.0,24.0,31.0,27.0,6,No
+23,2018,AUDI A3,2.0,40,AMS-7,2WD,Gasoline,CA,small car,7.0,26.0,35.0,29.0,6,No
+24,2018,AUDI A3,2.0,40,AMS-7,2WD,Gasoline,FA,small car,7.0,26.0,35.0,29.0,6,No
+25,2018,AUDI A3 Cabriolet,2.0,40,AMS-6,4WD,Gasoline,CA,small car,7.0,22.0,30.0,25.0,5,No
+26,2018,AUDI A3 Cabriolet,2.0,40,AMS-6,4WD,Gasoline,FA,small car,7.0,22.0,30.0,25.0,5,No
+27,2018,AUDI A3 Cabriolet,2.0,40,AMS-7,2WD,Gasoline,CA,small car,7.0,25.0,33.0,28.0,6,No
+28,2018,AUDI A3 Cabriolet,2.0,40,AMS-7,2WD,Gasoline,FA,small car,7.0,25.0,33.0,28.0,6,No
+29,2018,AUDI A4,2.0,40,AMS-7,4WD,Gasoline,CA,small car,5.0,24.0,34.0,27.0,6,No
+30,2018,AUDI A4,2.0,40,AMS-7,4WD,Gasoline,FA,small car,5.0,24.0,34.0,27.0,6,No
+31,2018,AUDI A4,2.0,40,Man-6,4WD,Gasoline,CA,small car,3.0,24.0,33.0,27.0,6,No
+32,2018,AUDI A4,2.0,40,Man-6,4WD,Gasoline,FA,small car,3.0,24.0,33.0,27.0,6,No
+33,2018,AUDI A4 Ultra,2.0,40,AMS-7,2WD,Gasoline,CA,small car,3.0,27.0,37.0,31.0,7,Yes
+34,2018,AUDI A4 Ultra,2.0,40,AMS-7,2WD,Gasoline,FA,small car,3.0,27.0,37.0,31.0,7,Yes
+35,2018,AUDI A5,2.0,40,AMS-7,4WD,Gasoline,CA,small car,5.0,24.0,34.0,27.0,6,No
+36,2018,AUDI A5,2.0,40,AMS-7,4WD,Gasoline,FA,small car,5.0,24.0,34.0,27.0,6,No
+37,2018,AUDI A5,2.0,40,Man-6,4WD,Gasoline,CA,small car,3.0,24.0,33.0,27.0,6,No
+38,2018,AUDI A5,2.0,40,Man-6,4WD,Gasoline,FA,small car,3.0,24.0,33.0,27.0,6,No
+39,2018,AUDI A5 Cabriolet,2.0,40,AMS-7,4WD,Gasoline,CA,small car,5.0,24.0,34.0,27.0,6,No
+40,2018,AUDI A5 Cabriolet,2.0,40,AMS-7,4WD,Gasoline,FA,small car,5.0,24.0,34.0,27.0,6,No
+41,2018,AUDI A5 Sportback quattro,2.0,40,AMS-7,4WD,Gasoline,CA,midsize car,5.0,24.0,34.0,27.0,6,No
+42,2018,AUDI A5 Sportback quattro,2.0,40,AMS-7,4WD,Gasoline,FA,midsize car,5.0,24.0,34.0,27.0,6,No
+43,2018,AUDI A6,2.0,40,AMS-7,2WD,Gasoline,CA,midsize car,5.0,25.0,34.0,28.0,6,No
+44,2018,AUDI A6,2.0,40,AMS-7,2WD,Gasoline,FA,midsize car,5.0,25.0,34.0,28.0,6,No
+45,2018,AUDI A6,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,5.0,22.0,31.0,26.0,5,No
+46,2018,AUDI A6,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,5.0,22.0,31.0,26.0,5,No
+47,2018,AUDI A6,3.0,60,SemiAuto-8,4WD,Gasoline,FA,midsize car,3.0,20.0,29.0,23.0,5,No
+48,2018,AUDI A6,3.0,60,SemiAuto-8,4WD,Gasoline,CA,midsize car,3.0,20.0,29.0,23.0,5,No
+49,2018,AUDI A7,3.0,60,SemiAuto-8,4WD,Gasoline,FA,midsize car,3.0,20.0,29.0,23.0,5,No
+50,2018,AUDI A7,3.0,60,SemiAuto-8,4WD,Gasoline,CA,midsize car,3.0,20.0,29.0,23.0,5,No
+51,2018,AUDI A8 L,3.0,60,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,19.0,29.0,22.0,4,No
+52,2018,AUDI A8 L,3.0,60,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,19.0,29.0,22.0,4,No
+53,2018,AUDI Q3,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,3.0,20.0,28.0,23.0,5,No
+54,2018,AUDI Q3,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,3.0,20.0,28.0,23.0,5,No
+55,2018,AUDI Q3,2.0,40,SemiAuto-6,4WD,Gasoline,FA,small car,3.0,20.0,28.0,23.0,5,No
+56,2018,AUDI Q3,2.0,40,SemiAuto-6,4WD,Gasoline,CA,small car,3.0,20.0,28.0,23.0,5,No
+57,2018,AUDI Q5,2.0,40,SemiAuto-7,4WD,Gasoline,CA,small SUV,3.0,23.0,27.0,25.0,5,No
+58,2018,AUDI Q5,2.0,40,SemiAuto-7,4WD,Gasoline,FA,small SUV,3.0,23.0,27.0,25.0,5,No
+59,2018,AUDI Q7,2.0,40,SemiAuto-8,4WD,Gasoline,CA,standard SUV,3.0,19.0,25.0,21.0,4,No
+60,2018,AUDI Q7,2.0,40,SemiAuto-8,4WD,Gasoline,FA,standard SUV,3.0,19.0,25.0,21.0,4,No
+61,2018,AUDI Q7,3.0,60,SemiAuto-8,4WD,Gasoline,FA,standard SUV,3.0,19.0,25.0,21.0,4,No
+62,2018,AUDI Q7,3.0,60,SemiAuto-8,4WD,Gasoline,CA,standard SUV,3.0,19.0,25.0,21.0,4,No
+63,2018,AUDI RS3,2.5,50,AMS-7,4WD,Gasoline,CA,small car,3.0,19.0,28.0,22.0,4,No
+64,2018,AUDI RS3,2.5,50,AMS-7,4WD,Gasoline,FA,small car,3.0,19.0,28.0,22.0,4,No
+65,2018,AUDI S3,2.0,40,AMS-7,4WD,Gasoline,FA,small car,3.0,22.0,28.0,25.0,5,No
+66,2018,AUDI S3,2.0,40,AMS-7,4WD,Gasoline,CA,small car,3.0,22.0,28.0,25.0,5,No
+67,2018,AUDI S4,3.0,60,AMS-8,4WD,Gasoline,CA,small car,5.0,21.0,30.0,24.0,5,No
+68,2018,AUDI S4,3.0,60,AMS-8,4WD,Gasoline,FA,small car,5.0,21.0,30.0,24.0,5,No
+69,2018,AUDI S5,3.0,60,AMS-8,4WD,Gasoline,CA,small car,5.0,21.0,30.0,24.0,5,No
+70,2018,AUDI S5,3.0,60,AMS-8,4WD,Gasoline,FA,small car,5.0,21.0,30.0,24.0,5,No
+71,2018,AUDI S5 Cabriolet,3.0,60,AMS-8,4WD,Gasoline,CA,small car,5.0,20.0,29.0,23.0,5,No
+72,2018,AUDI S5 Cabriolet,3.0,60,AMS-8,4WD,Gasoline,FA,small car,5.0,20.0,29.0,23.0,5,No
+73,2018,AUDI S5 Sportback,3.0,60,AMS-8,4WD,Gasoline,CA,midsize car,5.0,21.0,30.0,24.0,5,No
+74,2018,AUDI S5 Sportback,3.0,60,AMS-8,4WD,Gasoline,FA,midsize car,5.0,21.0,30.0,24.0,5,No
+75,2018,AUDI SQ5,3.0,60,AMS-8,4WD,Gasoline,CA,small SUV,5.0,19.0,24.0,21.0,4,No
+76,2018,AUDI SQ5,3.0,60,AMS-8,4WD,Gasoline,FA,small SUV,5.0,19.0,24.0,21.0,4,No
+77,2018,AUDI TT Coupe,2.0,40,AMS-6,4WD,Gasoline,CA,small car,7.0,23.0,30.0,26.0,5,No
+78,2018,AUDI TT Coupe,2.0,40,AMS-6,4WD,Gasoline,FA,small car,7.0,23.0,30.0,26.0,5,No
+79,2018,AUDI TT RS,2.5,50,AMS-7,4WD,Gasoline,CA,small car,3.0,19.0,29.0,22.0,4,No
+80,2018,AUDI TT RS,2.5,50,AMS-7,4WD,Gasoline,FA,small car,3.0,19.0,29.0,22.0,4,No
+81,2018,AUDI TT Roadster,2.0,40,AMS-6,4WD,Gasoline,CA,small car,7.0,23.0,30.0,26.0,5,No
+82,2018,AUDI TT Roadster,2.0,40,AMS-6,4WD,Gasoline,FA,small car,7.0,23.0,30.0,26.0,5,No
+83,2018,AUDI TTS Coupe,2.0,40,AMS-6,4WD,Gasoline,FA,small car,3.0,23.0,27.0,25.0,5,No
+84,2018,AUDI TTS Coupe,2.0,40,AMS-6,4WD,Gasoline,CA,small car,3.0,23.0,27.0,25.0,5,No
+85,2018,AUDI allroad quattro,2.0,40,AMS-7,4WD,Gasoline,CA,station wagon,5.0,22.0,30.0,25.0,5,No
+86,2018,AUDI allroad quattro,2.0,40,AMS-7,4WD,Gasoline,FA,station wagon,5.0,22.0,30.0,25.0,5,No
+87,2018,BENTLEY Bentayga,6.0,120,SemiAuto-8,4WD,Gasoline,CA,standard SUV,3.0,12.0,19.0,15.0,2,No
+88,2018,BENTLEY Bentayga,6.0,120,SemiAuto-8,4WD,Gasoline,FA,standard SUV,3.0,12.0,19.0,15.0,2,No
+89,2018,BENTLEY Chiron,8.0,160,AMS-7,4WD,Gasoline,CA,small car,1.0,9.0,14.0,11.0,1,No
+90,2018,BENTLEY Chiron,8.0,160,AMS-7,4WD,Gasoline,FA,small car,1.0,9.0,14.0,11.0,1,No
+91,2018,BMW 230i Convertible,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,24.0,34.0,27.0,6,No
+92,2018,BMW 230i Convertible,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,24.0,34.0,27.0,6,No
+93,2018,BMW 230i Coupe,2.0,40,Man-6,2WD,Gasoline,CA,small car,7.0,21.0,32.0,25.0,5,No
+94,2018,BMW 230i Coupe,2.0,40,Man-6,2WD,Gasoline,FA,small car,7.0,21.0,32.0,25.0,5,No
+95,2018,BMW 230i Coupe,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,24.0,35.0,28.0,6,No
+96,2018,BMW 230i Coupe,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,24.0,35.0,28.0,6,No
+97,2018,BMW 230i xDrive Convertible,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,23.0,33.0,27.0,6,No
+98,2018,BMW 230i xDrive Convertible,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,23.0,33.0,27.0,6,No
+99,2018,BMW 230i xDrive Coupe,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,24.0,33.0,27.0,6,No
+100,2018,BMW 230i xDrive Coupe,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,24.0,33.0,27.0,6,No
+101,2018,BMW 320i,2.0,40,Man-6,2WD,Gasoline,FA,small car,3.0,23.0,35.0,27.0,6,No
+102,2018,BMW 320i,2.0,40,Man-6,2WD,Gasoline,CA,small car,3.0,23.0,35.0,27.0,6,No
+103,2018,BMW 320i,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,24.0,35.0,28.0,6,No
+104,2018,BMW 320i,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,24.0,35.0,28.0,6,No
+105,2018,BMW 320i,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,23.0,34.0,27.0,6,No
+106,2018,BMW 320i,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,23.0,34.0,27.0,6,No
+107,2018,BMW 330i,2.0,40,Man-6,2WD,Gasoline,CA,small car,7.0,21.0,32.0,25.0,5,No
+108,2018,BMW 330i,2.0,40,Man-6,2WD,Gasoline,FA,small car,7.0,21.0,32.0,25.0,5,No
+109,2018,BMW 330i,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,24.0,34.0,27.0,6,No
+110,2018,BMW 330i,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,24.0,34.0,27.0,6,No
+111,2018,BMW 330i,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,23.0,33.0,27.0,6,No
+112,2018,BMW 330i,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,23.0,33.0,27.0,6,No
+113,2018,BMW 330i Gran Turismo,2.0,40,SemiAuto-8,4WD,Gasoline,CA,large car,7.0,23.0,33.0,27.0,6,No
+114,2018,BMW 330i Gran Turismo,2.0,40,SemiAuto-8,4WD,Gasoline,FA,large car,7.0,23.0,33.0,27.0,6,No
+115,2018,BMW 330i Sports Wagon,2.0,40,SemiAuto-8,4WD,Gasoline,CA,station wagon,7.0,23.0,33.0,27.0,6,No
+116,2018,BMW 330i Sports Wagon,2.0,40,SemiAuto-8,4WD,Gasoline,FA,station wagon,7.0,23.0,33.0,27.0,6,No
+117,2018,BMW 340i,3.0,60,Man-6,2WD,Gasoline,CA,small car,3.0,19.0,29.0,23.0,5,No
+118,2018,BMW 340i,3.0,60,Man-6,2WD,Gasoline,FA,small car,3.0,19.0,29.0,23.0,5,No
+119,2018,BMW 340i,3.0,60,Man-6,4WD,Gasoline,CA,small car,3.0,19.0,29.0,23.0,5,No
+120,2018,BMW 340i,3.0,60,Man-6,4WD,Gasoline,FA,small car,3.0,19.0,29.0,23.0,5,No
+121,2018,BMW 340i,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,21.0,32.0,25.0,5,No
+122,2018,BMW 340i,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,21.0,32.0,25.0,5,No
+123,2018,BMW 340i,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,21.0,31.0,25.0,5,No
+124,2018,BMW 340i,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,21.0,31.0,25.0,5,No
+125,2018,BMW 340i Gran Turismo,3.0,60,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,20.0,29.0,23.0,5,No
+126,2018,BMW 340i Gran Turismo,3.0,60,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,20.0,29.0,23.0,5,No
+127,2018,BMW 430i Convertible,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,24.0,34.0,27.0,6,No
+128,2018,BMW 430i Convertible,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,24.0,34.0,27.0,6,No
+129,2018,BMW 430i Convertible,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,22.0,32.0,26.0,5,No
+130,2018,BMW 430i Convertible,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,22.0,32.0,26.0,5,No
+131,2018,BMW 430i Coupe,2.0,40,Man-6,2WD,Gasoline,CA,small car,7.0,21.0,33.0,25.0,5,No
+132,2018,BMW 430i Coupe,2.0,40,Man-6,2WD,Gasoline,FA,small car,7.0,21.0,33.0,25.0,5,No
+133,2018,BMW 430i Coupe,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,24.0,34.0,27.0,6,No
+134,2018,BMW 430i Coupe,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,24.0,34.0,27.0,6,No
+135,2018,BMW 430i Coupe,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,23.0,33.0,27.0,6,No
+136,2018,BMW 430i Coupe,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,23.0,33.0,27.0,6,No
+137,2018,BMW 430i Gran Coupe,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,24.0,34.0,27.0,6,No
+138,2018,BMW 430i Gran Coupe,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,24.0,34.0,27.0,6,No
+139,2018,BMW 430i Gran Coupe,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,23.0,33.0,27.0,6,No
+140,2018,BMW 430i Gran Coupe,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,23.0,33.0,27.0,6,No
+141,2018,BMW 440i Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,21.0,29.0,24.0,5,No
+142,2018,BMW 440i Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,21.0,29.0,24.0,5,No
+143,2018,BMW 440i Convertible,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,20.0,29.0,23.0,5,No
+144,2018,BMW 440i Convertible,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,20.0,29.0,23.0,5,No
+145,2018,BMW 440i Coupe,3.0,60,Man-6,2WD,Gasoline,CA,small car,3.0,19.0,29.0,23.0,5,No
+146,2018,BMW 440i Coupe,3.0,60,Man-6,2WD,Gasoline,FA,small car,3.0,19.0,29.0,23.0,5,No
+147,2018,BMW 440i Coupe,3.0,60,Man-6,4WD,Gasoline,CA,small car,3.0,19.0,29.0,23.0,5,No
+148,2018,BMW 440i Coupe,3.0,60,Man-6,4WD,Gasoline,FA,small car,3.0,19.0,29.0,23.0,5,No
+149,2018,BMW 440i Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,21.0,32.0,25.0,5,No
+150,2018,BMW 440i Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,21.0,32.0,25.0,5,No
+151,2018,BMW 440i Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,21.0,31.0,25.0,5,No
+152,2018,BMW 440i Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,21.0,31.0,25.0,5,No
+153,2018,BMW 440i Gran Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,21.0,32.0,25.0,5,No
+154,2018,BMW 440i Gran Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,21.0,32.0,25.0,5,No
+155,2018,BMW 440i Gran Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,21.0,31.0,25.0,5,No
+156,2018,BMW 440i Gran Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,21.0,31.0,25.0,5,No
+157,2018,BMW 530i,2.0,40,SemiAuto-8,2WD,Gasoline,CA,midsize car,7.0,24.0,34.0,27.0,6,No
+158,2018,BMW 530i,2.0,40,SemiAuto-8,2WD,Gasoline,FA,midsize car,7.0,24.0,34.0,27.0,6,No
+159,2018,BMW 530i,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,7.0,23.0,33.0,27.0,6,No
+160,2018,BMW 530i,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,7.0,23.0,33.0,27.0,6,No
+161,2018,BMW 540i,3.0,60,SemiAuto-8,2WD,Gasoline,CA,midsize car,5.0,21.0,30.0,24.0,5,No
+162,2018,BMW 540i,3.0,60,SemiAuto-8,2WD,Gasoline,FA,midsize car,5.0,21.0,30.0,24.0,5,No
+163,2018,BMW 540i,3.0,60,SemiAuto-8,4WD,Gasoline,CA,midsize car,5.0,20.0,29.0,23.0,5,No
+164,2018,BMW 540i,3.0,60,SemiAuto-8,4WD,Gasoline,FA,midsize car,5.0,20.0,29.0,23.0,5,No
+165,2018,BMW 640i Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,20.0,29.0,23.0,5,No
+166,2018,BMW 640i Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,20.0,29.0,23.0,5,No
+167,2018,BMW 640i Convertible,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,19.0,28.0,22.0,4,No
+168,2018,BMW 640i Convertible,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,19.0,28.0,22.0,4,No
+169,2018,BMW 640i Gran Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,20.0,29.0,23.0,5,No
+170,2018,BMW 640i Gran Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,20.0,29.0,23.0,5,No
+171,2018,BMW 640i Gran Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,19.0,28.0,22.0,4,No
+172,2018,BMW 640i Gran Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,19.0,28.0,22.0,4,No
+173,2018,BMW 650i Convertible,4.4,80,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,17.0,25.0,20.0,4,No
+174,2018,BMW 650i Convertible,4.4,80,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,17.0,25.0,20.0,4,No
+175,2018,BMW 650i Convertible,4.4,80,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,16.0,25.0,19.0,3,No
+176,2018,BMW 650i Convertible,4.4,80,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,16.0,25.0,19.0,3,No
+177,2018,BMW 650i Gran Coupe,4.4,80,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,17.0,25.0,20.0,4,No
+178,2018,BMW 650i Gran Coupe,4.4,80,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,17.0,25.0,20.0,4,No
+179,2018,BMW 650i Gran Coupe,4.4,80,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,16.0,25.0,19.0,3,No
+180,2018,BMW 650i Gran Coupe,4.4,80,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,16.0,25.0,19.0,3,No
+181,2018,BMW 740i,3.0,60,SemiAuto-8,2WD,Gasoline,CA,large car,3.0,21.0,29.0,24.0,5,No
+182,2018,BMW 740i,3.0,60,SemiAuto-8,2WD,Gasoline,FA,large car,3.0,21.0,29.0,24.0,5,No
+183,2018,BMW 740i,3.0,60,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,20.0,29.0,23.0,5,No
+184,2018,BMW 740i,3.0,60,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,20.0,29.0,23.0,5,No
+185,2018,BMW 750i,4.4,80,SemiAuto-8,2WD,Gasoline,CA,large car,3.0,17.0,25.0,20.0,4,No
+186,2018,BMW 750i,4.4,80,SemiAuto-8,2WD,Gasoline,FA,large car,3.0,17.0,25.0,20.0,4,No
+187,2018,BMW 750i,4.4,80,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,16.0,25.0,19.0,3,No
+188,2018,BMW 750i,4.4,80,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,16.0,25.0,19.0,3,No
+189,2018,BMW Alpina B6 Gran Coupe,4.4,80,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,16.0,25.0,19.0,3,No
+190,2018,BMW Alpina B6 Gran Coupe,4.4,80,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,16.0,25.0,19.0,3,No
+191,2018,BMW Alpina B7,4.4,80,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,16.0,25.0,19.0,3,No
+192,2018,BMW Alpina B7,4.4,80,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,16.0,25.0,19.0,3,No
+193,2018,BMW M2,3.0,60,AMS-7,2WD,Gasoline,CA,small car,3.0,20.0,26.0,22.0,4,No
+194,2018,BMW M2,3.0,60,AMS-7,2WD,Gasoline,FA,small car,3.0,20.0,26.0,22.0,4,No
+195,2018,BMW M2,3.0,60,Man-6,2WD,Gasoline,CA,small car,3.0,18.0,26.0,21.0,4,No
+196,2018,BMW M2,3.0,60,Man-6,2WD,Gasoline,FA,small car,3.0,18.0,26.0,21.0,4,No
+197,2018,BMW M240i Convertible,3.0,60,Man-6,2WD,Gasoline,CA,small car,3.0,18.0,27.0,22.0,4,No
+198,2018,BMW M240i Convertible,3.0,60,Man-6,2WD,Gasoline,FA,small car,3.0,18.0,27.0,22.0,4,No
+199,2018,BMW M240i Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,21.0,30.0,24.0,5,No
+200,2018,BMW M240i Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,21.0,30.0,24.0,5,No
+201,2018,BMW M240i Convertible,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,21.0,30.0,24.0,5,No
+202,2018,BMW M240i Convertible,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,21.0,30.0,24.0,5,No
+203,2018,BMW M240i Coupe,3.0,60,Man-6,2WD,Gasoline,CA,small car,3.0,19.0,28.0,22.0,4,No
+204,2018,BMW M240i Coupe,3.0,60,Man-6,2WD,Gasoline,FA,small car,3.0,19.0,28.0,22.0,4,No
+205,2018,BMW M240i Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,21.0,30.0,24.0,5,No
+206,2018,BMW M240i Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,21.0,30.0,24.0,5,No
+207,2018,BMW M240i Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,21.0,30.0,24.0,5,No
+208,2018,BMW M240i Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,21.0,30.0,24.0,5,No
+209,2018,BMW M3,3.0,60,AMS-7,2WD,Gasoline,CA,small car,3.0,17.0,24.0,20.0,4,No
+210,2018,BMW M3,3.0,60,AMS-7,2WD,Gasoline,FA,small car,3.0,17.0,24.0,20.0,4,No
+211,2018,BMW M3,3.0,60,Man-6,2WD,Gasoline,CA,small car,3.0,17.0,25.0,20.0,4,No
+212,2018,BMW M3,3.0,60,Man-6,2WD,Gasoline,FA,small car,3.0,17.0,25.0,20.0,4,No
+213,2018,BMW M4 Convertible,3.0,60,AMS-7,2WD,Gasoline,CA,small car,3.0,16.0,22.0,19.0,3,No
+214,2018,BMW M4 Convertible,3.0,60,AMS-7,2WD,Gasoline,FA,small car,3.0,16.0,22.0,19.0,3,No
+215,2018,BMW M4 Convertible,3.0,60,Man-6,2WD,Gasoline,CA,small car,3.0,17.0,25.0,20.0,4,No
+216,2018,BMW M4 Convertible,3.0,60,Man-6,2WD,Gasoline,FA,small car,3.0,17.0,25.0,20.0,4,No
+217,2018,BMW M4 Coupe,3.0,60,AMS-7,2WD,Gasoline,CA,small car,3.0,17.0,24.0,20.0,4,No
+218,2018,BMW M4 Coupe,3.0,60,AMS-7,2WD,Gasoline,FA,small car,3.0,17.0,24.0,20.0,4,No
+219,2018,BMW M4 Coupe,3.0,60,Man-6,2WD,Gasoline,CA,small car,3.0,17.0,25.0,20.0,4,No
+220,2018,BMW M4 Coupe,3.0,60,Man-6,2WD,Gasoline,FA,small car,3.0,17.0,25.0,20.0,4,No
+221,2018,BMW M4 DTM Champions Edition,3.0,60,AMS-7,2WD,Gasoline,CA,small car,3.0,17.0,24.0,20.0,4,No
+222,2018,BMW M4 DTM Champions Edition,3.0,60,AMS-7,2WD,Gasoline,FA,small car,3.0,17.0,24.0,20.0,4,No
+223,2018,BMW M550i,4.4,80,SemiAuto-8,4WD,Gasoline,CA,midsize car,3.0,16.0,25.0,19.0,3,No
+224,2018,BMW M550i,4.4,80,SemiAuto-8,4WD,Gasoline,FA,midsize car,3.0,16.0,25.0,19.0,3,No
+225,2018,BMW M6 Convertible,4.4,80,AMS-7,2WD,Gasoline,CA,small car,1.0,14.0,20.0,16.0,2,No
+226,2018,BMW M6 Convertible,4.4,80,AMS-7,2WD,Gasoline,FA,small car,1.0,14.0,20.0,16.0,2,No
+227,2018,BMW M6 Convertible,4.4,80,Man-6,2WD,Gasoline,CA,small car,1.0,15.0,22.0,17.0,3,No
+228,2018,BMW M6 Convertible,4.4,80,Man-6,2WD,Gasoline,FA,small car,1.0,15.0,22.0,17.0,3,No
+229,2018,BMW M6 Gran Coupe,4.4,80,AMS-7,2WD,Gasoline,CA,small car,1.0,14.0,20.0,16.0,2,No
+230,2018,BMW M6 Gran Coupe,4.4,80,AMS-7,2WD,Gasoline,FA,small car,1.0,14.0,20.0,16.0,2,No
+231,2018,BMW M6 Gran Coupe,4.4,80,Man-6,2WD,Gasoline,CA,small car,1.0,15.0,22.0,17.0,3,No
+232,2018,BMW M6 Gran Coupe,4.4,80,Man-6,2WD,Gasoline,FA,small car,1.0,15.0,22.0,17.0,3,No
+233,2018,BMW M760i xDrive,6.6,120,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,13.0,20.0,16.0,2,No
+234,2018,BMW M760i xDrive,6.6,120,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,13.0,20.0,16.0,2,No
+235,2018,BMW X1 sDrive28i,2.0,40,SemiAuto-8,2WD,Gasoline,CA,large car,7.0,23.0,32.0,26.0,5,No
+236,2018,BMW X1 sDrive28i,2.0,40,SemiAuto-8,2WD,Gasoline,FA,large car,7.0,23.0,32.0,26.0,5,No
+237,2018,BMW X1 xDrive28i,2.0,40,SemiAuto-8,4WD,Gasoline,CA,large car,7.0,22.0,31.0,25.0,5,No
+238,2018,BMW X1 xDrive28i,2.0,40,SemiAuto-8,4WD,Gasoline,FA,large car,7.0,22.0,31.0,25.0,5,No
+239,2018,BMW X4 M40i,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small SUV,3.0,18.0,25.0,21.0,4,No
+240,2018,BMW X4 M40i,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small SUV,3.0,18.0,25.0,21.0,4,No
+241,2018,BMW X4 xDrive28i,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small SUV,3.0,20.0,28.0,23.0,5,No
+242,2018,BMW X4 xDrive28i,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small SUV,3.0,20.0,28.0,23.0,5,No
+243,2018,BUICK Encore,1.4,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,27.0,33.0,30.0,7,Yes
+244,2018,BUICK Encore,1.4,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,27.0,33.0,30.0,7,Yes
+245,2018,BUICK Encore,1.4,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,26.0,31.0,28.0,6,No
+246,2018,BUICK Encore,1.4,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,26.0,31.0,28.0,6,No
+247,2018,BUICK Encore,1.4,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,24.0,30.0,27.0,6,No
+248,2018,BUICK Encore,1.4,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,24.0,30.0,27.0,6,No
+249,2018,BUICK Lacrosse,2.5,40,Auto-6,2WD,Gasoline,CA,midsize car,5.0,25.0,35.0,29.0,6,No
+250,2018,BUICK Lacrosse,2.5,40,Auto-6,2WD,Gasoline,FA,midsize car,5.0,25.0,35.0,29.0,6,No
+251,2018,BUICK Lacrosse,3.6,60,SemiAuto-9,2WD,Gasoline,CA,midsize car,5.0,21.0,30.0,24.0,5,No
+252,2018,BUICK Lacrosse,3.6,60,SemiAuto-9,2WD,Gasoline,FA,midsize car,5.0,21.0,30.0,24.0,5,No
+253,2018,BUICK Lacrosse,3.6,60,SemiAuto-9,4WD,Gasoline,CA,midsize car,5.0,20.0,29.0,23.0,5,No
+254,2018,BUICK Lacrosse,3.6,60,SemiAuto-9,4WD,Gasoline,FA,midsize car,5.0,20.0,29.0,23.0,5,No
+255,2018,CADILLAC ATS,2.0,40,Man-6,2WD,Gasoline,CA,small car,5.0,20.0,29.0,23.0,5,No
+256,2018,CADILLAC ATS,2.0,40,Man-6,2WD,Gasoline,FA,small car,5.0,20.0,29.0,23.0,5,No
+257,2018,CADILLAC ATS,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,5.0,22.0,31.0,25.0,5,No
+258,2018,CADILLAC ATS,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,5.0,22.0,31.0,25.0,5,No
+259,2018,CADILLAC ATS,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,5.0,22.0,30.0,25.0,5,No
+260,2018,CADILLAC ATS,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,5.0,22.0,30.0,25.0,5,No
+261,2018,CADILLAC ATS,3.6,60,SemiAuto-8,2WD,Gasoline,CA,small car,5.0,20.0,30.0,24.0,5,No
+262,2018,CADILLAC ATS,3.6,60,SemiAuto-8,2WD,Gasoline,FA,small car,5.0,20.0,30.0,24.0,5,No
+263,2018,CADILLAC ATS,3.6,60,SemiAuto-8,4WD,Gasoline,CA,small car,5.0,19.0,27.0,22.0,4,No
+264,2018,CADILLAC ATS,3.6,60,SemiAuto-8,4WD,Gasoline,FA,small car,5.0,19.0,27.0,22.0,4,No
+265,2018,CADILLAC ATS-V,3.6,60,Man-6,2WD,Gasoline,CA,small car,3.0,16.0,23.0,19.0,3,No
+266,2018,CADILLAC ATS-V,3.6,60,Man-6,2WD,Gasoline,FA,small car,3.0,16.0,23.0,19.0,3,No
+267,2018,CADILLAC ATS-V,3.6,60,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,17.0,25.0,20.0,4,No
+268,2018,CADILLAC ATS-V,3.6,60,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,17.0,25.0,20.0,4,No
+269,2018,CADILLAC CT6,2.0,40,SemiAuto-8,2WD,Gasoline,CA,large car,5.0,22.0,30.0,25.0,5,No
+270,2018,CADILLAC CT6,2.0,40,SemiAuto-8,2WD,Gasoline,FA,large car,5.0,22.0,30.0,25.0,5,No
+271,2018,CADILLAC CT6,3.0,60,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,18.0,26.0,21.0,4,No
+272,2018,CADILLAC CT6,3.0,60,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,18.0,26.0,21.0,4,No
+273,2018,CADILLAC CT6,3.6,60,SemiAuto-8,4WD,Gasoline,CA,large car,5.0,18.0,27.0,21.0,4,No
+274,2018,CADILLAC CT6,3.6,60,SemiAuto-8,4WD,Gasoline,FA,large car,5.0,18.0,27.0,21.0,4,No
+275,2018,CADILLAC CTS,2.0,40,SemiAuto-8,2WD,Gasoline,CA,midsize car,5.0,22.0,30.0,25.0,5,No
+276,2018,CADILLAC CTS,2.0,40,SemiAuto-8,2WD,Gasoline,FA,midsize car,5.0,22.0,30.0,25.0,5,No
+277,2018,CADILLAC CTS,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,5.0,21.0,29.0,24.0,5,No
+278,2018,CADILLAC CTS,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,5.0,21.0,29.0,24.0,5,No
+279,2018,CADILLAC CTS,3.6,60,SemiAuto-8,2WD,Gasoline,CA,midsize car,3.0,16.0,24.0,19.0,3,No
+280,2018,CADILLAC CTS,3.6,60,SemiAuto-8,2WD,Gasoline,FA,midsize car,3.0,16.0,24.0,19.0,3,No
+281,2018,CADILLAC CTS,3.6,60,SemiAuto-8,2WD,Gasoline,CA,midsize car,5.0,20.0,30.0,24.0,5,No
+282,2018,CADILLAC CTS,3.6,60,SemiAuto-8,2WD,Gasoline,FA,midsize car,5.0,20.0,30.0,24.0,5,No
+283,2018,CADILLAC CTS,3.6,60,SemiAuto-8,4WD,Gasoline,CA,midsize car,5.0,19.0,27.0,22.0,4,No
+284,2018,CADILLAC CTS,3.6,60,SemiAuto-8,4WD,Gasoline,FA,midsize car,5.0,19.0,27.0,22.0,4,No
+285,2018,CADILLAC CTS-V,6.2,80,SemiAuto-8,2WD,Gasoline,CA,midsize car,1.0,14.0,21.0,17.0,3,No
+286,2018,CADILLAC CTS-V,6.2,80,SemiAuto-8,2WD,Gasoline,FA,midsize car,1.0,14.0,21.0,17.0,3,No
+287,2018,CADILLAC Escalade,6.2,80,Auto-10,2WD,Gasoline,CA,standard SUV,3.0,14.0,23.0,17.0,3,No
+288,2018,CADILLAC Escalade,6.2,80,Auto-10,2WD,Gasoline,FA,standard SUV,3.0,14.0,23.0,17.0,3,No
+289,2018,CADILLAC Escalade,6.2,80,Auto-10,4WD,Gasoline,CA,standard SUV,3.0,14.0,21.0,17.0,3,No
+290,2018,CADILLAC Escalade,6.2,80,Auto-10,4WD,Gasoline,FA,standard SUV,3.0,14.0,21.0,17.0,3,No
+291,2018,CADILLAC XT5,3.6,60,SemiAuto-8,2WD,Gasoline,CA,small SUV,5.0,19.0,26.0,22.0,4,No
+292,2018,CADILLAC XT5,3.6,60,SemiAuto-8,2WD,Gasoline,FA,small SUV,5.0,19.0,26.0,22.0,4,No
+293,2018,CADILLAC XT5,3.6,60,SemiAuto-8,4WD,Gasoline,CA,small SUV,5.0,18.0,25.0,21.0,4,No
+294,2018,CADILLAC XT5,3.6,60,SemiAuto-8,4WD,Gasoline,FA,small SUV,5.0,18.0,25.0,21.0,4,No
+295,2018,CHEVROLET Camaro,2.0,40,Man-6,2WD,Gasoline,CA,small car,5.0,20.0,30.0,23.0,5,No
+296,2018,CHEVROLET Camaro,2.0,40,Man-6,2WD,Gasoline,FA,small car,5.0,20.0,30.0,23.0,5,No
+297,2018,CHEVROLET Camaro,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,5.0,22.0,31.0,25.0,5,No
+298,2018,CHEVROLET Camaro,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,5.0,22.0,31.0,25.0,5,No
+299,2018,CHEVROLET Camaro,3.6,60,Man-6,2WD,Gasoline,CA,small car,5.0,16.0,28.0,20.0,4,No
+300,2018,CHEVROLET Camaro,3.6,60,Man-6,2WD,Gasoline,FA,small car,5.0,16.0,28.0,20.0,4,No
+301,2018,CHEVROLET Camaro,3.6,60,SemiAuto-8,2WD,Gasoline,CA,small car,5.0,19.0,29.0,23.0,5,No
+302,2018,CHEVROLET Camaro,3.6,60,SemiAuto-8,2WD,Gasoline,FA,small car,5.0,19.0,29.0,23.0,5,No
+303,2018,CHEVROLET Camaro,6.2,80,Man-6,2WD,Gasoline,CA,small car,1.0,14.0,20.0,16.0,2,No
+304,2018,CHEVROLET Camaro,6.2,80,Man-6,2WD,Gasoline,FA,small car,1.0,14.0,20.0,16.0,2,No
+305,2018,CHEVROLET Camaro,6.2,80,Man-6,2WD,Gasoline,CA,small car,1.0,16.0,25.0,19.0,3,No
+306,2018,CHEVROLET Camaro,6.2,80,Man-6,2WD,Gasoline,FA,small car,1.0,16.0,25.0,19.0,3,No
+307,2018,CHEVROLET Camaro,6.2,80,SemiAuto-10,2WD,Gasoline,CA,small car,1.0,13.0,21.0,15.0,2,No
+308,2018,CHEVROLET Camaro,6.2,80,SemiAuto-10,2WD,Gasoline,FA,small car,1.0,13.0,21.0,15.0,2,No
+309,2018,CHEVROLET Camaro,6.2,80,SemiAuto-8,2WD,Gasoline,CA,small car,1.0,17.0,27.0,20.0,4,No
+310,2018,CHEVROLET Camaro,6.2,80,SemiAuto-8,2WD,Gasoline,FA,small car,1.0,17.0,27.0,20.0,4,No
+311,2018,CHEVROLET Colorado,2.5,40,Auto-6,2WD,Gasoline,CA,pickup,5.0,20.0,26.0,22.0,4,No
+312,2018,CHEVROLET Colorado,2.5,40,Auto-6,2WD,Gasoline,FA,pickup,5.0,20.0,26.0,22.0,4,No
+313,2018,CHEVROLET Colorado,2.5,40,Auto-6,4WD,Gasoline,CA,pickup,5.0,19.0,24.0,21.0,4,No
+314,2018,CHEVROLET Colorado,2.5,40,Auto-6,4WD,Gasoline,FA,pickup,5.0,19.0,24.0,21.0,4,No
+315,2018,CHEVROLET Colorado,2.5,40,Man-6,2WD,Gasoline,CA,pickup,5.0,20.0,26.0,22.0,4,No
+316,2018,CHEVROLET Colorado,2.5,40,Man-6,2WD,Gasoline,FA,pickup,5.0,20.0,26.0,22.0,4,No
+317,2018,CHEVROLET Colorado,2.8,40,Auto-6,2WD,Diesel,CA,pickup,3.0,22.0,30.0,25.0,4,No
+318,2018,CHEVROLET Colorado,2.8,40,Auto-6,2WD,Diesel,FA,pickup,3.0,22.0,30.0,25.0,4,No
+319,2018,CHEVROLET Colorado,2.8,40,Auto-6,4WD,Diesel,CA,pickup,3.0,20.0,28.0,23.0,4,No
+320,2018,CHEVROLET Colorado,2.8,40,Auto-6,4WD,Diesel,FA,pickup,3.0,20.0,28.0,23.0,4,No
+321,2018,CHEVROLET Colorado,3.6,60,Auto-8,2WD,Gasoline,CA,pickup,5.0,18.0,25.0,20.0,4,No
+322,2018,CHEVROLET Colorado,3.6,60,Auto-8,2WD,Gasoline,FA,pickup,5.0,18.0,25.0,20.0,4,No
+323,2018,CHEVROLET Colorado,3.6,60,Auto-8,2WD,Gasoline,CA,special purpose,5.0,15.0,15.0,15.0,2,No
+324,2018,CHEVROLET Colorado,3.6,60,Auto-8,2WD,Gasoline,FA,special purpose,5.0,15.0,15.0,15.0,2,No
+325,2018,CHEVROLET Colorado,3.6,60,Auto-8,4WD,Gasoline,CA,pickup,5.0,17.0,24.0,19.0,3,No
+326,2018,CHEVROLET Colorado,3.6,60,Auto-8,4WD,Gasoline,FA,pickup,5.0,17.0,24.0,19.0,3,No
+327,2018,CHEVROLET Colorado ZR2,2.8,40,Auto-6,4WD,Diesel,CA,pickup,3.0,19.0,22.0,20.0,3,No
+328,2018,CHEVROLET Colorado ZR2,2.8,40,Auto-6,4WD,Diesel,FA,pickup,3.0,19.0,22.0,20.0,3,No
+329,2018,CHEVROLET Colorado ZR2,3.6,60,Auto-8,4WD,Gasoline,CA,pickup,5.0,16.0,18.0,17.0,3,No
+330,2018,CHEVROLET Colorado ZR2,3.6,60,Auto-8,4WD,Gasoline,FA,pickup,5.0,16.0,18.0,17.0,3,No
+331,2018,CHEVROLET Corvette,6.2,80,Man-7,2WD,Gasoline,CA,small car,1.0,15.0,22.0,18.0,3,No
+332,2018,CHEVROLET Corvette,6.2,80,Man-7,2WD,Gasoline,CA,small car,1.0,16.0,25.0,19.0,3,No
+333,2018,CHEVROLET Corvette,6.2,80,Man-7,2WD,Gasoline,FA,small car,1.0,15.0,22.0,18.0,3,No
+334,2018,CHEVROLET Corvette,6.2,80,Man-7,2WD,Gasoline,FA,small car,1.0,16.0,25.0,19.0,3,No
+335,2018,CHEVROLET Corvette,6.2,80,SemiAuto-8,2WD,Gasoline,CA,small car,1.0,13.0,23.0,16.0,2,No
+336,2018,CHEVROLET Corvette,6.2,80,SemiAuto-8,2WD,Gasoline,CA,small car,1.0,15.0,25.0,18.0,3,No
+337,2018,CHEVROLET Corvette,6.2,80,SemiAuto-8,2WD,Gasoline,FA,small car,1.0,13.0,23.0,16.0,2,No
+338,2018,CHEVROLET Corvette,6.2,80,SemiAuto-8,2WD,Gasoline,FA,small car,1.0,15.0,25.0,18.0,3,No
+339,2018,CHEVROLET Cruze,1.4,40,Man-6,2WD,Gasoline,CA,small car,6.0,27.0,40.0,32.0,7,Yes
+340,2018,CHEVROLET Cruze,1.4,40,Man-6,2WD,Gasoline,FA,small car,6.0,27.0,40.0,32.0,7,Yes
+341,2018,CHEVROLET Cruze,1.4,40,SemiAuto-6,2WD,Gasoline,CA,small car,6.0,29.0,40.0,33.0,8,Yes
+342,2018,CHEVROLET Cruze,1.4,40,SemiAuto-6,2WD,Gasoline,FA,small car,6.0,29.0,40.0,33.0,8,Yes
+343,2018,CHEVROLET Cruze,1.6,40,Auto-9,2WD,Diesel,CA,small car,3.0,31.0,47.0,37.0,7,Yes
+344,2018,CHEVROLET Cruze,1.6,40,Auto-9,2WD,Diesel,FA,small car,3.0,31.0,47.0,37.0,7,Yes
+345,2018,CHEVROLET Cruze,1.6,40,Man-6,2WD,Diesel,CA,small car,3.0,30.0,52.0,37.0,7,Yes
+346,2018,CHEVROLET Cruze,1.6,40,Man-6,2WD,Diesel,FA,small car,3.0,30.0,52.0,37.0,7,Yes
+347,2018,CHEVROLET Cruze Hatchback,1.4,40,Man-6,2WD,Gasoline,CA,midsize car,6.0,27.0,38.0,31.0,7,Yes
+348,2018,CHEVROLET Cruze Hatchback,1.4,40,Man-6,2WD,Gasoline,FA,midsize car,6.0,27.0,38.0,31.0,7,Yes
+349,2018,CHEVROLET Cruze Hatchback,1.4,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,6.0,29.0,38.0,32.0,7,Yes
+350,2018,CHEVROLET Cruze Hatchback,1.4,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,6.0,29.0,38.0,32.0,7,Yes
+351,2018,CHEVROLET Cruze Hatchback,1.6,40,Auto-9,2WD,Diesel,CA,midsize car,3.0,30.0,45.0,35.0,7,Yes
+352,2018,CHEVROLET Cruze Hatchback,1.6,40,Auto-9,2WD,Diesel,FA,midsize car,3.0,30.0,45.0,35.0,7,Yes
+353,2018,CHEVROLET Cruze Hatchback,1.6,40,Man-6,2WD,Diesel,CA,midsize car,3.0,29.0,48.0,35.0,7,Yes
+354,2018,CHEVROLET Cruze Hatchback,1.6,40,Man-6,2WD,Diesel,FA,midsize car,3.0,29.0,48.0,35.0,7,Yes
+355,2018,CHEVROLET Cruze Premier,1.4,40,SemiAuto-6,2WD,Gasoline,CA,small car,6.0,29.0,39.0,33.0,8,Yes
+356,2018,CHEVROLET Cruze Premier,1.4,40,SemiAuto-6,2WD,Gasoline,FA,small car,6.0,29.0,39.0,33.0,8,Yes
+357,2018,CHEVROLET Cruze Premier Hatchback,1.4,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,6.0,28.0,37.0,31.0,7,Yes
+358,2018,CHEVROLET Cruze Premier Hatchback,1.4,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,6.0,28.0,37.0,31.0,7,Yes
+359,2018,CHEVROLET Equinox,1.5,40,Auto-6,2WD,Gasoline,CA,small SUV,5.0,26.0,32.0,28.0,6,No
+360,2018,CHEVROLET Equinox,1.5,40,Auto-6,2WD,Gasoline,FA,small SUV,5.0,26.0,32.0,28.0,6,No
+361,2018,CHEVROLET Equinox,1.5,40,Auto-6,4WD,Gasoline,CA,small SUV,5.0,24.0,30.0,26.0,5,No
+362,2018,CHEVROLET Equinox,1.5,40,Auto-6,4WD,Gasoline,FA,small SUV,5.0,24.0,30.0,26.0,5,No
+363,2018,CHEVROLET Equinox,1.6,40,Auto-6,2WD,Diesel,CA,small SUV,3.0,28.0,39.0,32.0,6,No
+364,2018,CHEVROLET Equinox,1.6,40,Auto-6,2WD,Diesel,FA,small SUV,3.0,28.0,39.0,32.0,6,No
+365,2018,CHEVROLET Equinox,1.6,40,Auto-6,4WD,Diesel,CA,small SUV,3.0,28.0,38.0,32.0,6,No
+366,2018,CHEVROLET Equinox,1.6,40,Auto-6,4WD,Diesel,FA,small SUV,3.0,28.0,38.0,32.0,6,No
+367,2018,CHEVROLET Equinox,2.0,40,Auto-9,2WD,Gasoline,CA,small SUV,5.0,22.0,29.0,25.0,5,No
+368,2018,CHEVROLET Equinox,2.0,40,Auto-9,2WD,Gasoline,FA,small SUV,5.0,22.0,29.0,25.0,5,No
+369,2018,CHEVROLET Equinox,2.0,40,Auto-9,4WD,Gasoline,CA,small SUV,5.0,22.0,28.0,24.0,5,No
+370,2018,CHEVROLET Equinox,2.0,40,Auto-9,4WD,Gasoline,FA,small SUV,5.0,22.0,28.0,24.0,5,No
+371,2018,CHEVROLET Impala,2.5,40,SemiAuto-6,2WD,Gasoline,CA,large car,3.0,22.0,30.0,25.0,5,No
+372,2018,CHEVROLET Impala,2.5,40,SemiAuto-6,2WD,Gasoline,FA,large car,3.0,22.0,30.0,25.0,5,No
+373,2018,CHEVROLET Impala,3.6,60,SemiAuto-6,2WD,Gasoline,CA,large car,7.0,19.0,28.0,22.0,4,No
+374,2018,CHEVROLET Impala,3.6,60,SemiAuto-6,2WD,Gasoline,FA,large car,7.0,19.0,28.0,22.0,4,No
+375,2018,CHEVROLET Malibu,1.5,40,Auto-6,2WD,Gasoline,CA,midsize car,6.0,27.0,36.0,30.0,7,Yes
+376,2018,CHEVROLET Malibu,1.5,40,Auto-6,2WD,Gasoline,FA,midsize car,6.0,27.0,36.0,30.0,7,Yes
+377,2018,CHEVROLET Malibu,1.5,40,Auto-6,2WD,Gasoline,CA,midsize car,7.0,27.0,36.0,30.0,7,Yes
+378,2018,CHEVROLET Malibu,1.5,40,Auto-6,2WD,Gasoline,FA,midsize car,7.0,27.0,36.0,30.0,7,Yes
+379,2018,CHEVROLET Malibu,1.8,40,CVT,2WD,Gasoline,CA,midsize car,3.0,49.0,43.0,46.0,10,Yes
+380,2018,CHEVROLET Malibu,1.8,40,CVT,2WD,Gasoline,FA,midsize car,3.0,49.0,43.0,46.0,10,Yes
+381,2018,CHEVROLET Malibu,2.0,40,Auto-9,2WD,Gasoline,CA,midsize car,5.0,22.0,32.0,26.0,5,No
+382,2018,CHEVROLET Malibu,2.0,40,Auto-9,2WD,Gasoline,FA,midsize car,5.0,22.0,32.0,26.0,5,No
+383,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,2WD,Gasoline,CA,pickup,3.0,16.0,23.0,19.0,3,No
+384,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,2WD,Gasoline,CA,special purpose,3.0,15.0,20.0,17.0,3,No
+385,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,2WD,Gasoline,FA,pickup,3.0,16.0,23.0,19.0,3,No
+386,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,2WD,Gasoline,FA,special purpose,3.0,15.0,20.0,17.0,3,No
+387,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,4WD,Gasoline,CA,pickup,3.0,16.0,22.0,18.0,3,No
+388,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,4WD,Gasoline,CA,special purpose,3.0,15.0,19.0,17.0,3,No
+389,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,4WD,Gasoline,FA,pickup,3.0,16.0,22.0,18.0,3,No
+390,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,4WD,Gasoline,FA,special purpose,3.0,15.0,19.0,17.0,3,No
+391,2018,CHEVROLET Silverado 15,5.3,80,Auto-8,2WD,Gasoline,CA,pickup,3.0,18.0,24.0,20.0,4,No
+392,2018,CHEVROLET Silverado 15,5.3,80,Auto-8,2WD,Gasoline,FA,pickup,3.0,18.0,24.0,20.0,4,No
+393,2018,CHEVROLET Silverado 15,5.3,80,Auto-8,2WD,Gasoline,CA,pickup,3.0,16.0,22.0,18.0,3,No
+394,2018,CHEVROLET Silverado 15,5.3,80,Auto-8,2WD,Gasoline,FA,pickup,3.0,16.0,22.0,18.0,3,No
+395,2018,CHEVROLET Silverado 15,5.3,80,Auto-8,4WD,Gasoline,CA,pickup,3.0,16.0,21.0,18.0,3,No
+396,2018,CHEVROLET Silverado 15,5.3,80,Auto-8,4WD,Gasoline,FA,pickup,3.0,16.0,21.0,18.0,3,No
+397,2018,CHEVROLET Silverado 15,5.3,80,Auto-8,4WD,Gasoline,CA,pickup,3.0,15.0,20.0,17.0,3,No
+398,2018,CHEVROLET Silverado 15,5.3,80,Auto-8,4WD,Gasoline,FA,pickup,3.0,15.0,20.0,17.0,3,No
+399,2018,CHEVROLET Silverado 15,6.2,80,Auto-8,2WD,Gasoline,CA,pickup,3.0,15.0,21.0,17.0,3,No
+400,2018,CHEVROLET Silverado 15,6.2,80,Auto-8,2WD,Gasoline,FA,pickup,3.0,15.0,21.0,17.0,3,No
+401,2018,CHEVROLET Silverado 15,6.2,80,Auto-8,4WD,Gasoline,CA,pickup,3.0,15.0,20.0,17.0,3,No
+402,2018,CHEVROLET Silverado 15,6.2,80,Auto-8,4WD,Gasoline,FA,pickup,3.0,15.0,20.0,17.0,3,No
+403,2018,CHEVROLET Sonic,1.4,40,Man-6,2WD,Gasoline,CA,small car,3.0,28.0,37.0,32.0,7,Yes
+404,2018,CHEVROLET Sonic,1.4,40,Man-6,2WD,Gasoline,FA,small car,3.0,28.0,37.0,32.0,7,Yes
+405,2018,CHEVROLET Sonic,1.4,40,SemiAuto-6,2WD,Gasoline,CA,small car,3.0,27.0,35.0,30.0,7,Yes
+406,2018,CHEVROLET Sonic,1.4,40,SemiAuto-6,2WD,Gasoline,FA,small car,3.0,27.0,35.0,30.0,7,Yes
+407,2018,CHEVROLET Sonic 5,1.4,40,Man-6,2WD,Gasoline,CA,station wagon,3.0,28.0,37.0,32.0,7,Yes
+408,2018,CHEVROLET Sonic 5,1.4,40,Man-6,2WD,Gasoline,FA,station wagon,3.0,28.0,37.0,32.0,7,Yes
+409,2018,CHEVROLET Sonic 5,1.4,40,SemiAuto-6,2WD,Gasoline,CA,station wagon,3.0,27.0,35.0,30.0,7,Yes
+410,2018,CHEVROLET Sonic 5,1.4,40,SemiAuto-6,2WD,Gasoline,FA,station wagon,3.0,27.0,35.0,30.0,7,Yes
+411,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,2WD,Gasoline,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+412,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,2WD,Gasoline,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+413,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,4WD,Gasoline,CA,standard SUV,3.0,15.0,22.0,18.0,3,No
+414,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,4WD,Gasoline,FA,standard SUV,3.0,15.0,22.0,18.0,3,No
+415,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,2WD,Gasoline,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+416,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,2WD,Gasoline,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+417,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,4WD,Gasoline,CA,standard SUV,3.0,16.0,22.0,18.0,3,No
+418,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,4WD,Gasoline,FA,standard SUV,3.0,16.0,22.0,18.0,3,No
+419,2018,CHEVROLET Tahoe 1500,6.2,80,Auto-10,2WD,Gasoline,CA,standard SUV,3.0,14.0,23.0,17.0,3,No
+420,2018,CHEVROLET Tahoe 1500,6.2,80,Auto-10,2WD,Gasoline,FA,standard SUV,3.0,14.0,23.0,17.0,3,No
+421,2018,CHEVROLET Tahoe 1500,6.2,80,Auto-10,4WD,Gasoline,CA,standard SUV,3.0,14.0,22.0,17.0,3,No
+422,2018,CHEVROLET Tahoe 1500,6.2,80,Auto-10,4WD,Gasoline,FA,standard SUV,3.0,14.0,22.0,17.0,3,No
+423,2018,CHEVROLET Traverse,3.6,60,SemiAuto-9,2WD,Gasoline,CA,standard SUV,5.0,18.0,27.0,21.0,4,No
+424,2018,CHEVROLET Traverse,3.6,60,SemiAuto-9,2WD,Gasoline,FA,standard SUV,5.0,18.0,27.0,21.0,4,No
+425,2018,CHEVROLET Traverse,3.6,60,SemiAuto-9,4WD,Gasoline,CA,standard SUV,5.0,17.0,25.0,20.0,4,No
+426,2018,CHEVROLET Traverse,3.6,60,SemiAuto-9,4WD,Gasoline,FA,standard SUV,5.0,17.0,25.0,20.0,4,No
+427,2018,CHEVROLET Trax,1.4,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,24.0,30.0,27.0,6,No
+428,2018,CHEVROLET Trax,1.4,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,24.0,30.0,27.0,6,No
+429,2018,CHRYSLER 300,3.6,60,Auto-8,2WD,Gasoline,CA,large car,3.0,19.0,30.0,23.0,5,No
+430,2018,CHRYSLER 300,3.6,60,Auto-8,2WD,Gasoline,FA,large car,3.0,19.0,30.0,23.0,5,No
+431,2018,CHRYSLER 300,3.6,60,Auto-8,4WD,Gasoline,CA,large car,3.0,18.0,27.0,21.0,4,No
+432,2018,CHRYSLER 300,3.6,60,Auto-8,4WD,Gasoline,FA,large car,3.0,18.0,27.0,21.0,4,No
+433,2018,CHRYSLER 300,5.7,80,Auto-8,2WD,Gasoline,CA,large car,3.0,16.0,25.0,19.0,3,No
+434,2018,CHRYSLER 300,5.7,80,Auto-8,2WD,Gasoline,FA,large car,3.0,16.0,25.0,19.0,3,No
+435,2018,CHRYSLER Pacifica,3.6,60,Auto-9,2WD,Gasoline,CA,minivan,3.0,18.0,28.0,22.0,4,No
+436,2018,CHRYSLER Pacifica,3.6,60,Auto-9,2WD,Gasoline,CA,minivan,3.0,19.0,28.0,22.0,4,No
+437,2018,CHRYSLER Pacifica,3.6,60,Auto-9,2WD,Gasoline,FA,minivan,3.0,18.0,28.0,22.0,4,No
+438,2018,CHRYSLER Pacifica,3.6,60,Auto-9,2WD,Gasoline,FA,minivan,3.0,19.0,28.0,22.0,4,No
+439,2018,DODGE Challenger,3.6,60,Auto-8,2WD,Gasoline,CA,midsize car,3.0,19.0,30.0,23.0,5,No
+440,2018,DODGE Challenger,3.6,60,Auto-8,2WD,Gasoline,FA,midsize car,3.0,19.0,30.0,23.0,5,No
+441,2018,DODGE Challenger,5.7,80,Auto-8,2WD,Gasoline,CA,midsize car,3.0,16.0,25.0,19.0,3,No
+442,2018,DODGE Challenger,5.7,80,Auto-8,2WD,Gasoline,FA,midsize car,3.0,16.0,25.0,19.0,3,No
+443,2018,DODGE Challenger,5.7,80,Man-6,2WD,Gasoline,CA,midsize car,1.0,15.0,23.0,18.0,3,No
+444,2018,DODGE Challenger,5.7,80,Man-6,2WD,Gasoline,FA,midsize car,1.0,15.0,23.0,18.0,3,No
+445,2018,DODGE Challenger,6.4,80,Auto-8,2WD,Gasoline,CA,midsize car,1.0,15.0,25.0,18.0,3,No
+446,2018,DODGE Challenger,6.4,80,Auto-8,2WD,Gasoline,FA,midsize car,1.0,15.0,25.0,18.0,3,No
+447,2018,DODGE Challenger,6.4,80,Man-6,2WD,Gasoline,CA,midsize car,1.0,14.0,23.0,17.0,3,No
+448,2018,DODGE Challenger,6.4,80,Man-6,2WD,Gasoline,FA,midsize car,1.0,14.0,23.0,17.0,3,No
+449,2018,DODGE Challenger GT,3.6,60,Auto-8,4WD,Gasoline,CA,midsize car,3.0,18.0,27.0,21.0,4,No
+450,2018,DODGE Challenger GT,3.6,60,Auto-8,4WD,Gasoline,FA,midsize car,3.0,18.0,27.0,21.0,4,No
+451,2018,DODGE Challenger SRT,6.2,80,Auto-8,2WD,Gasoline,CA,midsize car,1.0,13.0,22.0,16.0,2,No
+452,2018,DODGE Challenger SRT,6.2,80,Auto-8,2WD,Gasoline,FA,midsize car,1.0,13.0,22.0,16.0,2,No
+453,2018,DODGE Challenger SRT,6.2,80,Man-6,2WD,Gasoline,CA,midsize car,1.0,13.0,21.0,16.0,2,No
+454,2018,DODGE Challenger SRT,6.2,80,Man-6,2WD,Gasoline,FA,midsize car,1.0,13.0,21.0,16.0,2,No
+455,2018,DODGE Challenger SRT,6.4,80,Auto-8,2WD,Gasoline,CA,midsize car,1.0,15.0,25.0,18.0,3,No
+456,2018,DODGE Challenger SRT,6.4,80,Auto-8,2WD,Gasoline,FA,midsize car,1.0,15.0,25.0,18.0,3,No
+457,2018,DODGE Challenger SRT,6.4,80,Man-6,2WD,Gasoline,CA,midsize car,1.0,14.0,23.0,17.0,3,No
+458,2018,DODGE Challenger SRT,6.4,80,Man-6,2WD,Gasoline,FA,midsize car,1.0,14.0,23.0,17.0,3,No
+459,2018,DODGE Charger,3.6,60,Auto-8,2WD,Gasoline,CA,large car,3.0,19.0,30.0,23.0,5,No
+460,2018,DODGE Charger,3.6,60,Auto-8,2WD,Gasoline,FA,large car,3.0,19.0,30.0,23.0,5,No
+461,2018,DODGE Charger,3.6,60,Auto-8,4WD,Gasoline,CA,large car,3.0,18.0,27.0,21.0,4,No
+462,2018,DODGE Charger,3.6,60,Auto-8,4WD,Gasoline,FA,large car,3.0,18.0,27.0,21.0,4,No
+463,2018,DODGE Charger,5.7,80,Auto-8,2WD,Gasoline,CA,large car,3.0,16.0,25.0,19.0,3,No
+464,2018,DODGE Charger,5.7,80,Auto-8,2WD,Gasoline,FA,large car,3.0,16.0,25.0,19.0,3,No
+465,2018,DODGE Charger,6.4,80,Auto-8,2WD,Gasoline,CA,large car,1.0,15.0,25.0,18.0,3,No
+466,2018,DODGE Charger,6.4,80,Auto-8,2WD,Gasoline,FA,large car,1.0,15.0,25.0,18.0,3,No
+467,2018,DODGE Charger SRT,6.2,80,Auto-8,2WD,Gasoline,CA,large car,1.0,13.0,22.0,16.0,2,No
+468,2018,DODGE Charger SRT,6.2,80,Auto-8,2WD,Gasoline,FA,large car,1.0,13.0,22.0,16.0,2,No
+469,2018,DODGE Charger SRT,6.4,80,Auto-8,2WD,Gasoline,CA,large car,1.0,15.0,25.0,18.0,3,No
+470,2018,DODGE Charger SRT,6.4,80,Auto-8,2WD,Gasoline,FA,large car,1.0,15.0,25.0,18.0,3,No
+471,2018,DODGE Durango,3.6,60,Auto-8,2WD,Gasoline,CA,standard SUV,5.0,19.0,26.0,21.0,4,No
+472,2018,DODGE Durango,3.6,60,Auto-8,2WD,Gasoline,FA,standard SUV,5.0,19.0,26.0,21.0,4,No
+473,2018,DODGE Durango,3.6,60,Auto-8,4WD,Gasoline,CA,standard SUV,5.0,18.0,25.0,21.0,4,No
+474,2018,DODGE Durango,3.6,60,Auto-8,4WD,Gasoline,FA,standard SUV,5.0,18.0,25.0,21.0,4,No
+475,2018,DODGE Durango,5.7,80,Auto-8,2WD,Gasoline,CA,standard SUV,3.0,14.0,22.0,17.0,3,No
+476,2018,DODGE Durango,5.7,80,Auto-8,2WD,Gasoline,FA,standard SUV,3.0,14.0,22.0,17.0,3,No
+477,2018,DODGE Durango,5.7,80,Auto-8,4WD,Gasoline,CA,standard SUV,3.0,14.0,22.0,17.0,3,No
+478,2018,DODGE Durango,5.7,80,Auto-8,4WD,Gasoline,FA,standard SUV,3.0,14.0,22.0,17.0,3,No
+479,2018,DODGE Durango  SRT,6.4,80,Auto-8,4WD,Gasoline,CA,standard SUV,1.0,13.0,19.0,15.0,2,No
+480,2018,DODGE Durango  SRT,6.4,80,Auto-8,4WD,Gasoline,FA,standard SUV,1.0,13.0,19.0,15.0,2,No
+481,2018,DODGE Journey,2.4,40,Auto-4,2WD,Gasoline,CA,small SUV,3.0,19.0,25.0,21.0,4,No
+482,2018,DODGE Journey,2.4,40,Auto-4,2WD,Gasoline,FA,small SUV,3.0,19.0,25.0,21.0,4,No
+483,2018,DODGE Journey,3.6,60,Auto-6,4WD,Gasoline,CA,small SUV,3.0,16.0,24.0,19.0,3,No
+484,2018,DODGE Journey,3.6,60,Auto-6,4WD,Gasoline,FA,small SUV,3.0,16.0,24.0,19.0,3,No
+485,2018,FERRARI 488 Spider,3.9,80,AutoMan-7,2WD,Gasoline,CA,small car,3.0,15.0,22.0,18.0,3,No
+486,2018,FERRARI 488 Spider,3.9,80,AutoMan-7,2WD,Gasoline,CA,small car,3.0,16.0,22.0,18.0,3,No
+487,2018,FERRARI 488 Spider,3.9,80,AutoMan-7,2WD,Gasoline,FA,small car,3.0,15.0,22.0,18.0,3,No
+488,2018,FERRARI 488 Spider,3.9,80,AutoMan-7,2WD,Gasoline,FA,small car,3.0,16.0,22.0,18.0,3,No
+489,2018,FERRARI 488 gtb,3.9,80,AutoMan-7,2WD,Gasoline,CA,small car,3.0,15.0,22.0,18.0,3,No
+490,2018,FERRARI 488 gtb,3.9,80,AutoMan-7,2WD,Gasoline,CA,small car,3.0,16.0,22.0,18.0,3,No
+491,2018,FERRARI 488 gtb,3.9,80,AutoMan-7,2WD,Gasoline,FA,small car,3.0,15.0,22.0,18.0,3,No
+492,2018,FERRARI 488 gtb,3.9,80,AutoMan-7,2WD,Gasoline,FA,small car,3.0,16.0,22.0,18.0,3,No
+493,2018,FERRARI 812 Superfast,6.5,120,AutoMan-7,2WD,Gasoline,CA,small car,3.0,12.0,16.0,13.0,1,No
+494,2018,FERRARI 812 Superfast,6.5,120,AutoMan-7,2WD,Gasoline,FA,small car,3.0,12.0,16.0,13.0,1,No
+495,2018,FERRARI California T,3.9,80,AutoMan-7,2WD,Gasoline,CA,small car,3.0,16.0,23.0,18.0,3,No
+496,2018,FERRARI California T,3.9,80,AutoMan-7,2WD,Gasoline,CA,small car,3.0,16.0,23.0,19.0,3,No
+497,2018,FERRARI California T,3.9,80,AutoMan-7,2WD,Gasoline,FA,small car,3.0,16.0,23.0,18.0,3,No
+498,2018,FERRARI California T,3.9,80,AutoMan-7,2WD,Gasoline,FA,small car,3.0,16.0,23.0,19.0,3,No
+499,2018,FERRARI GTC4Lusso,6.3,120,AutoMan-7,4WD,Gasoline,CA,small car,3.0,12.0,17.0,13.0,1,No
+500,2018,FERRARI GTC4Lusso,6.3,120,AutoMan-7,4WD,Gasoline,FA,small car,3.0,12.0,17.0,13.0,1,No
+501,2018,FERRARI GTC4Lusso T,3.9,80,AutoMan-7,2WD,Gasoline,CA,small car,3.0,15.0,21.0,17.0,3,No
+502,2018,FERRARI GTC4Lusso T,3.9,80,AutoMan-7,2WD,Gasoline,FA,small car,3.0,15.0,21.0,17.0,3,No
+503,2018,FIAT 500L,1.4,40,Auto-6,2WD,Gasoline,CA,station wagon,3.0,22.0,30.0,25.0,5,No
+504,2018,FIAT 500L,1.4,40,Auto-6,2WD,Gasoline,FA,station wagon,3.0,22.0,30.0,25.0,5,No
+505,2018,FORD F150,2.7,60,SemiAuto-10,2WD,Gasoline,CA,pickup,5.0,19.0,25.0,21.0,4,No
+506,2018,FORD F150,2.7,60,SemiAuto-10,2WD,Gasoline,CA,pickup,5.0,20.0,25.0,22.0,4,No
+507,2018,FORD F150,2.7,60,SemiAuto-10,2WD,Gasoline,CA,pickup,5.0,20.0,26.0,22.0,4,No
+508,2018,FORD F150,2.7,60,SemiAuto-10,2WD,Gasoline,FA,pickup,5.0,19.0,25.0,21.0,4,No
+509,2018,FORD F150,2.7,60,SemiAuto-10,2WD,Gasoline,FA,pickup,5.0,20.0,25.0,22.0,4,No
+510,2018,FORD F150,2.7,60,SemiAuto-10,2WD,Gasoline,FA,pickup,5.0,20.0,26.0,22.0,4,No
+511,2018,FORD F150,2.7,60,SemiAuto-10,4WD,Gasoline,CA,pickup,5.0,18.0,23.0,20.0,4,No
+512,2018,FORD F150,2.7,60,SemiAuto-10,4WD,Gasoline,CA,pickup,5.0,18.0,24.0,21.0,4,No
+513,2018,FORD F150,2.7,60,SemiAuto-10,4WD,Gasoline,CA,pickup,5.0,19.0,24.0,21.0,4,No
+514,2018,FORD F150,2.7,60,SemiAuto-10,4WD,Gasoline,FA,pickup,5.0,18.0,23.0,20.0,4,No
+515,2018,FORD F150,2.7,60,SemiAuto-10,4WD,Gasoline,FA,pickup,5.0,18.0,24.0,21.0,4,No
+516,2018,FORD F150,2.7,60,SemiAuto-10,4WD,Gasoline,FA,pickup,5.0,19.0,24.0,21.0,4,No
+517,2018,FORD F150,3.3,60,SemiAuto-6,2WD,Gasoline,CA,pickup,5.0,19.0,24.0,21.0,4,No
+518,2018,FORD F150,3.3,60,SemiAuto-6,2WD,Gasoline,CA,pickup,5.0,19.0,25.0,22.0,4,No
+519,2018,FORD F150,3.3,60,SemiAuto-6,2WD,Gasoline,FA,pickup,5.0,19.0,24.0,21.0,4,No
+520,2018,FORD F150,3.3,60,SemiAuto-6,2WD,Gasoline,FA,pickup,5.0,19.0,25.0,22.0,4,No
+521,2018,FORD F150,3.3,60,SemiAuto-6,4WD,Gasoline,CA,pickup,5.0,17.0,22.0,19.0,3,No
+522,2018,FORD F150,3.3,60,SemiAuto-6,4WD,Gasoline,CA,pickup,5.0,18.0,23.0,20.0,4,No
+523,2018,FORD F150,3.3,60,SemiAuto-6,4WD,Gasoline,FA,pickup,5.0,17.0,22.0,19.0,3,No
+524,2018,FORD F150,3.3,60,SemiAuto-6,4WD,Gasoline,FA,pickup,5.0,18.0,23.0,20.0,4,No
+525,2018,FORD F150,3.5,60,SemiAuto-10,2WD,Gasoline,CA,pickup,5.0,17.0,21.0,19.0,3,No
+526,2018,FORD F150,3.5,60,SemiAuto-10,2WD,Gasoline,CA,pickup,5.0,17.0,22.0,19.0,3,No
+527,2018,FORD F150,3.5,60,SemiAuto-10,2WD,Gasoline,CA,pickup,5.0,18.0,25.0,21.0,4,No
+528,2018,FORD F150,3.5,60,SemiAuto-10,2WD,Gasoline,FA,pickup,5.0,17.0,21.0,19.0,3,No
+529,2018,FORD F150,3.5,60,SemiAuto-10,2WD,Gasoline,FA,pickup,5.0,17.0,22.0,19.0,3,No
+530,2018,FORD F150,3.5,60,SemiAuto-10,2WD,Gasoline,FA,pickup,5.0,18.0,25.0,21.0,4,No
+531,2018,FORD F150,3.5,60,SemiAuto-10,4WD,Gasoline,CA,pickup,5.0,16.0,21.0,18.0,3,No
+532,2018,FORD F150,3.5,60,SemiAuto-10,4WD,Gasoline,CA,pickup,5.0,16.0,22.0,19.0,3,No
+533,2018,FORD F150,3.5,60,SemiAuto-10,4WD,Gasoline,CA,pickup,5.0,17.0,23.0,19.0,3,No
+534,2018,FORD F150,3.5,60,SemiAuto-10,4WD,Gasoline,FA,pickup,5.0,16.0,21.0,18.0,3,No
+535,2018,FORD F150,3.5,60,SemiAuto-10,4WD,Gasoline,FA,pickup,5.0,16.0,22.0,19.0,3,No
+536,2018,FORD F150,3.5,60,SemiAuto-10,4WD,Gasoline,FA,pickup,5.0,17.0,23.0,19.0,3,No
+537,2018,FORD F150,5.0,80,SemiAuto-10,2WD,Gasoline,CA,pickup,3.0,16.0,20.0,17.0,3,No
+538,2018,FORD F150,5.0,80,SemiAuto-10,2WD,Gasoline,CA,pickup,3.0,16.0,21.0,18.0,3,No
+539,2018,FORD F150,5.0,80,SemiAuto-10,2WD,Gasoline,CA,pickup,3.0,17.0,23.0,19.0,3,No
+540,2018,FORD F150,5.0,80,SemiAuto-10,2WD,Gasoline,FA,pickup,3.0,16.0,20.0,17.0,3,No
+541,2018,FORD F150,5.0,80,SemiAuto-10,2WD,Gasoline,FA,pickup,3.0,16.0,21.0,18.0,3,No
+542,2018,FORD F150,5.0,80,SemiAuto-10,2WD,Gasoline,FA,pickup,3.0,17.0,23.0,19.0,3,No
+543,2018,FORD F150,5.0,80,SemiAuto-10,4WD,Gasoline,CA,pickup,3.0,15.0,19.0,17.0,3,No
+544,2018,FORD F150,5.0,80,SemiAuto-10,4WD,Gasoline,CA,pickup,3.0,16.0,20.0,17.0,3,No
+545,2018,FORD F150,5.0,80,SemiAuto-10,4WD,Gasoline,CA,pickup,3.0,16.0,22.0,18.0,3,No
+546,2018,FORD F150,5.0,80,SemiAuto-10,4WD,Gasoline,FA,pickup,3.0,15.0,19.0,17.0,3,No
+547,2018,FORD F150,5.0,80,SemiAuto-10,4WD,Gasoline,FA,pickup,3.0,16.0,20.0,17.0,3,No
+548,2018,FORD F150,5.0,80,SemiAuto-10,4WD,Gasoline,FA,pickup,3.0,16.0,22.0,18.0,3,No
+549,2018,FORD F150 Raptor,3.5,60,SemiAuto-10,4WD,Gasoline,CA,pickup,3.0,15.0,18.0,16.0,2,No
+550,2018,FORD F150 Raptor,3.5,60,SemiAuto-10,4WD,Gasoline,FA,pickup,3.0,15.0,18.0,16.0,2,No
+551,2018,FORD Flex,3.5,60,SemiAuto-6,2WD,Gasoline,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+552,2018,FORD Flex,3.5,60,SemiAuto-6,2WD,Gasoline,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+553,2018,FORD Flex,3.5,60,SemiAuto-6,4WD,Gasoline,FA,standard SUV,3.0,15.0,21.0,17.0,3,No
+554,2018,FORD Flex,3.5,60,SemiAuto-6,4WD,Gasoline,CA,standard SUV,3.0,15.0,21.0,17.0,3,No
+555,2018,FORD Flex,3.5,60,SemiAuto-6,4WD,Gasoline,FA,standard SUV,3.0,16.0,22.0,18.0,3,No
+556,2018,FORD Flex,3.5,60,SemiAuto-6,4WD,Gasoline,CA,standard SUV,3.0,16.0,22.0,18.0,3,No
+557,2018,FORD Fusion,1.5,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,7.0,23.0,34.0,27.0,6,No
+558,2018,FORD Fusion,1.5,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,7.0,23.0,34.0,27.0,6,No
+559,2018,FORD Fusion,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,5.0,21.0,31.0,25.0,5,No
+560,2018,FORD Fusion,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,5.0,21.0,31.0,25.0,5,No
+561,2018,FORD Fusion,2.0,40,SemiAuto-6,4WD,Gasoline,CA,midsize car,5.0,20.0,29.0,23.0,5,No
+562,2018,FORD Fusion,2.0,40,SemiAuto-6,4WD,Gasoline,FA,midsize car,5.0,20.0,29.0,23.0,5,No
+563,2018,FORD Fusion,2.5,40,Auto-6,2WD,Gasoline,CA,midsize car,5.0,21.0,32.0,25.0,5,No
+564,2018,FORD Fusion,2.5,40,Auto-6,2WD,Gasoline,FA,midsize car,5.0,21.0,32.0,25.0,5,No
+565,2018,FORD Fusion,2.7,60,SemiAuto-6,4WD,Gasoline,CA,midsize car,5.0,17.0,26.0,20.0,4,No
+566,2018,FORD Fusion,2.7,60,SemiAuto-6,4WD,Gasoline,FA,midsize car,5.0,17.0,26.0,20.0,4,No
+567,2018,FORD Fusion Hybrid,2.0,40,CVT,2WD,Gasoline,CA,midsize car,7.0,43.0,41.0,42.0,9,Yes
+568,2018,FORD Fusion Hybrid,2.0,40,CVT,2WD,Gasoline,FA,midsize car,7.0,43.0,41.0,42.0,9,Yes
+569,2018,FORD Transit Connect,2.5,40,SemiAuto-6,2WD,Gasoline,CA,special purpose,3.0,19.0,27.0,22.0,4,No
+570,2018,FORD Transit Connect,2.5,40,SemiAuto-6,2WD,Gasoline,CA,special purpose,3.0,20.0,27.0,23.0,5,No
+571,2018,FORD Transit Connect,2.5,40,SemiAuto-6,2WD,Gasoline,FA,special purpose,3.0,19.0,27.0,22.0,4,No
+572,2018,FORD Transit Connect,2.5,40,SemiAuto-6,2WD,Gasoline,FA,special purpose,3.0,20.0,27.0,23.0,5,No
+573,2018,GENESIS G80,3.3,60,SemiAuto-8,2WD,Gasoline,CA,large car,3.0,17.0,25.0,20.0,4,No
+574,2018,GENESIS G80,3.3,60,SemiAuto-8,2WD,Gasoline,FA,large car,3.0,17.0,25.0,20.0,4,No
+575,2018,GENESIS G80,3.3,60,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,17.0,24.0,20.0,4,No
+576,2018,GENESIS G80,3.3,60,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,17.0,24.0,20.0,4,No
+577,2018,GENESIS G80,3.8,60,SemiAuto-8,2WD,Gasoline,CA,large car,5.0,19.0,27.0,22.0,4,No
+578,2018,GENESIS G80,3.8,60,SemiAuto-8,2WD,Gasoline,FA,large car,5.0,19.0,27.0,22.0,4,No
+579,2018,GENESIS G80,3.8,60,SemiAuto-8,4WD,Gasoline,CA,large car,5.0,18.0,25.0,20.0,4,No
+580,2018,GENESIS G80,3.8,60,SemiAuto-8,4WD,Gasoline,FA,large car,5.0,18.0,25.0,20.0,4,No
+581,2018,GENESIS G80,5.0,80,SemiAuto-8,2WD,Gasoline,CA,large car,5.0,16.0,24.0,19.0,3,No
+582,2018,GENESIS G80,5.0,80,SemiAuto-8,2WD,Gasoline,FA,large car,5.0,16.0,24.0,19.0,3,No
+583,2018,GENESIS G80,5.0,80,SemiAuto-8,4WD,Gasoline,CA,large car,5.0,15.0,23.0,18.0,3,No
+584,2018,GENESIS G80,5.0,80,SemiAuto-8,4WD,Gasoline,FA,large car,5.0,15.0,23.0,18.0,3,No
+585,2018,GENESIS G90,3.3,60,SemiAuto-8,2WD,Gasoline,FA,large car,3.0,17.0,24.0,20.0,4,No
+586,2018,GENESIS G90,3.3,60,SemiAuto-8,2WD,Gasoline,CA,large car,3.0,17.0,24.0,20.0,4,No
+587,2018,GENESIS G90,3.3,60,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,17.0,24.0,20.0,4,No
+588,2018,GENESIS G90,3.3,60,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,17.0,24.0,20.0,4,No
+589,2018,GENESIS G90,5.0,80,SemiAuto-8,2WD,Gasoline,CA,large car,5.0,16.0,24.0,19.0,3,No
+590,2018,GENESIS G90,5.0,80,SemiAuto-8,2WD,Gasoline,FA,large car,5.0,16.0,24.0,19.0,3,No
+591,2018,GENESIS G90,5.0,80,SemiAuto-8,4WD,Gasoline,CA,large car,5.0,15.0,23.0,18.0,3,No
+592,2018,GENESIS G90,5.0,80,SemiAuto-8,4WD,Gasoline,FA,large car,5.0,15.0,23.0,18.0,3,No
+593,2018,GMC Acadia,2.5,40,Auto-6,2WD,Gasoline,CA,standard SUV,3.0,21.0,26.0,23.0,5,No
+594,2018,GMC Acadia,2.5,40,Auto-6,2WD,Gasoline,FA,standard SUV,3.0,21.0,26.0,23.0,5,No
+595,2018,GMC Acadia,2.5,40,Auto-6,4WD,Gasoline,CA,standard SUV,3.0,21.0,25.0,23.0,5,No
+596,2018,GMC Acadia,2.5,40,Auto-6,4WD,Gasoline,FA,standard SUV,3.0,21.0,25.0,23.0,5,No
+597,2018,GMC Acadia,3.6,60,Auto-6,2WD,Gasoline,CA,standard SUV,5.0,18.0,25.0,21.0,4,No
+598,2018,GMC Acadia,3.6,60,Auto-6,2WD,Gasoline,FA,standard SUV,5.0,18.0,25.0,21.0,4,No
+599,2018,GMC Acadia,3.6,60,Auto-6,4WD,Gasoline,CA,standard SUV,5.0,17.0,25.0,20.0,4,No
+600,2018,GMC Acadia,3.6,60,Auto-6,4WD,Gasoline,FA,standard SUV,5.0,17.0,25.0,20.0,4,No
+601,2018,GMC Canyon,2.5,40,Auto-6,2WD,Gasoline,CA,pickup,5.0,20.0,26.0,22.0,4,No
+602,2018,GMC Canyon,2.5,40,Auto-6,2WD,Gasoline,FA,pickup,5.0,20.0,26.0,22.0,4,No
+603,2018,GMC Canyon,2.5,40,Auto-6,4WD,Gasoline,CA,pickup,5.0,19.0,24.0,21.0,4,No
+604,2018,GMC Canyon,2.5,40,Auto-6,4WD,Gasoline,FA,pickup,5.0,19.0,24.0,21.0,4,No
+605,2018,GMC Canyon,2.5,40,Man-6,2WD,Gasoline,CA,pickup,5.0,20.0,26.0,22.0,4,No
+606,2018,GMC Canyon,2.5,40,Man-6,2WD,Gasoline,FA,pickup,5.0,20.0,26.0,22.0,4,No
+607,2018,GMC Canyon,2.8,40,Auto-6,2WD,Diesel,CA,pickup,3.0,22.0,30.0,25.0,4,No
+608,2018,GMC Canyon,2.8,40,Auto-6,2WD,Diesel,FA,pickup,3.0,22.0,30.0,25.0,4,No
+609,2018,GMC Canyon,2.8,40,Auto-6,4WD,Diesel,CA,pickup,3.0,20.0,28.0,23.0,4,No
+610,2018,GMC Canyon,2.8,40,Auto-6,4WD,Diesel,FA,pickup,3.0,20.0,28.0,23.0,4,No
+611,2018,GMC Canyon,3.6,60,Auto-8,2WD,Gasoline,CA,pickup,5.0,18.0,25.0,20.0,4,No
+612,2018,GMC Canyon,3.6,60,Auto-8,2WD,Gasoline,FA,pickup,5.0,18.0,25.0,20.0,4,No
+613,2018,GMC Canyon,3.6,60,Auto-8,2WD,Gasoline,CA,special purpose,5.0,15.0,15.0,15.0,2,No
+614,2018,GMC Canyon,3.6,60,Auto-8,2WD,Gasoline,FA,special purpose,5.0,15.0,15.0,15.0,2,No
+615,2018,GMC Canyon,3.6,60,Auto-8,4WD,Gasoline,CA,pickup,5.0,17.0,24.0,19.0,3,No
+616,2018,GMC Canyon,3.6,60,Auto-8,4WD,Gasoline,FA,pickup,5.0,17.0,24.0,19.0,3,No
+617,2018,GMC Sierra 15,5.3,80,Auto-6,2WD,Gasoline,CA,pickup,3.0,16.0,23.0,19.0,3,No
+618,2018,GMC Sierra 15,5.3,80,Auto-6,2WD,Gasoline,CA,special purpose,3.0,15.0,20.0,17.0,3,No
+619,2018,GMC Sierra 15,5.3,80,Auto-6,2WD,Gasoline,FA,pickup,3.0,16.0,23.0,19.0,3,No
+620,2018,GMC Sierra 15,5.3,80,Auto-6,2WD,Gasoline,FA,special purpose,3.0,15.0,20.0,17.0,3,No
+621,2018,GMC Sierra 15,5.3,80,Auto-6,4WD,Gasoline,CA,pickup,3.0,16.0,22.0,18.0,3,No
+622,2018,GMC Sierra 15,5.3,80,Auto-6,4WD,Gasoline,CA,special purpose,3.0,15.0,19.0,17.0,3,No
+623,2018,GMC Sierra 15,5.3,80,Auto-6,4WD,Gasoline,FA,pickup,3.0,16.0,22.0,18.0,3,No
+624,2018,GMC Sierra 15,5.3,80,Auto-6,4WD,Gasoline,FA,special purpose,3.0,15.0,19.0,17.0,3,No
+625,2018,GMC Sierra 15,5.3,80,Auto-8,2WD,Gasoline,CA,pickup,3.0,18.0,24.0,20.0,4,No
+626,2018,GMC Sierra 15,5.3,80,Auto-8,2WD,Gasoline,FA,pickup,3.0,18.0,24.0,20.0,4,No
+627,2018,GMC Sierra 15,5.3,80,Auto-8,2WD,Gasoline,CA,pickup,3.0,16.0,22.0,18.0,3,No
+628,2018,GMC Sierra 15,5.3,80,Auto-8,2WD,Gasoline,FA,pickup,3.0,16.0,22.0,18.0,3,No
+629,2018,GMC Sierra 15,5.3,80,Auto-8,4WD,Gasoline,CA,pickup,3.0,16.0,21.0,18.0,3,No
+630,2018,GMC Sierra 15,5.3,80,Auto-8,4WD,Gasoline,FA,pickup,3.0,16.0,21.0,18.0,3,No
+631,2018,GMC Sierra 15,5.3,80,Auto-8,4WD,Gasoline,CA,pickup,3.0,15.0,20.0,17.0,3,No
+632,2018,GMC Sierra 15,5.3,80,Auto-8,4WD,Gasoline,FA,pickup,3.0,15.0,20.0,17.0,3,No
+633,2018,GMC Sierra 15,6.2,80,Auto-8,2WD,Gasoline,CA,pickup,3.0,15.0,21.0,17.0,3,No
+634,2018,GMC Sierra 15,6.2,80,Auto-8,2WD,Gasoline,FA,pickup,3.0,15.0,21.0,17.0,3,No
+635,2018,GMC Sierra 15,6.2,80,Auto-8,4WD,Gasoline,CA,pickup,3.0,15.0,20.0,17.0,3,No
+636,2018,GMC Sierra 15,6.2,80,Auto-8,4WD,Gasoline,FA,pickup,3.0,15.0,20.0,17.0,3,No
+637,2018,GMC Terrain,1.5,40,Auto-9,2WD,Gasoline,CA,small SUV,5.0,26.0,30.0,28.0,6,No
+638,2018,GMC Terrain,1.5,40,Auto-9,2WD,Gasoline,FA,small SUV,5.0,26.0,30.0,28.0,6,No
+639,2018,GMC Terrain,1.5,40,Auto-9,4WD,Gasoline,CA,small SUV,5.0,24.0,28.0,26.0,5,No
+640,2018,GMC Terrain,1.5,40,Auto-9,4WD,Gasoline,FA,small SUV,5.0,24.0,28.0,26.0,5,No
+641,2018,GMC Terrain,1.6,40,Auto-6,2WD,Diesel,CA,small SUV,3.0,28.0,39.0,32.0,6,No
+642,2018,GMC Terrain,1.6,40,Auto-6,2WD,Diesel,FA,small SUV,3.0,28.0,39.0,32.0,6,No
+643,2018,GMC Terrain,1.6,40,Auto-6,4WD,Diesel,CA,small SUV,3.0,28.0,38.0,32.0,6,No
+644,2018,GMC Terrain,1.6,40,Auto-6,4WD,Diesel,FA,small SUV,3.0,28.0,38.0,32.0,6,No
+645,2018,GMC Terrain,2.0,40,Auto-9,2WD,Gasoline,CA,small SUV,5.0,22.0,28.0,24.0,5,No
+646,2018,GMC Terrain,2.0,40,Auto-9,2WD,Gasoline,FA,small SUV,5.0,22.0,28.0,24.0,5,No
+647,2018,GMC Terrain,2.0,40,Auto-9,4WD,Gasoline,CA,small SUV,5.0,21.0,26.0,23.0,5,No
+648,2018,GMC Terrain,2.0,40,Auto-9,4WD,Gasoline,FA,small SUV,5.0,21.0,26.0,23.0,5,No
+649,2018,GMC Yukon 1500,5.3,80,Auto-6,2WD,Gasoline,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+650,2018,GMC Yukon 1500,5.3,80,Auto-6,2WD,Gasoline,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+651,2018,GMC Yukon 1500,5.3,80,Auto-6,4WD,Gasoline,CA,standard SUV,3.0,16.0,22.0,18.0,3,No
+652,2018,GMC Yukon 1500,5.3,80,Auto-6,4WD,Gasoline,FA,standard SUV,3.0,16.0,22.0,18.0,3,No
+653,2018,GMC Yukon 1500,6.2,80,Auto-10,2WD,Gasoline,CA,standard SUV,3.0,14.0,23.0,17.0,3,No
+654,2018,GMC Yukon 1500,6.2,80,Auto-10,2WD,Gasoline,FA,standard SUV,3.0,14.0,23.0,17.0,3,No
+655,2018,GMC Yukon 1500,6.2,80,Auto-10,4WD,Gasoline,CA,standard SUV,3.0,14.0,22.0,17.0,3,No
+656,2018,GMC Yukon 1500,6.2,80,Auto-10,4WD,Gasoline,FA,standard SUV,3.0,14.0,22.0,17.0,3,No
+657,2018,GMC Yukon 1500 XL,5.3,80,Auto-6,2WD,Gasoline,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+658,2018,GMC Yukon 1500 XL,5.3,80,Auto-6,2WD,Gasoline,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+659,2018,GMC Yukon 1500 XL,6.2,80,Auto-10,2WD,Gasoline,CA,standard SUV,3.0,14.0,23.0,17.0,3,No
+660,2018,GMC Yukon 1500 XL,6.2,80,Auto-10,2WD,Gasoline,FA,standard SUV,3.0,14.0,23.0,17.0,3,No
+661,2018,GMC Yukon XL 1500,5.3,80,Auto-6,4WD,Gasoline,CA,standard SUV,3.0,15.0,22.0,18.0,3,No
+662,2018,GMC Yukon XL 1500,5.3,80,Auto-6,4WD,Gasoline,FA,standard SUV,3.0,15.0,22.0,18.0,3,No
+663,2018,GMC Yukon XL 1500,6.2,80,Auto-10,4WD,Gasoline,CA,standard SUV,3.0,14.0,21.0,16.0,2,No
+664,2018,GMC Yukon XL 1500,6.2,80,Auto-10,4WD,Gasoline,FA,standard SUV,3.0,14.0,21.0,16.0,2,No
+665,2018,HONDA Civic 5Dr,1.5,40,CVT,2WD,Gasoline,CA,large car,7.0,31.0,40.0,34.0,8,Yes
+666,2018,HONDA Civic 5Dr,1.5,40,CVT,2WD,Gasoline,FA,large car,7.0,31.0,40.0,34.0,8,Yes
+667,2018,HONDA Civic 5Dr,1.5,40,CVT,2WD,Gasoline,CA,large car,3.0,31.0,40.0,34.0,8,Yes
+668,2018,HONDA Civic 5Dr,1.5,40,CVT,2WD,Gasoline,FA,large car,3.0,31.0,40.0,34.0,8,Yes
+669,2018,HONDA Civic 5Dr,1.5,40,Man-6,2WD,Gasoline,CA,large car,3.0,29.0,38.0,33.0,8,Yes
+670,2018,HONDA Civic 5Dr,1.5,40,Man-6,2WD,Gasoline,FA,large car,3.0,29.0,38.0,33.0,8,Yes
+671,2018,HONDA Civic 5Dr,1.5,40,SCV-7,2WD,Gasoline,CA,large car,7.0,30.0,36.0,32.0,7,Yes
+672,2018,HONDA Civic 5Dr,1.5,40,SCV-7,2WD,Gasoline,FA,large car,7.0,30.0,36.0,32.0,7,Yes
+673,2018,HONDA Civic 5Dr,1.5,40,SCV-7,2WD,Gasoline,CA,large car,3.0,30.0,36.0,32.0,7,Yes
+674,2018,HONDA Civic 5Dr,1.5,40,SCV-7,2WD,Gasoline,FA,large car,3.0,30.0,36.0,32.0,7,Yes
+675,2018,HONDA Fit,1.5,40,CVT,2WD,Gasoline,CA,station wagon,7.0,33.0,40.0,36.0,8,Yes
+676,2018,HONDA Fit,1.5,40,CVT,2WD,Gasoline,FA,station wagon,7.0,33.0,40.0,36.0,8,Yes
+677,2018,HONDA Fit,1.5,40,Man-6,2WD,Gasoline,CA,station wagon,3.0,29.0,36.0,31.0,7,Yes
+678,2018,HONDA Fit,1.5,40,Man-6,2WD,Gasoline,FA,station wagon,3.0,29.0,36.0,31.0,7,Yes
+679,2018,HONDA Fit,1.5,40,SCV-7,2WD,Gasoline,CA,station wagon,7.0,31.0,36.0,33.0,8,Yes
+680,2018,HONDA Fit,1.5,40,SCV-7,2WD,Gasoline,FA,station wagon,7.0,31.0,36.0,33.0,8,Yes
+681,2018,HONDA HR-V,1.8,40,CVT,2WD,Gasoline,FA,station wagon,3.0,28.0,34.0,31.0,7,Yes
+682,2018,HONDA HR-V,1.8,40,CVT,2WD,Gasoline,CA,station wagon,3.0,28.0,34.0,31.0,7,Yes
+683,2018,HONDA HR-V,1.8,40,CVT,4WD,Gasoline,FA,station wagon,3.0,27.0,31.0,29.0,6,No
+684,2018,HONDA HR-V,1.8,40,CVT,4WD,Gasoline,CA,station wagon,3.0,27.0,31.0,29.0,6,No
+685,2018,HONDA HR-V,1.8,40,Man-6,2WD,Gasoline,FA,station wagon,3.0,25.0,33.0,28.0,6,No
+686,2018,HONDA HR-V,1.8,40,Man-6,2WD,Gasoline,CA,station wagon,3.0,25.0,33.0,28.0,6,No
+687,2018,HONDA HR-V,1.8,40,SCV-7,2WD,Gasoline,FA,station wagon,3.0,28.0,34.0,31.0,7,Yes
+688,2018,HONDA HR-V,1.8,40,SCV-7,2WD,Gasoline,CA,station wagon,3.0,28.0,34.0,31.0,7,Yes
+689,2018,HONDA HR-V,1.8,40,SCV-7,4WD,Gasoline,FA,station wagon,3.0,27.0,31.0,29.0,6,No
+690,2018,HONDA HR-V,1.8,40,SCV-7,4WD,Gasoline,CA,station wagon,3.0,27.0,31.0,29.0,6,No
+691,2018,HONDA Ridgeline,3.5,60,Auto-6,2WD,Gasoline,CA,pickup,3.0,19.0,26.0,22.0,4,No
+692,2018,HONDA Ridgeline,3.5,60,Auto-6,2WD,Gasoline,FA,pickup,3.0,19.0,26.0,22.0,4,No
+693,2018,HONDA Ridgeline,3.5,60,Auto-6,4WD,Gasoline,CA,pickup,3.0,18.0,25.0,21.0,4,No
+694,2018,HONDA Ridgeline,3.5,60,Auto-6,4WD,Gasoline,FA,pickup,3.0,18.0,25.0,21.0,4,No
+695,2018,HYUNDAI Elantra,1.4,40,AutoMan-7,2WD,Gasoline,CA,midsize car,3.0,32.0,40.0,35.0,8,Yes
+696,2018,HYUNDAI Elantra,1.4,40,AutoMan-7,2WD,Gasoline,FA,midsize car,3.0,32.0,40.0,35.0,8,Yes
+697,2018,HYUNDAI Elantra,1.6,40,AutoMan-7,2WD,Gasoline,FA,midsize car,3.0,26.0,33.0,29.0,6,No
+698,2018,HYUNDAI Elantra,1.6,40,AutoMan-7,2WD,Gasoline,CA,midsize car,3.0,26.0,33.0,29.0,6,No
+699,2018,HYUNDAI Elantra,1.6,40,Man-6,2WD,Gasoline,FA,midsize car,3.0,22.0,30.0,25.0,5,No
+700,2018,HYUNDAI Elantra,1.6,40,Man-6,2WD,Gasoline,CA,midsize car,3.0,22.0,30.0,25.0,5,No
+701,2018,HYUNDAI Elantra,2.0,40,Man-6,2WD,Gasoline,CA,midsize car,5.0,26.0,36.0,29.0,6,No
+702,2018,HYUNDAI Elantra,2.0,40,Man-6,2WD,Gasoline,FA,midsize car,5.0,26.0,36.0,29.0,6,No
+703,2018,HYUNDAI Elantra,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,7.0,28.0,37.0,32.0,7,Yes
+704,2018,HYUNDAI Elantra,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,7.0,28.0,37.0,32.0,7,Yes
+705,2018,HYUNDAI Elantra,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,5.0,28.0,37.0,32.0,7,Yes
+706,2018,HYUNDAI Elantra,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,5.0,28.0,37.0,32.0,7,Yes
+707,2018,HYUNDAI Elantra GT,1.6,40,AutoMan-7,2WD,Gasoline,FA,large car,3.0,26.0,32.0,28.0,6,No
+708,2018,HYUNDAI Elantra GT,1.6,40,AutoMan-7,2WD,Gasoline,CA,large car,3.0,26.0,32.0,28.0,6,No
+709,2018,HYUNDAI Elantra GT,1.6,40,Man-6,2WD,Gasoline,FA,large car,3.0,22.0,29.0,25.0,5,No
+710,2018,HYUNDAI Elantra GT,1.6,40,Man-6,2WD,Gasoline,CA,large car,3.0,22.0,29.0,25.0,5,No
+711,2018,HYUNDAI Elantra GT,2.0,40,Man-6,2WD,Gasoline,CA,large car,3.0,23.0,31.0,26.0,5,No
+712,2018,HYUNDAI Elantra GT,2.0,40,Man-6,2WD,Gasoline,FA,large car,3.0,23.0,31.0,26.0,5,No
+713,2018,HYUNDAI Elantra GT,2.0,40,SemiAuto-6,2WD,Gasoline,CA,large car,3.0,24.0,32.0,27.0,6,No
+714,2018,HYUNDAI Elantra GT,2.0,40,SemiAuto-6,2WD,Gasoline,FA,large car,3.0,24.0,32.0,27.0,6,No
+715,2018,HYUNDAI Elantra SE,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,7.0,29.0,38.0,33.0,8,Yes
+716,2018,HYUNDAI Elantra SE,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,7.0,29.0,38.0,33.0,8,Yes
+717,2018,HYUNDAI Elantra SE,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,5.0,29.0,38.0,33.0,8,Yes
+718,2018,HYUNDAI Elantra SE,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,5.0,29.0,38.0,33.0,8,Yes
+719,2018,HYUNDAI Santa Fe,3.3,60,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,18.0,25.0,21.0,4,No
+720,2018,HYUNDAI Santa Fe,3.3,60,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,18.0,25.0,21.0,4,No
+721,2018,HYUNDAI Santa Fe,3.3,60,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,18.0,24.0,20.0,4,No
+722,2018,HYUNDAI Santa Fe,3.3,60,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,18.0,24.0,20.0,4,No
+723,2018,HYUNDAI Santa Fe Sport,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,20.0,28.0,23.0,5,No
+724,2018,HYUNDAI Santa Fe Sport,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,20.0,28.0,23.0,5,No
+725,2018,HYUNDAI Santa Fe Sport,2.0,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,19.0,26.0,22.0,4,No
+726,2018,HYUNDAI Santa Fe Sport,2.0,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,19.0,26.0,22.0,4,No
+727,2018,HYUNDAI Santa Fe Sport,2.4,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,5.0,21.0,27.0,24.0,5,No
+728,2018,HYUNDAI Santa Fe Sport,2.4,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,5.0,21.0,27.0,24.0,5,No
+729,2018,HYUNDAI Santa Fe Sport,2.4,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,5.0,20.0,26.0,22.0,4,No
+730,2018,HYUNDAI Santa Fe Sport,2.4,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,5.0,20.0,26.0,22.0,4,No
+731,2018,HYUNDAI Santa Fe Sport Ultimate,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,20.0,27.0,23.0,5,No
+732,2018,HYUNDAI Santa Fe Sport Ultimate,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,20.0,27.0,23.0,5,No
+733,2018,HYUNDAI Santa Fe Sport Ultimate,2.0,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,19.0,24.0,21.0,4,No
+734,2018,HYUNDAI Santa Fe Sport Ultimate,2.0,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,19.0,24.0,21.0,4,No
+735,2018,HYUNDAI Santa Fe Ultimate,3.3,60,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,17.0,23.0,20.0,4,No
+736,2018,HYUNDAI Santa Fe Ultimate,3.3,60,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,17.0,23.0,20.0,4,No
+737,2018,HYUNDAI Santa Fe Ultimate,3.3,60,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,17.0,22.0,19.0,3,No
+738,2018,HYUNDAI Santa Fe Ultimate,3.3,60,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,17.0,22.0,19.0,3,No
+739,2018,HYUNDAI Sonata,1.6,40,AutoMan-7,2WD,Gasoline,CA,large car,5.0,28.0,37.0,31.0,7,Yes
+740,2018,HYUNDAI Sonata,1.6,40,AutoMan-7,2WD,Gasoline,FA,large car,5.0,28.0,37.0,31.0,7,Yes
+741,2018,HYUNDAI Sonata,2.0,40,SemiAuto-8,2WD,Gasoline,CA,large car,5.0,23.0,32.0,26.0,5,No
+742,2018,HYUNDAI Sonata,2.0,40,SemiAuto-8,2WD,Gasoline,FA,large car,5.0,23.0,32.0,26.0,5,No
+743,2018,HYUNDAI Sonata,2.4,40,SemiAuto-6,2WD,Gasoline,CA,large car,7.0,25.0,35.0,28.0,6,No
+744,2018,HYUNDAI Sonata,2.4,40,SemiAuto-6,2WD,Gasoline,FA,large car,7.0,25.0,35.0,28.0,6,No
+745,2018,HYUNDAI Sonata,2.4,40,SemiAuto-6,2WD,Gasoline,CA,large car,5.0,25.0,35.0,28.0,6,No
+746,2018,HYUNDAI Sonata,2.4,40,SemiAuto-6,2WD,Gasoline,FA,large car,5.0,25.0,35.0,28.0,6,No
+747,2018,HYUNDAI Sonata SE,2.4,40,SemiAuto-6,2WD,Gasoline,CA,large car,7.0,25.0,36.0,29.0,6,No
+748,2018,HYUNDAI Sonata SE,2.4,40,SemiAuto-6,2WD,Gasoline,FA,large car,7.0,25.0,36.0,29.0,6,No
+749,2018,HYUNDAI Sonata SE,2.4,40,SemiAuto-6,2WD,Gasoline,CA,large car,5.0,25.0,36.0,29.0,6,No
+750,2018,HYUNDAI Sonata SE,2.4,40,SemiAuto-6,2WD,Gasoline,FA,large car,5.0,25.0,36.0,29.0,6,No
+751,2018,INFINITI Q50,2.0,40,SemiAuto-7,2WD,Gasoline,CA,midsize car,3.0,23.0,30.0,25.0,5,No
+752,2018,INFINITI Q50,2.0,40,SemiAuto-7,2WD,Gasoline,FA,midsize car,3.0,23.0,30.0,25.0,5,No
+753,2018,INFINITI Q50,2.0,40,SemiAuto-7,4WD,Gasoline,CA,midsize car,3.0,22.0,28.0,24.0,5,No
+754,2018,INFINITI Q50,2.0,40,SemiAuto-7,4WD,Gasoline,FA,midsize car,3.0,22.0,28.0,24.0,5,No
+755,2018,INFINITI Q50,3.0,60,SemiAuto-7,2WD,Gasoline,FA,midsize car,3.0,20.0,29.0,23.0,5,No
+756,2018,INFINITI Q50,3.0,60,SemiAuto-7,2WD,Gasoline,CA,midsize car,3.0,20.0,29.0,23.0,5,No
+757,2018,INFINITI Q50,3.0,60,SemiAuto-7,4WD,Gasoline,FA,midsize car,3.0,19.0,27.0,22.0,4,No
+758,2018,INFINITI Q50,3.0,60,SemiAuto-7,4WD,Gasoline,CA,midsize car,3.0,19.0,27.0,22.0,4,No
+759,2018,INFINITI Q50 Hybrid,3.5,60,SemiAuto-7,2WD,Gasoline,FA,small car,3.0,27.0,32.0,29.0,6,No
+760,2018,INFINITI Q50 Hybrid,3.5,60,SemiAuto-7,2WD,Gasoline,CA,small car,3.0,27.0,32.0,29.0,6,No
+761,2018,INFINITI Q50 Hybrid,3.5,60,SemiAuto-7,4WD,Gasoline,FA,small car,3.0,26.0,30.0,28.0,6,No
+762,2018,INFINITI Q50 Hybrid,3.5,60,SemiAuto-7,4WD,Gasoline,CA,small car,3.0,26.0,30.0,28.0,6,No
+763,2018,INFINITI Q50 Red Sport,3.0,60,SemiAuto-7,2WD,Gasoline,FA,midsize car,3.0,20.0,26.0,22.0,4,No
+764,2018,INFINITI Q50 Red Sport,3.0,60,SemiAuto-7,2WD,Gasoline,CA,midsize car,3.0,20.0,26.0,22.0,4,No
+765,2018,INFINITI Q50 Red Sport,3.0,60,SemiAuto-7,4WD,Gasoline,FA,midsize car,3.0,19.0,26.0,22.0,4,No
+766,2018,INFINITI Q50 Red Sport,3.0,60,SemiAuto-7,4WD,Gasoline,CA,midsize car,3.0,19.0,26.0,22.0,4,No
+767,2018,INFINITI Q70,3.7,60,SemiAuto-7,2WD,Gasoline,FA,midsize car,3.0,18.0,25.0,21.0,4,No
+768,2018,INFINITI Q70,3.7,60,SemiAuto-7,2WD,Gasoline,CA,midsize car,3.0,18.0,25.0,21.0,4,No
+769,2018,INFINITI Q70,3.7,60,SemiAuto-7,4WD,Gasoline,FA,midsize car,3.0,18.0,24.0,20.0,4,No
+770,2018,INFINITI Q70,3.7,60,SemiAuto-7,4WD,Gasoline,CA,midsize car,3.0,18.0,24.0,20.0,4,No
+771,2018,INFINITI Q70,5.6,80,SemiAuto-7,2WD,Gasoline,FA,midsize car,3.0,16.0,24.0,19.0,3,No
+772,2018,INFINITI Q70,5.6,80,SemiAuto-7,2WD,Gasoline,CA,midsize car,3.0,16.0,24.0,19.0,3,No
+773,2018,INFINITI Q70,5.6,80,SemiAuto-7,4WD,Gasoline,FA,midsize car,3.0,16.0,23.0,18.0,3,No
+774,2018,INFINITI Q70,5.6,80,SemiAuto-7,4WD,Gasoline,CA,midsize car,3.0,16.0,23.0,18.0,3,No
+775,2018,INFINITI Q70 Hybrid,3.5,60,SemiAuto-7,2WD,Gasoline,FA,midsize car,3.0,28.0,33.0,30.0,7,Yes
+776,2018,INFINITI Q70 Hybrid,3.5,60,SemiAuto-7,2WD,Gasoline,CA,midsize car,3.0,28.0,33.0,30.0,7,Yes
+777,2018,INFINITI QX30,2.0,40,AutoMan-7,2WD,Gasoline,CA,small car,3.0,24.0,33.0,27.0,6,No
+778,2018,INFINITI QX30,2.0,40,AutoMan-7,2WD,Gasoline,FA,small car,3.0,24.0,33.0,27.0,6,No
+779,2018,INFINITI QX30,2.0,40,AutoMan-7,4WD,Gasoline,CA,small car,3.0,21.0,30.0,25.0,5,No
+780,2018,INFINITI QX30,2.0,40,AutoMan-7,4WD,Gasoline,FA,small car,3.0,21.0,30.0,25.0,5,No
+781,2018,JAGUAR F-Pace,2.0,40,SemiAuto-8,4WD,Diesel,CA,small SUV,1.0,26.0,33.0,29.0,5,No
+782,2018,JAGUAR F-Pace,2.0,40,SemiAuto-8,4WD,Diesel,FA,small SUV,1.0,26.0,33.0,29.0,5,No
+783,2018,JAGUAR F-Pace,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small SUV,7.0,22.0,27.0,24.0,5,No
+784,2018,JAGUAR F-Pace,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small SUV,7.0,22.0,27.0,24.0,5,No
+785,2018,JAGUAR F-Pace,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small SUV,7.0,18.0,23.0,20.0,4,No
+786,2018,JAGUAR F-Pace,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small SUV,7.0,18.0,23.0,20.0,4,No
+787,2018,JAGUAR F-Type Convertible,3.0,60,Man-6,2WD,Gasoline,CA,small car,7.0,16.0,24.0,19.0,3,No
+788,2018,JAGUAR F-Type Convertible,3.0,60,Man-6,2WD,Gasoline,FA,small car,7.0,16.0,24.0,19.0,3,No
+789,2018,JAGUAR F-Type Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,20.0,28.0,23.0,5,No
+790,2018,JAGUAR F-Type Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,20.0,28.0,23.0,5,No
+791,2018,JAGUAR F-Type Coupe,3.0,60,Man-6,2WD,Gasoline,CA,small car,7.0,16.0,24.0,19.0,3,No
+792,2018,JAGUAR F-Type Coupe,3.0,60,Man-6,2WD,Gasoline,FA,small car,7.0,16.0,24.0,19.0,3,No
+793,2018,JAGUAR F-Type Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,20.0,28.0,23.0,5,No
+794,2018,JAGUAR F-Type Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,20.0,28.0,23.0,5,No
+795,2018,JAGUAR F-Type R Convertible,5.0,80,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,15.0,23.0,18.0,3,No
+796,2018,JAGUAR F-Type R Convertible,5.0,80,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,15.0,23.0,18.0,3,No
+797,2018,JAGUAR F-Type R Coupe,5.0,80,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,15.0,23.0,18.0,3,No
+798,2018,JAGUAR F-Type R Coupe,5.0,80,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,15.0,23.0,18.0,3,No
+799,2018,JAGUAR F-Type S Convertible,3.0,60,Man-6,2WD,Gasoline,CA,small car,7.0,15.0,24.0,18.0,3,No
+800,2018,JAGUAR F-Type S Convertible,3.0,60,Man-6,2WD,Gasoline,FA,small car,7.0,15.0,24.0,18.0,3,No
+801,2018,JAGUAR F-Type S Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,19.0,27.0,22.0,4,No
+802,2018,JAGUAR F-Type S Convertible,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,19.0,27.0,22.0,4,No
+803,2018,JAGUAR F-Type S Convertible,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,18.0,26.0,21.0,4,No
+804,2018,JAGUAR F-Type S Convertible,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,18.0,26.0,21.0,4,No
+805,2018,JAGUAR F-Type S Coupe,3.0,60,Man-6,2WD,Gasoline,CA,small car,7.0,15.0,24.0,18.0,3,No
+806,2018,JAGUAR F-Type S Coupe,3.0,60,Man-6,2WD,Gasoline,FA,small car,7.0,15.0,24.0,18.0,3,No
+807,2018,JAGUAR F-Type S Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,19.0,27.0,22.0,4,No
+808,2018,JAGUAR F-Type S Coupe,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,19.0,27.0,22.0,4,No
+809,2018,JAGUAR F-Type S Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,18.0,26.0,21.0,4,No
+810,2018,JAGUAR F-Type S Coupe,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,18.0,26.0,21.0,4,No
+811,2018,JAGUAR XE,2.0,40,SemiAuto-8,2WD,Diesel,CA,small car,1.0,32.0,42.0,36.0,7,No
+812,2018,JAGUAR XE,2.0,40,SemiAuto-8,2WD,Diesel,FA,small car,1.0,32.0,42.0,36.0,7,No
+813,2018,JAGUAR XE,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,25.0,34.0,28.0,6,No
+814,2018,JAGUAR XE,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,25.0,34.0,28.0,6,No
+815,2018,JAGUAR XE,2.0,40,SemiAuto-8,4WD,Diesel,CA,small car,1.0,30.0,40.0,34.0,7,No
+816,2018,JAGUAR XE,2.0,40,SemiAuto-8,4WD,Diesel,FA,small car,1.0,30.0,40.0,34.0,7,No
+817,2018,JAGUAR XE,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,24.0,34.0,28.0,6,No
+818,2018,JAGUAR XE,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,24.0,34.0,28.0,6,No
+819,2018,JAGUAR XE,3.0,60,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,21.0,30.0,24.0,5,No
+820,2018,JAGUAR XE,3.0,60,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,21.0,30.0,24.0,5,No
+821,2018,JAGUAR XE,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,20.0,29.0,23.0,5,No
+822,2018,JAGUAR XE,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,20.0,29.0,23.0,5,No
+823,2018,JAGUAR XF,2.0,40,SemiAuto-8,2WD,Diesel,CA,midsize car,1.0,31.0,42.0,35.0,7,No
+824,2018,JAGUAR XF,2.0,40,SemiAuto-8,2WD,Diesel,FA,midsize car,1.0,31.0,42.0,35.0,7,No
+825,2018,JAGUAR XF,2.0,40,SemiAuto-8,2WD,Gasoline,CA,midsize car,7.0,25.0,34.0,28.0,6,No
+826,2018,JAGUAR XF,2.0,40,SemiAuto-8,2WD,Gasoline,FA,midsize car,7.0,25.0,34.0,28.0,6,No
+827,2018,JAGUAR XF,2.0,40,SemiAuto-8,4WD,Diesel,CA,midsize car,1.0,30.0,40.0,34.0,7,No
+828,2018,JAGUAR XF,2.0,40,SemiAuto-8,4WD,Diesel,FA,midsize car,1.0,30.0,40.0,34.0,7,No
+829,2018,JAGUAR XF,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,7.0,23.0,33.0,27.0,6,No
+830,2018,JAGUAR XF,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,7.0,23.0,33.0,27.0,6,No
+831,2018,JAGUAR XF,3.0,60,SemiAuto-8,2WD,Gasoline,CA,midsize car,7.0,20.0,29.0,23.0,5,No
+832,2018,JAGUAR XF,3.0,60,SemiAuto-8,2WD,Gasoline,FA,midsize car,7.0,20.0,29.0,23.0,5,No
+833,2018,JAGUAR XF,3.0,60,SemiAuto-8,4WD,Gasoline,CA,midsize car,7.0,20.0,28.0,23.0,5,No
+834,2018,JAGUAR XF,3.0,60,SemiAuto-8,4WD,Gasoline,FA,midsize car,7.0,20.0,28.0,23.0,5,No
+835,2018,JEEP Cherokee,2.4,40,Auto-9,2WD,Gasoline,CA,small SUV,7.0,21.0,30.0,25.0,5,No
+836,2018,JEEP Cherokee,2.4,40,Auto-9,2WD,Gasoline,FA,small SUV,7.0,21.0,30.0,25.0,5,No
+837,2018,JEEP Cherokee,2.4,40,Auto-9,4WD,Gasoline,CA,small SUV,3.0,21.0,28.0,23.0,5,No
+838,2018,JEEP Cherokee,2.4,40,Auto-9,4WD,Gasoline,FA,small SUV,3.0,21.0,28.0,23.0,5,No
+839,2018,JEEP Cherokee,3.2,60,Auto-9,2WD,Gasoline,CA,small SUV,3.0,21.0,29.0,24.0,5,No
+840,2018,JEEP Cherokee,3.2,60,Auto-9,2WD,Gasoline,FA,small SUV,3.0,21.0,29.0,24.0,5,No
+841,2018,JEEP Cherokee,3.2,60,Auto-9,4WD,Gasoline,CA,small SUV,3.0,20.0,27.0,23.0,5,No
+842,2018,JEEP Cherokee,3.2,60,Auto-9,4WD,Gasoline,FA,small SUV,3.0,20.0,27.0,23.0,5,No
+843,2018,JEEP Cherokee 4x4 Active Drive II,2.4,40,Auto-9,4WD,Gasoline,CA,small SUV,7.0,21.0,27.0,23.0,5,No
+844,2018,JEEP Cherokee 4x4 Active Drive II,2.4,40,Auto-9,4WD,Gasoline,FA,small SUV,7.0,21.0,27.0,23.0,5,No
+845,2018,JEEP Cherokee 4x4 Active Drive II,2.4,40,Auto-9,4WD,Gasoline,CA,small SUV,1.0,21.0,27.0,23.0,5,No
+846,2018,JEEP Cherokee 4x4 Active Drive II,2.4,40,Auto-9,4WD,Gasoline,FA,small SUV,1.0,21.0,27.0,23.0,5,No
+847,2018,JEEP Cherokee 4x4 Active Drive II,3.2,60,Auto-9,4WD,Gasoline,CA,small SUV,3.0,18.0,26.0,21.0,4,No
+848,2018,JEEP Cherokee 4x4 Active Drive II,3.2,60,Auto-9,4WD,Gasoline,FA,small SUV,3.0,18.0,26.0,21.0,4,No
+849,2018,JEEP Cherokee Trailhawk,2.4,40,Auto-9,4WD,Gasoline,CA,small SUV,7.0,19.0,25.0,22.0,4,No
+850,2018,JEEP Cherokee Trailhawk,2.4,40,Auto-9,4WD,Gasoline,FA,small SUV,7.0,19.0,25.0,22.0,4,No
+851,2018,JEEP Cherokee Trailhawk,2.4,40,Auto-9,4WD,Gasoline,CA,small SUV,1.0,19.0,25.0,22.0,4,No
+852,2018,JEEP Cherokee Trailhawk,2.4,40,Auto-9,4WD,Gasoline,FA,small SUV,1.0,19.0,25.0,22.0,4,No
+853,2018,JEEP Cherokee Trailhawk,3.2,60,Auto-9,4WD,Gasoline,CA,small SUV,3.0,18.0,24.0,21.0,4,No
+854,2018,JEEP Cherokee Trailhawk,3.2,60,Auto-9,4WD,Gasoline,FA,small SUV,3.0,18.0,24.0,21.0,4,No
+855,2018,JEEP Compass,2.4,40,Auto-6,2WD,Gasoline,CA,small SUV,7.0,22.0,31.0,25.0,5,No
+856,2018,JEEP Compass,2.4,40,Auto-6,2WD,Gasoline,FA,small SUV,7.0,22.0,31.0,25.0,5,No
+857,2018,JEEP Compass,2.4,40,Auto-9,4WD,Gasoline,CA,small SUV,7.0,22.0,30.0,25.0,5,No
+858,2018,JEEP Compass,2.4,40,Auto-9,4WD,Gasoline,FA,small SUV,7.0,22.0,30.0,25.0,5,No
+859,2018,JEEP Compass,2.4,40,Man-6,2WD,Gasoline,CA,small SUV,3.0,23.0,32.0,26.0,5,No
+860,2018,JEEP Compass,2.4,40,Man-6,2WD,Gasoline,FA,small SUV,3.0,23.0,32.0,26.0,5,No
+861,2018,JEEP Compass,2.4,40,Man-6,4WD,Gasoline,CA,small SUV,3.0,22.0,31.0,25.0,5,No
+862,2018,JEEP Compass,2.4,40,Man-6,4WD,Gasoline,FA,small SUV,3.0,22.0,31.0,25.0,5,No
+863,2018,JEEP Grand Cherokee,3.6,60,Auto-8,2WD,Gasoline,CA,standard SUV,5.0,19.0,26.0,21.0,4,No
+864,2018,JEEP Grand Cherokee,3.6,60,Auto-8,2WD,Gasoline,FA,standard SUV,5.0,19.0,26.0,21.0,4,No
+865,2018,JEEP Grand Cherokee,3.6,60,Auto-8,4WD,Gasoline,CA,standard SUV,5.0,18.0,25.0,21.0,4,No
+866,2018,JEEP Grand Cherokee,3.6,60,Auto-8,4WD,Gasoline,FA,standard SUV,5.0,18.0,25.0,21.0,4,No
+867,2018,JEEP Grand Cherokee,5.7,80,Auto-8,4WD,Gasoline,CA,standard SUV,3.0,14.0,22.0,17.0,3,No
+868,2018,JEEP Grand Cherokee,5.7,80,Auto-8,4WD,Gasoline,FA,standard SUV,3.0,14.0,22.0,17.0,3,No
+869,2018,JEEP Grand Cherokee SRT,6.4,80,Auto-8,4WD,Gasoline,CA,standard SUV,1.0,13.0,19.0,15.0,2,No
+870,2018,JEEP Grand Cherokee SRT,6.4,80,Auto-8,4WD,Gasoline,FA,standard SUV,1.0,13.0,19.0,15.0,2,No
+871,2018,KIA Forte,2.0,40,Man-6,2WD,Gasoline,CA,midsize car,5.0,25.0,34.0,28.0,6,No
+872,2018,KIA Forte,2.0,40,Man-6,2WD,Gasoline,FA,midsize car,5.0,25.0,34.0,28.0,6,No
+873,2018,KIA Forte,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,7.0,29.0,37.0,32.0,7,Yes
+874,2018,KIA Forte,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,7.0,29.0,37.0,32.0,7,Yes
+875,2018,KIA Forte,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,5.0,29.0,37.0,32.0,7,Yes
+876,2018,KIA Forte,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,5.0,29.0,37.0,32.0,7,Yes
+877,2018,KIA Forte,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,7.0,25.0,33.0,28.0,6,No
+878,2018,KIA Forte,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,7.0,25.0,33.0,28.0,6,No
+879,2018,KIA Forte,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,3.0,25.0,33.0,28.0,6,No
+880,2018,KIA Forte,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,3.0,25.0,33.0,28.0,6,No
+881,2018,KIA Forte5,1.6,40,AutoMan-7,2WD,Gasoline,FA,large car,3.0,25.0,30.0,27.0,6,No
+882,2018,KIA Forte5,1.6,40,AutoMan-7,2WD,Gasoline,CA,large car,3.0,25.0,30.0,27.0,6,No
+883,2018,KIA Forte5,1.6,40,Man-6,2WD,Gasoline,FA,large car,3.0,23.0,29.0,25.0,5,No
+884,2018,KIA Forte5,1.6,40,Man-6,2WD,Gasoline,CA,large car,3.0,23.0,29.0,25.0,5,No
+885,2018,KIA Forte5,2.0,40,SemiAuto-6,2WD,Gasoline,FA,large car,3.0,25.0,34.0,28.0,6,No
+886,2018,KIA Forte5,2.0,40,SemiAuto-6,2WD,Gasoline,CA,large car,3.0,25.0,34.0,28.0,6,No
+887,2018,KIA Optima,1.6,40,AutoMan-7,2WD,Gasoline,FA,large car,3.0,28.0,37.0,31.0,7,Yes
+888,2018,KIA Optima,1.6,40,AutoMan-7,2WD,Gasoline,CA,large car,3.0,28.0,37.0,31.0,7,Yes
+889,2018,KIA Optima,2.0,40,SemiAuto-6,2WD,Gasoline,FA,large car,3.0,22.0,31.0,25.0,5,No
+890,2018,KIA Optima,2.0,40,SemiAuto-6,2WD,Gasoline,CA,large car,3.0,22.0,31.0,25.0,5,No
+891,2018,KIA Optima,2.4,40,SemiAuto-6,2WD,Gasoline,CA,large car,7.0,24.0,34.0,28.0,6,No
+892,2018,KIA Optima,2.4,40,SemiAuto-6,2WD,Gasoline,FA,large car,7.0,24.0,34.0,28.0,6,No
+893,2018,KIA Optima,2.4,40,SemiAuto-6,2WD,Gasoline,CA,large car,5.0,24.0,34.0,28.0,6,No
+894,2018,KIA Optima,2.4,40,SemiAuto-6,2WD,Gasoline,FA,large car,5.0,24.0,34.0,28.0,6,No
+895,2018,KIA Optima FE,2.4,40,SemiAuto-6,2WD,Gasoline,CA,large car,7.0,25.0,36.0,29.0,6,No
+896,2018,KIA Optima FE,2.4,40,SemiAuto-6,2WD,Gasoline,FA,large car,7.0,25.0,36.0,29.0,6,No
+897,2018,KIA Optima FE,2.4,40,SemiAuto-6,2WD,Gasoline,CA,large car,5.0,25.0,36.0,29.0,6,No
+898,2018,KIA Optima FE,2.4,40,SemiAuto-6,2WD,Gasoline,FA,large car,5.0,25.0,36.0,29.0,6,No
+899,2018,KIA Rio,1.6,40,Man-6,2WD,Gasoline,CA,small car,3.0,29.0,37.0,32.0,7,Yes
+900,2018,KIA Rio,1.6,40,Man-6,2WD,Gasoline,FA,small car,3.0,29.0,37.0,32.0,7,Yes
+901,2018,KIA Rio,1.6,40,SemiAuto-6,2WD,Gasoline,CA,small car,3.0,28.0,37.0,32.0,7,Yes
+902,2018,KIA Rio,1.6,40,SemiAuto-6,2WD,Gasoline,FA,small car,3.0,28.0,37.0,32.0,7,Yes
+903,2018,KIA Sedona,3.3,60,SemiAuto-6,2WD,Gasoline,FA,minivan,3.0,18.0,24.0,20.0,4,No
+904,2018,KIA Sedona,3.3,60,SemiAuto-6,2WD,Gasoline,CA,minivan,3.0,18.0,24.0,20.0,4,No
+905,2018,KIA Sedona SX,3.3,60,SemiAuto-6,2WD,Gasoline,FA,minivan,3.0,18.0,25.0,21.0,4,No
+906,2018,KIA Sedona SX,3.3,60,SemiAuto-6,2WD,Gasoline,CA,minivan,3.0,18.0,25.0,21.0,4,No
+907,2018,KIA Sedona SXL,3.3,60,SemiAuto-6,2WD,Gasoline,FA,minivan,3.0,17.0,22.0,19.0,3,No
+908,2018,KIA Sedona SXL,3.3,60,SemiAuto-6,2WD,Gasoline,CA,minivan,3.0,17.0,22.0,19.0,3,No
+909,2018,KIA Sorento,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,20.0,27.0,23.0,5,No
+910,2018,KIA Sorento,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,20.0,27.0,23.0,5,No
+911,2018,KIA Sorento,2.0,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,19.0,25.0,22.0,4,No
+912,2018,KIA Sorento,2.0,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,19.0,25.0,22.0,4,No
+913,2018,KIA Sorento,2.4,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,5.0,21.0,28.0,24.0,5,No
+914,2018,KIA Sorento,2.4,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,5.0,21.0,28.0,24.0,5,No
+915,2018,KIA Sorento,2.4,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,5.0,21.0,25.0,22.0,4,No
+916,2018,KIA Sorento,2.4,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,5.0,21.0,25.0,22.0,4,No
+917,2018,KIA Sorento,3.3,60,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,18.0,25.0,20.0,4,No
+918,2018,KIA Sorento,3.3,60,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,18.0,25.0,20.0,4,No
+919,2018,KIA Sorento,3.3,60,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,17.0,23.0,19.0,3,No
+920,2018,KIA Sorento,3.3,60,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,17.0,23.0,19.0,3,No
+921,2018,KIA Sorento FE,3.3,60,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,18.0,25.0,21.0,4,No
+922,2018,KIA Sorento FE,3.3,60,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,18.0,25.0,21.0,4,No
+923,2018,KIA Soul,1.6,40,AutoMan-7,2WD,Gasoline,FA,station wagon,3.0,26.0,31.0,28.0,6,No
+924,2018,KIA Soul,1.6,40,AutoMan-7,2WD,Gasoline,CA,station wagon,3.0,26.0,31.0,28.0,6,No
+925,2018,KIA Soul,1.6,40,Man-6,2WD,Gasoline,CA,station wagon,3.0,24.0,30.0,27.0,6,No
+926,2018,KIA Soul,1.6,40,Man-6,2WD,Gasoline,FA,station wagon,3.0,24.0,30.0,27.0,6,No
+927,2018,KIA Soul,1.6,40,SemiAuto-6,2WD,Gasoline,CA,station wagon,3.0,25.0,30.0,27.0,6,No
+928,2018,KIA Soul,1.6,40,SemiAuto-6,2WD,Gasoline,FA,station wagon,3.0,25.0,30.0,27.0,6,No
+929,2018,KIA Soul,2.0,40,SemiAuto-6,2WD,Gasoline,CA,station wagon,7.0,25.0,30.0,27.0,6,No
+930,2018,KIA Soul,2.0,40,SemiAuto-6,2WD,Gasoline,FA,station wagon,7.0,25.0,30.0,27.0,6,No
+931,2018,KIA Soul,2.0,40,SemiAuto-6,2WD,Gasoline,CA,station wagon,5.0,25.0,30.0,27.0,6,No
+932,2018,KIA Soul,2.0,40,SemiAuto-6,2WD,Gasoline,FA,station wagon,5.0,25.0,30.0,27.0,6,No
+933,2018,KIA Sportage,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,21.0,26.0,23.0,5,No
+934,2018,KIA Sportage,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,21.0,26.0,23.0,5,No
+935,2018,KIA Sportage,2.0,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,20.0,23.0,21.0,4,No
+936,2018,KIA Sportage,2.0,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,20.0,23.0,21.0,4,No
+937,2018,KIA Sportage,2.4,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,7.0,22.0,29.0,25.0,5,No
+938,2018,KIA Sportage,2.4,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,7.0,22.0,29.0,25.0,5,No
+939,2018,KIA Sportage,2.4,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,5.0,22.0,29.0,25.0,5,No
+940,2018,KIA Sportage,2.4,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,5.0,22.0,29.0,25.0,5,No
+941,2018,KIA Sportage,2.4,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,7.0,21.0,25.0,23.0,5,No
+942,2018,KIA Sportage,2.4,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,7.0,21.0,25.0,23.0,5,No
+943,2018,KIA Sportage,2.4,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,5.0,21.0,25.0,23.0,5,No
+944,2018,KIA Sportage,2.4,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,5.0,21.0,25.0,23.0,5,No
+945,2018,KIA Sportage FE,2.4,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,7.0,23.0,30.0,26.0,5,No
+946,2018,KIA Sportage FE,2.4,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,7.0,23.0,30.0,26.0,5,No
+947,2018,KIA Sportage FE,2.4,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,5.0,23.0,30.0,26.0,5,No
+948,2018,KIA Sportage FE,2.4,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,5.0,23.0,30.0,26.0,5,No
+949,2018,KIA Sportage FE,2.4,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,7.0,21.0,25.0,22.0,4,No
+950,2018,KIA Sportage FE,2.4,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,7.0,21.0,25.0,22.0,4,No
+951,2018,KIA Sportage FE,2.4,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,5.0,21.0,25.0,22.0,4,No
+952,2018,KIA Sportage FE,2.4,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,5.0,21.0,25.0,22.0,4,No
+953,2018,LAMBORGHINI Aventador Coupe,6.5,120,AMS-7,4WD,Gasoline,CA,small car,1.0,10.0,17.0,12.0,1,No
+954,2018,LAMBORGHINI Aventador Coupe,6.5,120,AMS-7,4WD,Gasoline,FA,small car,1.0,10.0,17.0,12.0,1,No
+955,2018,LAMBORGHINI Aventador Roadster,6.5,120,AMS-7,4WD,Gasoline,CA,small car,1.0,10.0,16.0,12.0,1,No
+956,2018,LAMBORGHINI Aventador Roadster,6.5,120,AMS-7,4WD,Gasoline,FA,small car,1.0,10.0,16.0,12.0,1,No
+957,2018,LAMBORGHINI Aventador S Coupe,6.5,120,AMS-7,4WD,Gasoline,CA,small car,1.0,10.0,17.0,12.0,1,No
+958,2018,LAMBORGHINI Aventador S Coupe,6.5,120,AMS-7,4WD,Gasoline,FA,small car,1.0,10.0,17.0,12.0,1,No
+959,2018,LAMBORGHINI Aventador S Roadster,6.5,120,AMS-7,4WD,Gasoline,CA,small car,1.0,10.0,16.0,12.0,1,No
+960,2018,LAMBORGHINI Aventador S Roadster,6.5,120,AMS-7,4WD,Gasoline,FA,small car,1.0,10.0,16.0,12.0,1,No
+961,2018,LAND ROVER Range Rover Velar,2.0,40,SemiAuto-8,4WD,Diesel,CA,small SUV,1.0,26.0,30.0,28.0,5,No
+962,2018,LAND ROVER Range Rover Velar,2.0,40,SemiAuto-8,4WD,Diesel,FA,small SUV,1.0,26.0,30.0,28.0,5,No
+963,2018,LAND ROVER Range Rover Velar,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small SUV,7.0,21.0,27.0,23.0,5,No
+964,2018,LAND ROVER Range Rover Velar,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small SUV,7.0,21.0,27.0,23.0,5,No
+965,2018,LAND ROVER Range Rover Velar,3.0,60,SemiAuto-8,4WD,Gasoline,CA,small SUV,7.0,18.0,24.0,20.0,4,No
+966,2018,LAND ROVER Range Rover Velar,3.0,60,SemiAuto-8,4WD,Gasoline,FA,small SUV,7.0,18.0,24.0,20.0,4,No
+967,2018,LEXUS GX 460,4.6,80,SemiAuto-6,4WD,Gasoline,FA,standard SUV,3.0,15.0,18.0,16.0,2,No
+968,2018,LEXUS GX 460,4.6,80,SemiAuto-6,4WD,Gasoline,CA,standard SUV,3.0,15.0,18.0,16.0,2,No
+969,2018,LEXUS LC 500,5.0,80,SemiAuto-10,2WD,Gasoline,CA,small car,5.0,16.0,26.0,19.0,3,No
+970,2018,LEXUS LC 500,5.0,80,SemiAuto-10,2WD,Gasoline,FA,small car,5.0,16.0,26.0,19.0,3,No
+971,2018,LEXUS LC 500h,3.5,60,SCV-10,2WD,Gasoline,CA,small car,7.0,26.0,35.0,30.0,7,Yes
+972,2018,LEXUS LC 500h,3.5,60,SCV-10,2WD,Gasoline,FA,small car,7.0,26.0,35.0,30.0,7,Yes
+973,2018,LEXUS LX 570,5.7,80,SemiAuto-8,4WD,Gasoline,FA,standard SUV,3.0,13.0,18.0,15.0,2,No
+974,2018,LEXUS LX 570,5.7,80,SemiAuto-8,4WD,Gasoline,CA,standard SUV,3.0,13.0,18.0,15.0,2,No
+975,2018,LINCOLN Continental,2.7,60,SemiAuto-6,2WD,Gasoline,CA,large car,5.0,18.0,27.0,21.0,4,No
+976,2018,LINCOLN Continental,2.7,60,SemiAuto-6,2WD,Gasoline,FA,large car,5.0,18.0,27.0,21.0,4,No
+977,2018,LINCOLN Continental,2.7,60,SemiAuto-6,4WD,Gasoline,CA,large car,5.0,17.0,25.0,20.0,4,No
+978,2018,LINCOLN Continental,2.7,60,SemiAuto-6,4WD,Gasoline,FA,large car,5.0,17.0,25.0,20.0,4,No
+979,2018,LINCOLN Continental,3.0,60,SemiAuto-6,4WD,Gasoline,CA,large car,5.0,16.0,24.0,19.0,3,No
+980,2018,LINCOLN Continental,3.0,60,SemiAuto-6,4WD,Gasoline,FA,large car,5.0,16.0,24.0,19.0,3,No
+981,2018,LINCOLN Continental,3.7,60,SemiAuto-6,2WD,Gasoline,CA,large car,3.0,17.0,26.0,20.0,4,No
+982,2018,LINCOLN Continental,3.7,60,SemiAuto-6,2WD,Gasoline,FA,large car,3.0,17.0,26.0,20.0,4,No
+983,2018,LINCOLN Continental,3.7,60,SemiAuto-6,4WD,Gasoline,CA,large car,3.0,16.0,24.0,19.0,3,No
+984,2018,LINCOLN Continental,3.7,60,SemiAuto-6,4WD,Gasoline,FA,large car,3.0,16.0,24.0,19.0,3,No
+985,2018,LINCOLN MKT,3.5,60,SemiAuto-6,4WD,Gasoline,FA,standard SUV,3.0,15.0,21.0,17.0,3,No
+986,2018,LINCOLN MKT,3.5,60,SemiAuto-6,4WD,Gasoline,CA,standard SUV,3.0,15.0,21.0,17.0,3,No
+987,2018,LINCOLN MKT,3.7,60,SemiAuto-6,2WD,Gasoline,FA,standard SUV,3.0,16.0,24.0,19.0,3,No
+988,2018,LINCOLN MKT,3.7,60,SemiAuto-6,2WD,Gasoline,CA,standard SUV,3.0,16.0,24.0,19.0,3,No
+989,2018,LINCOLN MKT Livery,3.7,60,Auto-6,4WD,Gasoline,FA,special purpose,3.0,16.0,23.0,18.0,3,No
+990,2018,LINCOLN MKT Livery,3.7,60,Auto-6,4WD,Gasoline,CA,special purpose,3.0,16.0,23.0,18.0,3,No
+991,2018,MASERATI Ghibli,3.0,60,Auto-8,2WD,Gasoline,CA,midsize car,1.0,17.0,24.0,19.0,3,No
+992,2018,MASERATI Ghibli,3.0,60,Auto-8,2WD,Gasoline,FA,midsize car,1.0,17.0,24.0,19.0,3,No
+993,2018,MASERATI Ghibli S,3.0,60,Auto-8,2WD,Gasoline,CA,midsize car,1.0,16.0,24.0,19.0,3,No
+994,2018,MASERATI Ghibli S,3.0,60,Auto-8,2WD,Gasoline,FA,midsize car,1.0,16.0,24.0,19.0,3,No
+995,2018,MASERATI Ghibli S Q4,3.0,60,Auto-8,4WD,Gasoline,CA,midsize car,1.0,16.0,24.0,19.0,3,No
+996,2018,MASERATI Ghibli S Q4,3.0,60,Auto-8,4WD,Gasoline,FA,midsize car,1.0,16.0,24.0,19.0,3,No
+997,2018,MASERATI Granturismo,4.7,80,Auto-6,2WD,Gasoline,CA,small car,1.0,13.0,21.0,16.0,2,No
+998,2018,MASERATI Granturismo,4.7,80,Auto-6,2WD,Gasoline,FA,small car,1.0,13.0,21.0,16.0,2,No
+999,2018,MASERATI Granturismo Convertible,4.7,80,Auto-6,2WD,Gasoline,CA,small car,1.0,13.0,20.0,15.0,2,No
+1000,2018,MASERATI Granturismo Convertible,4.7,80,Auto-6,2WD,Gasoline,FA,small car,1.0,13.0,20.0,15.0,2,No
+1001,2018,MASERATI Levante,3.0,80,Auto-8,4WD,Gasoline,CA,standard SUV,1.0,14.0,20.0,16.0,2,No
+1002,2018,MASERATI Levante,3.0,80,Auto-8,4WD,Gasoline,FA,standard SUV,1.0,14.0,20.0,16.0,2,No
+1003,2018,MASERATI Levante S,3.0,80,Auto-8,4WD,Gasoline,CA,standard SUV,1.0,14.0,19.0,16.0,2,No
+1004,2018,MASERATI Levante S,3.0,80,Auto-8,4WD,Gasoline,FA,standard SUV,1.0,14.0,19.0,16.0,2,No
+1005,2018,MASERATI Quattroporte S,3.0,60,Auto-8,2WD,Gasoline,CA,large car,1.0,16.0,23.0,18.0,3,No
+1006,2018,MASERATI Quattroporte S,3.0,60,Auto-8,2WD,Gasoline,FA,large car,1.0,16.0,23.0,18.0,3,No
+1007,2018,MASERATI Quattroporte S Q4,3.0,60,Auto-8,4WD,Gasoline,CA,large car,1.0,16.0,23.0,18.0,3,No
+1008,2018,MASERATI Quattroporte S Q4,3.0,60,Auto-8,4WD,Gasoline,FA,large car,1.0,16.0,23.0,18.0,3,No
+1009,2018,MASERATI Quattroporte V8,3.8,80,Auto-8,2WD,Gasoline,FA,large car,1.0,15.0,22.0,17.0,3,No
+1010,2018,MAZDA 3,2.0,40,Man-6,2WD,Gasoline,CA,midsize car,7.0,27.0,37.0,31.0,7,Yes
+1011,2018,MAZDA 3,2.0,40,Man-6,2WD,Gasoline,CA,small car,7.0,28.0,38.0,31.0,7,Yes
+1012,2018,MAZDA 3,2.0,40,Man-6,2WD,Gasoline,FA,midsize car,7.0,27.0,37.0,31.0,7,Yes
+1013,2018,MAZDA 3,2.0,40,Man-6,2WD,Gasoline,FA,small car,7.0,28.0,38.0,31.0,7,Yes
+1014,2018,MAZDA 3,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,7.0,28.0,37.0,32.0,7,Yes
+1015,2018,MAZDA 3,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,28.0,37.0,31.0,7,Yes
+1016,2018,MAZDA 3,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,7.0,28.0,37.0,32.0,7,Yes
+1017,2018,MAZDA 3,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,28.0,37.0,31.0,7,Yes
+1018,2018,MAZDA 3,2.5,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,7.0,26.0,35.0,30.0,7,Yes
+1019,2018,MAZDA 3,2.5,40,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,27.0,36.0,30.0,7,Yes
+1020,2018,MAZDA 3,2.5,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,7.0,26.0,35.0,30.0,7,Yes
+1021,2018,MAZDA 3,2.5,40,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,27.0,36.0,30.0,7,Yes
+1022,2018,MAZDA CX-3,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,3.0,29.0,34.0,31.0,7,Yes
+1023,2018,MAZDA CX-3,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,3.0,29.0,34.0,31.0,7,Yes
+1024,2018,MAZDA CX-3,2.0,40,SemiAuto-6,4WD,Gasoline,CA,small car,3.0,27.0,32.0,29.0,6,No
+1025,2018,MAZDA CX-3,2.0,40,SemiAuto-6,4WD,Gasoline,FA,small car,3.0,27.0,32.0,29.0,6,No
+1026,2018,MAZDA CX-9,2.5,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,22.0,28.0,24.0,5,No
+1027,2018,MAZDA CX-9,2.5,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,22.0,28.0,24.0,5,No
+1028,2018,MAZDA CX-9,2.5,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,20.0,26.0,23.0,5,No
+1029,2018,MAZDA CX-9,2.5,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,20.0,26.0,23.0,5,No
+1030,2018,MERCEDES-BENZ AMG C43 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,small car,5.0,19.0,26.0,22.0,4,No
+1031,2018,MERCEDES-BENZ AMG C43 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,small car,5.0,20.0,27.0,22.0,4,No
+1032,2018,MERCEDES-BENZ AMG C43 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,small car,5.0,20.0,27.0,23.0,5,No
+1033,2018,MERCEDES-BENZ AMG C63,4.0,80,Auto-7,2WD,Gasoline,CA,small car,5.0,17.0,22.0,19.0,3,No
+1034,2018,MERCEDES-BENZ AMG C63,4.0,80,Auto-7,2WD,Gasoline,CA,small car,5.0,17.0,23.0,19.0,3,No
+1035,2018,MERCEDES-BENZ AMG C63,4.0,80,Auto-7,2WD,Gasoline,CA,small car,5.0,18.0,24.0,20.0,4,No
+1036,2018,MERCEDES-BENZ AMG C63,4.0,80,Auto-7,2WD,Gasoline,FA,small car,5.0,17.0,22.0,19.0,3,No
+1037,2018,MERCEDES-BENZ AMG C63,4.0,80,Auto-7,2WD,Gasoline,FA,small car,5.0,17.0,23.0,19.0,3,No
+1038,2018,MERCEDES-BENZ AMG C63,4.0,80,Auto-7,2WD,Gasoline,FA,small car,5.0,18.0,24.0,20.0,4,No
+1039,2018,MERCEDES-BENZ AMG C63 S,4.0,80,Auto-7,2WD,Gasoline,CA,small car,5.0,17.0,22.0,19.0,3,No
+1040,2018,MERCEDES-BENZ AMG C63 S,4.0,80,Auto-7,2WD,Gasoline,CA,small car,5.0,17.0,23.0,19.0,3,No
+1041,2018,MERCEDES-BENZ AMG C63 S,4.0,80,Auto-7,2WD,Gasoline,CA,small car,5.0,18.0,24.0,20.0,4,No
+1042,2018,MERCEDES-BENZ AMG C63 S,4.0,80,Auto-7,2WD,Gasoline,FA,small car,5.0,17.0,22.0,19.0,3,No
+1043,2018,MERCEDES-BENZ AMG C63 S,4.0,80,Auto-7,2WD,Gasoline,FA,small car,5.0,17.0,23.0,19.0,3,No
+1044,2018,MERCEDES-BENZ AMG C63 S,4.0,80,Auto-7,2WD,Gasoline,FA,small car,5.0,18.0,24.0,20.0,4,No
+1045,2018,MERCEDES-BENZ AMG CLA45 4Matic,2.0,40,AutoMan-7,4WD,Gasoline,CA,small car,3.0,23.0,30.0,26.0,5,No
+1046,2018,MERCEDES-BENZ AMG CLA45 4Matic,2.0,40,AutoMan-7,4WD,Gasoline,FA,small car,3.0,23.0,30.0,26.0,5,No
+1047,2018,MERCEDES-BENZ AMG CLS63 4Matic,5.5,80,Auto-7,4WD,Gasoline,FA,small car,1.0,16.0,22.0,18.0,3,No
+1048,2018,MERCEDES-BENZ AMG CLS63 4Matic,5.5,80,Auto-7,4WD,Gasoline,CA,small car,3.0,16.0,22.0,18.0,3,No
+1049,2018,MERCEDES-BENZ AMG E43 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,midsize car,5.0,19.0,25.0,21.0,4,No
+1050,2018,MERCEDES-BENZ AMG E63 S 4Matic,4.0,80,Auto-9,4WD,Gasoline,CA,midsize car,5.0,15.0,22.0,18.0,3,No
+1051,2018,MERCEDES-BENZ AMG E63 S 4Matic,4.0,80,Auto-9,4WD,Gasoline,CA,station wagon,5.0,16.0,22.0,18.0,3,No
+1052,2018,MERCEDES-BENZ AMG E63 S 4Matic,4.0,80,Auto-9,4WD,Gasoline,FA,midsize car,5.0,15.0,22.0,18.0,3,No
+1053,2018,MERCEDES-BENZ AMG E63 S 4Matic,4.0,80,Auto-9,4WD,Gasoline,FA,station wagon,5.0,16.0,22.0,18.0,3,No
+1054,2018,MERCEDES-BENZ AMG GLA45 4Matic,2.0,40,AutoMan-7,4WD,Gasoline,CA,station wagon,3.0,22.0,28.0,25.0,5,No
+1055,2018,MERCEDES-BENZ AMG GLA45 4Matic,2.0,40,AutoMan-7,4WD,Gasoline,FA,station wagon,3.0,22.0,28.0,25.0,5,No
+1056,2018,MERCEDES-BENZ AMG GLC43 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,small SUV,5.0,18.0,24.0,20.0,4,No
+1057,2018,MERCEDES-BENZ AMG GLE 43 4Matic,3.0,60,Auto-9,4WD,Gasoline,CA,standard SUV,3.0,17.0,22.0,19.0,3,No
+1058,2018,MERCEDES-BENZ AMG GLE 43 4Matic,3.0,60,Auto-9,4WD,Gasoline,CA,standard SUV,3.0,17.0,23.0,19.0,3,No
+1059,2018,MERCEDES-BENZ AMG GLE 43 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,standard SUV,3.0,17.0,22.0,19.0,3,No
+1060,2018,MERCEDES-BENZ AMG GLE 43 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,standard SUV,3.0,17.0,23.0,19.0,3,No
+1061,2018,MERCEDES-BENZ AMG GLE63,5.5,80,Auto-7,4WD,Gasoline,CA,standard SUV,3.0,14.0,18.0,15.0,2,No
+1062,2018,MERCEDES-BENZ AMG GLE63,5.5,80,Auto-7,4WD,Gasoline,FA,standard SUV,3.0,14.0,18.0,15.0,2,No
+1063,2018,MERCEDES-BENZ AMG GLE63 S,5.5,80,Auto-7,4WD,Gasoline,CA,standard SUV,3.0,14.0,18.0,15.0,2,No
+1064,2018,MERCEDES-BENZ AMG GLE63 S,5.5,80,Auto-7,4WD,Gasoline,FA,standard SUV,3.0,14.0,18.0,15.0,2,No
+1065,2018,MERCEDES-BENZ AMG GLS63,5.5,80,Auto-7,4WD,Gasoline,CA,standard SUV,3.0,13.0,18.0,15.0,2,No
+1066,2018,MERCEDES-BENZ AMG GLS63,5.5,80,Auto-7,4WD,Gasoline,FA,standard SUV,3.0,13.0,18.0,15.0,2,No
+1067,2018,MERCEDES-BENZ AMG GT,4.0,80,AutoMan-7,2WD,Gasoline,CA,small car,5.0,16.0,21.0,18.0,3,No
+1068,2018,MERCEDES-BENZ AMG GT,4.0,80,AutoMan-7,2WD,Gasoline,CA,small car,5.0,16.0,22.0,18.0,3,No
+1069,2018,MERCEDES-BENZ AMG GT,4.0,80,AutoMan-7,2WD,Gasoline,FA,small car,5.0,16.0,21.0,18.0,3,No
+1070,2018,MERCEDES-BENZ AMG GT,4.0,80,AutoMan-7,2WD,Gasoline,FA,small car,5.0,16.0,22.0,18.0,3,No
+1071,2018,MERCEDES-BENZ AMG GT S,4.0,80,AutoMan-7,2WD,Gasoline,CA,small car,5.0,16.0,22.0,18.0,3,No
+1072,2018,MERCEDES-BENZ AMG GT S,4.0,80,AutoMan-7,2WD,Gasoline,FA,small car,5.0,16.0,22.0,18.0,3,No
+1073,2018,MERCEDES-BENZ AMG S63 4Matic,4.0,80,Auto-9,4WD,Gasoline,CA,large car,5.0,17.0,26.0,20.0,4,No
+1074,2018,MERCEDES-BENZ AMG S63 4Matic,4.0,80,Auto-9,4WD,Gasoline,FA,large car,5.0,17.0,26.0,20.0,4,No
+1075,2018,MERCEDES-BENZ AMG SL63,5.5,80,Auto-7,2WD,Gasoline,FA,small car,1.0,16.0,25.0,19.0,3,No
+1076,2018,MERCEDES-BENZ AMG SL63,5.5,80,Auto-7,2WD,Gasoline,CA,small car,3.0,16.0,25.0,19.0,3,No
+1077,2018,MERCEDES-BENZ AMG SL65,6.0,120,Auto-7,2WD,Gasoline,CA,small car,3.0,13.0,22.0,16.0,2,No
+1078,2018,MERCEDES-BENZ AMG SL65,6.0,120,Auto-7,2WD,Gasoline,FA,small car,3.0,13.0,22.0,16.0,2,No
+1079,2018,MERCEDES-BENZ AMG SLC 43,3.0,60,Auto-9,2WD,Gasoline,FA,small car,5.0,20.0,29.0,23.0,5,No
+1080,2018,MERCEDES-BENZ C300,2.0,40,Auto-9,2WD,Gasoline,CA,small car,5.0,22.0,29.0,25.0,5,No
+1081,2018,MERCEDES-BENZ C300,2.0,40,Auto-9,2WD,Gasoline,CA,small car,5.0,22.0,30.0,25.0,5,No
+1082,2018,MERCEDES-BENZ C300,2.0,40,Auto-9,2WD,Gasoline,CA,small car,5.0,24.0,33.0,27.0,6,No
+1083,2018,MERCEDES-BENZ C300,2.0,40,Auto-9,2WD,Gasoline,FA,small car,5.0,22.0,29.0,25.0,5,No
+1084,2018,MERCEDES-BENZ C300,2.0,40,Auto-9,2WD,Gasoline,FA,small car,5.0,22.0,30.0,25.0,5,No
+1085,2018,MERCEDES-BENZ C300,2.0,40,Auto-9,2WD,Gasoline,FA,small car,5.0,24.0,33.0,27.0,6,No
+1086,2018,MERCEDES-BENZ C300 4Matic,2.0,40,Auto-9,4WD,Gasoline,CA,small car,5.0,22.0,29.0,25.0,5,No
+1087,2018,MERCEDES-BENZ C300 4Matic,2.0,40,Auto-9,4WD,Gasoline,CA,small car,5.0,22.0,30.0,25.0,5,No
+1088,2018,MERCEDES-BENZ C300 4Matic,2.0,40,Auto-9,4WD,Gasoline,CA,small car,5.0,23.0,32.0,26.0,5,No
+1089,2018,MERCEDES-BENZ C300 4Matic,2.0,40,Auto-9,4WD,Gasoline,FA,small car,5.0,22.0,29.0,25.0,5,No
+1090,2018,MERCEDES-BENZ C300 4Matic,2.0,40,Auto-9,4WD,Gasoline,FA,small car,5.0,22.0,30.0,25.0,5,No
+1091,2018,MERCEDES-BENZ C300 4Matic,2.0,40,Auto-9,4WD,Gasoline,FA,small car,5.0,23.0,32.0,26.0,5,No
+1092,2018,MERCEDES-BENZ CLA250,2.0,40,AutoMan-7,2WD,Gasoline,CA,small car,5.0,24.0,37.0,29.0,6,No
+1093,2018,MERCEDES-BENZ CLA250,2.0,40,AutoMan-7,2WD,Gasoline,FA,small car,5.0,24.0,37.0,29.0,6,No
+1094,2018,MERCEDES-BENZ CLA250 4Matic,2.0,40,AutoMan-7,4WD,Gasoline,CA,small car,5.0,24.0,32.0,27.0,6,No
+1095,2018,MERCEDES-BENZ CLA250 4Matic,2.0,40,AutoMan-7,4WD,Gasoline,FA,small car,5.0,24.0,32.0,27.0,6,No
+1096,2018,MERCEDES-BENZ CLS550,4.7,80,Auto-9,2WD,Gasoline,FA,small car,1.0,18.0,26.0,21.0,4,No
+1097,2018,MERCEDES-BENZ CLS550,4.7,80,Auto-9,2WD,Gasoline,CA,small car,3.0,18.0,26.0,21.0,4,No
+1098,2018,MERCEDES-BENZ CLS550 4Matic,4.7,80,Auto-9,4WD,Gasoline,FA,small car,1.0,17.0,25.0,20.0,4,No
+1099,2018,MERCEDES-BENZ CLS550 4Matic,4.7,80,Auto-9,4WD,Gasoline,CA,small car,3.0,17.0,25.0,20.0,4,No
+1100,2018,MERCEDES-BENZ E300,2.0,40,Auto-9,2WD,Gasoline,CA,midsize car,5.0,22.0,30.0,25.0,5,No
+1101,2018,MERCEDES-BENZ E300,2.0,40,Auto-9,2WD,Gasoline,FA,midsize car,5.0,22.0,30.0,25.0,5,No
+1102,2018,MERCEDES-BENZ E300 4Matic,2.0,40,Auto-9,4WD,Gasoline,CA,midsize car,5.0,21.0,29.0,24.0,5,No
+1103,2018,MERCEDES-BENZ E300 4Matic,2.0,40,Auto-9,4WD,Gasoline,FA,midsize car,5.0,21.0,29.0,24.0,5,No
+1104,2018,MERCEDES-BENZ E400,3.0,60,Auto-9,2WD,Gasoline,FA,small car,5.0,20.0,26.0,22.0,4,No
+1105,2018,MERCEDES-BENZ E400 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,small car,5.0,20.0,26.0,22.0,4,No
+1106,2018,MERCEDES-BENZ E400 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,station wagon,5.0,19.0,25.0,21.0,4,No
+1107,2018,MERCEDES-BENZ GLA 250,2.0,40,AutoMan-7,2WD,Gasoline,CA,station wagon,5.0,24.0,33.0,27.0,6,No
+1108,2018,MERCEDES-BENZ GLA 250,2.0,40,AutoMan-7,2WD,Gasoline,FA,station wagon,5.0,24.0,33.0,27.0,6,No
+1109,2018,MERCEDES-BENZ GLA250 4Matic,2.0,40,AutoMan-7,4WD,Gasoline,CA,small SUV,5.0,23.0,31.0,26.0,5,No
+1110,2018,MERCEDES-BENZ GLA250 4Matic,2.0,40,AutoMan-7,4WD,Gasoline,FA,small SUV,5.0,23.0,31.0,26.0,5,No
+1111,2018,MERCEDES-BENZ GLC 300,2.0,40,Auto-9,2WD,Gasoline,CA,small SUV,5.0,22.0,28.0,24.0,5,No
+1112,2018,MERCEDES-BENZ GLC 300,2.0,40,Auto-9,2WD,Gasoline,FA,small SUV,5.0,22.0,28.0,24.0,5,No
+1113,2018,MERCEDES-BENZ GLC 300 4Matic,2.0,40,Auto-9,4WD,Gasoline,CA,small SUV,5.0,21.0,28.0,24.0,5,No
+1114,2018,MERCEDES-BENZ GLC 300 4Matic,2.0,40,Auto-9,4WD,Gasoline,CA,small SUV,5.0,22.0,27.0,24.0,5,No
+1115,2018,MERCEDES-BENZ GLC 300 4Matic,2.0,40,Auto-9,4WD,Gasoline,FA,small SUV,5.0,21.0,28.0,24.0,5,No
+1116,2018,MERCEDES-BENZ GLC 300 4Matic,2.0,40,Auto-9,4WD,Gasoline,FA,small SUV,5.0,22.0,27.0,24.0,5,No
+1117,2018,MERCEDES-BENZ GLE350,3.5,60,Auto-7,2WD,Gasoline,FA,standard SUV,1.0,18.0,23.0,20.0,4,No
+1118,2018,MERCEDES-BENZ GLE350,3.5,60,Auto-7,2WD,Gasoline,CA,standard SUV,3.0,18.0,23.0,20.0,4,No
+1119,2018,MERCEDES-BENZ GLE350 4Matic,3.5,60,Auto-7,4WD,Gasoline,FA,standard SUV,1.0,18.0,22.0,19.0,3,No
+1120,2018,MERCEDES-BENZ GLE350 4Matic,3.5,60,Auto-7,4WD,Gasoline,CA,standard SUV,3.0,18.0,22.0,19.0,3,No
+1121,2018,MERCEDES-BENZ GLS450 4Matic,3.0,60,Auto-9,4WD,Gasoline,CA,standard SUV,3.0,17.0,22.0,19.0,3,No
+1122,2018,MERCEDES-BENZ GLS450 4Matic,3.0,60,Auto-9,4WD,Gasoline,FA,standard SUV,3.0,17.0,22.0,19.0,3,No
+1123,2018,MERCEDES-BENZ GLS550 4Matic,4.7,80,Auto-9,4WD,Gasoline,CA,standard SUV,3.0,14.0,19.0,16.0,2,No
+1124,2018,MERCEDES-BENZ GLS550 4Matic,4.7,80,Auto-9,4WD,Gasoline,FA,standard SUV,3.0,14.0,19.0,16.0,2,No
+1125,2018,MERCEDES-BENZ S560 4Matic,4.0,80,Auto-9,4WD,Gasoline,CA,large car,5.0,17.0,27.0,21.0,4,No
+1126,2018,MERCEDES-BENZ S560 4Matic,4.0,80,Auto-9,4WD,Gasoline,FA,large car,5.0,17.0,27.0,21.0,4,No
+1127,2018,MERCEDES-BENZ S560 4Matic Maybach,4.0,80,Auto-9,4WD,Gasoline,CA,large car,5.0,16.0,25.0,19.0,3,No
+1128,2018,MERCEDES-BENZ S560 4Matic Maybach,4.0,80,Auto-9,4WD,Gasoline,FA,large car,5.0,16.0,25.0,19.0,3,No
+1129,2018,MERCEDES-BENZ SL550,4.7,80,Auto-9,2WD,Gasoline,FA,small car,1.0,17.0,25.0,20.0,4,No
+1130,2018,MERCEDES-BENZ SL550,4.7,80,Auto-9,2WD,Gasoline,CA,small car,3.0,17.0,25.0,20.0,4,No
+1131,2018,MERCEDES-BENZ SLC300,2.0,40,Auto-9,2WD,Gasoline,CA,small car,3.0,25.0,32.0,27.0,6,No
+1132,2018,MERCEDES-BENZ SLC300,2.0,40,Auto-9,2WD,Gasoline,FA,small car,3.0,25.0,32.0,27.0,6,No
+1133,2018,MINI Cooper Clubman,1.5,30,Man-6,2WD,Gasoline,CA,midsize car,7.0,24.0,34.0,28.0,6,No
+1134,2018,MINI Cooper Clubman,1.5,30,Man-6,2WD,Gasoline,FA,midsize car,7.0,24.0,34.0,28.0,6,No
+1135,2018,MINI Cooper Clubman,1.5,30,SemiAuto-6,2WD,Gasoline,CA,midsize car,7.0,24.0,32.0,27.0,6,No
+1136,2018,MINI Cooper Clubman,1.5,30,SemiAuto-6,2WD,Gasoline,FA,midsize car,7.0,24.0,32.0,27.0,6,No
+1137,2018,MINI Cooper Clubman All4,1.5,30,Man-6,4WD,Gasoline,FA,midsize car,3.0,22.0,32.0,26.0,5,No
+1138,2018,MINI Cooper Clubman All4,1.5,30,Man-6,4WD,Gasoline,CA,midsize car,3.0,22.0,32.0,26.0,5,No
+1139,2018,MINI Cooper Clubman All4,1.5,30,SemiAuto-8,4WD,Gasoline,FA,midsize car,3.0,23.0,31.0,26.0,5,No
+1140,2018,MINI Cooper Clubman All4,1.5,30,SemiAuto-8,4WD,Gasoline,CA,midsize car,3.0,23.0,31.0,26.0,5,No
+1141,2018,MINI Cooper Convertible,1.5,30,Man-6,2WD,Gasoline,CA,small car,7.0,28.0,37.0,32.0,7,Yes
+1142,2018,MINI Cooper Convertible,1.5,30,Man-6,2WD,Gasoline,FA,small car,7.0,28.0,37.0,32.0,7,Yes
+1143,2018,MINI Cooper Convertible,1.5,30,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,27.0,35.0,30.0,7,Yes
+1144,2018,MINI Cooper Convertible,1.5,30,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,27.0,35.0,30.0,7,Yes
+1145,2018,MINI Cooper Countryman,1.5,30,Man-6,2WD,Gasoline,FA,midsize car,3.0,24.0,34.0,28.0,6,No
+1146,2018,MINI Cooper Countryman,1.5,30,Man-6,2WD,Gasoline,CA,midsize car,3.0,24.0,34.0,28.0,6,No
+1147,2018,MINI Cooper Countryman,1.5,30,SemiAuto-6,2WD,Gasoline,FA,midsize car,3.0,24.0,32.0,27.0,6,No
+1148,2018,MINI Cooper Countryman,1.5,30,SemiAuto-6,2WD,Gasoline,CA,midsize car,3.0,24.0,32.0,27.0,6,No
+1149,2018,MINI Cooper Countryman All4,1.5,30,Man-6,4WD,Gasoline,FA,midsize car,3.0,22.0,32.0,26.0,5,No
+1150,2018,MINI Cooper Countryman All4,1.5,30,Man-6,4WD,Gasoline,CA,midsize car,3.0,22.0,32.0,26.0,5,No
+1151,2018,MINI Cooper Countryman All4,1.5,30,SemiAuto-8,4WD,Gasoline,FA,midsize car,3.0,23.0,30.0,25.0,5,No
+1152,2018,MINI Cooper Countryman All4,1.5,30,SemiAuto-8,4WD,Gasoline,CA,midsize car,3.0,23.0,30.0,25.0,5,No
+1153,2018,MINI Cooper Hardtop,1.5,30,Man-6,2WD,Gasoline,CA,small car,7.0,28.0,37.0,32.0,7,Yes
+1154,2018,MINI Cooper Hardtop,1.5,30,Man-6,2WD,Gasoline,CA,small car,7.0,28.0,38.0,32.0,7,Yes
+1155,2018,MINI Cooper Hardtop,1.5,30,Man-6,2WD,Gasoline,FA,small car,7.0,28.0,37.0,32.0,7,Yes
+1156,2018,MINI Cooper Hardtop,1.5,30,Man-6,2WD,Gasoline,FA,small car,7.0,28.0,38.0,32.0,7,Yes
+1157,2018,MINI Cooper Hardtop,1.5,30,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,27.0,35.0,30.0,7,Yes
+1158,2018,MINI Cooper Hardtop,1.5,30,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,27.0,35.0,30.0,7,Yes
+1159,2018,MINI Cooper S Clubman,2.0,40,Man-6,2WD,Gasoline,CA,midsize car,7.0,22.0,31.0,25.0,5,No
+1160,2018,MINI Cooper S Clubman,2.0,40,Man-6,2WD,Gasoline,FA,midsize car,7.0,22.0,31.0,25.0,5,No
+1161,2018,MINI Cooper S Clubman,2.0,40,SemiAuto-8,2WD,Gasoline,CA,midsize car,7.0,23.0,32.0,27.0,6,No
+1162,2018,MINI Cooper S Clubman,2.0,40,SemiAuto-8,2WD,Gasoline,FA,midsize car,7.0,23.0,32.0,27.0,6,No
+1163,2018,MINI Cooper S Clubman All4,2.0,40,Man-6,4WD,Gasoline,CA,midsize car,7.0,21.0,30.0,24.0,5,No
+1164,2018,MINI Cooper S Clubman All4,2.0,40,Man-6,4WD,Gasoline,FA,midsize car,7.0,21.0,30.0,24.0,5,No
+1165,2018,MINI Cooper S Clubman All4,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,7.0,22.0,31.0,26.0,5,No
+1166,2018,MINI Cooper S Clubman All4,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,7.0,22.0,31.0,26.0,5,No
+1167,2018,MINI Cooper S Convertible,2.0,40,Man-6,2WD,Gasoline,CA,small car,7.0,23.0,32.0,26.0,5,No
+1168,2018,MINI Cooper S Convertible,2.0,40,Man-6,2WD,Gasoline,FA,small car,7.0,23.0,32.0,26.0,5,No
+1169,2018,MINI Cooper S Convertible,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,25.0,33.0,28.0,6,No
+1170,2018,MINI Cooper S Convertible,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,25.0,33.0,28.0,6,No
+1171,2018,MINI Cooper S Countryman,2.0,40,SemiAuto-8,2WD,Gasoline,CA,midsize car,7.0,23.0,32.0,27.0,6,No
+1172,2018,MINI Cooper S Countryman,2.0,40,SemiAuto-8,2WD,Gasoline,FA,midsize car,7.0,23.0,32.0,27.0,6,No
+1173,2018,MINI Cooper S Countryman All4,2.0,40,Man-6,4WD,Gasoline,CA,midsize car,7.0,21.0,31.0,24.0,5,No
+1174,2018,MINI Cooper S Countryman All4,2.0,40,Man-6,4WD,Gasoline,FA,midsize car,7.0,21.0,31.0,24.0,5,No
+1175,2018,MINI Cooper S Countryman All4,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,7.0,22.0,31.0,26.0,5,No
+1176,2018,MINI Cooper S Countryman All4,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,7.0,22.0,31.0,26.0,5,No
+1177,2018,MINI Cooper S Hardtop,2.0,40,Man-6,2WD,Gasoline,CA,small car,7.0,23.0,32.0,26.0,5,No
+1178,2018,MINI Cooper S Hardtop,2.0,40,Man-6,2WD,Gasoline,FA,small car,7.0,23.0,32.0,26.0,5,No
+1179,2018,MINI Cooper S Hardtop,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,25.0,32.0,28.0,6,No
+1180,2018,MINI Cooper S Hardtop,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,25.0,32.0,28.0,6,No
+1181,2018,MINI JCW Countryman All4,2.0,40,Man-6,4WD,Gasoline,CA,midsize car,3.0,20.0,29.0,24.0,5,No
+1182,2018,MINI JCW Countryman All4,2.0,40,Man-6,4WD,Gasoline,FA,midsize car,3.0,20.0,29.0,24.0,5,No
+1183,2018,MINI JCW Countryman All4,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,3.0,22.0,30.0,25.0,5,No
+1184,2018,MINI JCW Countryman All4,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,3.0,22.0,30.0,25.0,5,No
+1185,2018,MINI John Cooper Works Clubman All4,2.0,40,Man-6,4WD,Gasoline,CA,midsize car,3.0,21.0,31.0,24.0,5,No
+1186,2018,MINI John Cooper Works Clubman All4,2.0,40,Man-6,4WD,Gasoline,FA,midsize car,3.0,21.0,31.0,24.0,5,No
+1187,2018,MINI John Cooper Works Clubman All4,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,3.0,23.0,31.0,26.0,5,No
+1188,2018,MINI John Cooper Works Clubman All4,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,3.0,23.0,31.0,26.0,5,No
+1189,2018,MINI John Cooper Works Convertible,2.0,40,Man-6,2WD,Gasoline,CA,small car,3.0,22.0,31.0,25.0,5,No
+1190,2018,MINI John Cooper Works Convertible,2.0,40,Man-6,2WD,Gasoline,FA,small car,3.0,22.0,31.0,25.0,5,No
+1191,2018,MINI John Cooper Works Convertible,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,3.0,25.0,33.0,28.0,6,No
+1192,2018,MINI John Cooper Works Convertible,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,3.0,25.0,33.0,28.0,6,No
+1193,2018,MINI John Cooper Works Hardtop,2.0,40,Man-6,2WD,Gasoline,CA,small car,3.0,23.0,32.0,26.0,5,No
+1194,2018,MINI John Cooper Works Hardtop,2.0,40,Man-6,2WD,Gasoline,FA,small car,3.0,23.0,32.0,26.0,5,No
+1195,2018,MINI John Cooper Works Hardtop,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,3.0,25.0,32.0,28.0,6,No
+1196,2018,MINI John Cooper Works Hardtop,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,3.0,25.0,32.0,28.0,6,No
+1197,2018,MITSUBISHI Mirage,1.2,30,CVT,2WD,Gasoline,CA,small car,5.0,37.0,43.0,39.0,9,Yes
+1198,2018,MITSUBISHI Mirage,1.2,30,CVT,2WD,Gasoline,FA,small car,5.0,37.0,43.0,39.0,9,Yes
+1199,2018,MITSUBISHI Mirage,1.2,30,Man-5,2WD,Gasoline,CA,small car,5.0,33.0,41.0,36.0,8,Yes
+1200,2018,MITSUBISHI Mirage,1.2,30,Man-5,2WD,Gasoline,FA,small car,5.0,33.0,41.0,36.0,8,Yes
+1201,2018,MITSUBISHI Mirage G4,1.2,30,CVT,2WD,Gasoline,CA,small car,5.0,35.0,41.0,37.0,8,Yes
+1202,2018,MITSUBISHI Mirage G4,1.2,30,CVT,2WD,Gasoline,FA,small car,5.0,35.0,41.0,37.0,8,Yes
+1203,2018,MITSUBISHI Mirage G4,1.2,30,Man-5,2WD,Gasoline,CA,small car,5.0,33.0,40.0,35.0,8,Yes
+1204,2018,MITSUBISHI Mirage G4,1.2,30,Man-5,2WD,Gasoline,FA,small car,5.0,33.0,40.0,35.0,8,Yes
+1205,2018,NISSAN 370Z,3.7,60,Man-6,2WD,Gasoline,FA,small car,3.0,18.0,26.0,21.0,4,No
+1206,2018,NISSAN 370Z,3.7,60,Man-6,2WD,Gasoline,CA,small car,3.0,18.0,26.0,21.0,4,No
+1207,2018,NISSAN 370Z,3.7,60,SemiAuto-7,2WD,Gasoline,FA,small car,3.0,19.0,26.0,22.0,4,No
+1208,2018,NISSAN 370Z,3.7,60,SemiAuto-7,2WD,Gasoline,CA,small car,3.0,19.0,26.0,22.0,4,No
+1209,2018,NISSAN 370Z Roadster,3.7,60,Man-6,2WD,Gasoline,FA,small car,3.0,17.0,24.0,20.0,4,No
+1210,2018,NISSAN 370Z Roadster,3.7,60,Man-6,2WD,Gasoline,CA,small car,3.0,17.0,24.0,20.0,4,No
+1211,2018,NISSAN 370Z Roadster,3.7,60,SemiAuto-7,2WD,Gasoline,FA,small car,3.0,18.0,25.0,21.0,4,No
+1212,2018,NISSAN 370Z Roadster,3.7,60,SemiAuto-7,2WD,Gasoline,CA,small car,3.0,18.0,25.0,21.0,4,No
+1213,2018,NISSAN Armada,5.6,80,SemiAuto-7,2WD,Gasoline,FA,standard SUV,3.0,14.0,19.0,16.0,2,No
+1214,2018,NISSAN Armada,5.6,80,SemiAuto-7,2WD,Gasoline,CA,standard SUV,3.0,14.0,19.0,16.0,2,No
+1215,2018,NISSAN Armada,5.6,80,SemiAuto-7,4WD,Gasoline,FA,standard SUV,3.0,13.0,18.0,15.0,2,No
+1216,2018,NISSAN Armada,5.6,80,SemiAuto-7,4WD,Gasoline,CA,standard SUV,3.0,13.0,18.0,15.0,2,No
+1217,2018,NISSAN Versa,1.6,40,Auto-4,2WD,Gasoline,CA,small car,3.0,26.0,35.0,29.0,6,No
+1218,2018,NISSAN Versa,1.6,40,Auto-4,2WD,Gasoline,FA,small car,3.0,26.0,35.0,29.0,6,No
+1219,2018,NISSAN Versa,1.6,40,CVT,2WD,Gasoline,CA,small car,3.0,31.0,39.0,34.0,8,Yes
+1220,2018,NISSAN Versa,1.6,40,CVT,2WD,Gasoline,FA,small car,3.0,31.0,39.0,34.0,8,Yes
+1221,2018,NISSAN Versa,1.6,40,CVT,2WD,Gasoline,CA,small car,5.0,31.0,39.0,34.0,8,Yes
+1222,2018,NISSAN Versa,1.6,40,CVT,2WD,Gasoline,FA,small car,5.0,31.0,39.0,34.0,8,Yes
+1223,2018,NISSAN Versa,1.6,40,Man-5,2WD,Gasoline,CA,small car,3.0,27.0,36.0,30.0,7,Yes
+1224,2018,NISSAN Versa,1.6,40,Man-5,2WD,Gasoline,FA,small car,3.0,27.0,36.0,30.0,7,Yes
+1225,2018,NISSAN Versa,1.6,40,Man-5,2WD,Gasoline,CA,small car,5.0,27.0,36.0,30.0,7,Yes
+1226,2018,NISSAN Versa,1.6,40,Man-5,2WD,Gasoline,FA,small car,5.0,27.0,36.0,30.0,7,Yes
+1227,2018,PORSCHE 911 Carrera,3.0,60,AMS-7,2WD,Gasoline,CA,small car,1.0,22.0,30.0,25.0,5,No
+1228,2018,PORSCHE 911 Carrera,3.0,60,AMS-7,2WD,Gasoline,FA,small car,1.0,22.0,30.0,25.0,5,No
+1229,2018,PORSCHE 911 Carrera,3.0,60,Man-7,2WD,Gasoline,CA,small car,1.0,20.0,29.0,23.0,5,No
+1230,2018,PORSCHE 911 Carrera,3.0,60,Man-7,2WD,Gasoline,FA,small car,1.0,20.0,29.0,23.0,5,No
+1231,2018,PORSCHE 911 Carrera 4,3.0,60,AMS-7,4WD,Gasoline,CA,small car,1.0,22.0,28.0,24.0,5,No
+1232,2018,PORSCHE 911 Carrera 4,3.0,60,AMS-7,4WD,Gasoline,FA,small car,1.0,22.0,28.0,24.0,5,No
+1233,2018,PORSCHE 911 Carrera 4,3.0,60,Man-7,4WD,Gasoline,CA,small car,1.0,20.0,28.0,23.0,5,No
+1234,2018,PORSCHE 911 Carrera 4,3.0,60,Man-7,4WD,Gasoline,FA,small car,1.0,20.0,28.0,23.0,5,No
+1235,2018,PORSCHE 911 Carrera 4 Cabriolet,3.0,60,AMS-7,4WD,Gasoline,CA,small car,1.0,21.0,28.0,24.0,5,No
+1236,2018,PORSCHE 911 Carrera 4 Cabriolet,3.0,60,AMS-7,4WD,Gasoline,FA,small car,1.0,21.0,28.0,24.0,5,No
+1237,2018,PORSCHE 911 Carrera 4 Cabriolet,3.0,60,Man-7,4WD,Gasoline,CA,small car,1.0,19.0,28.0,22.0,4,No
+1238,2018,PORSCHE 911 Carrera 4 Cabriolet,3.0,60,Man-7,4WD,Gasoline,FA,small car,1.0,19.0,28.0,22.0,4,No
+1239,2018,PORSCHE 911 Carrera 4 GTS,3.0,60,AMS-7,4WD,Gasoline,CA,small car,1.0,20.0,26.0,22.0,4,No
+1240,2018,PORSCHE 911 Carrera 4 GTS,3.0,60,AMS-7,4WD,Gasoline,FA,small car,1.0,20.0,26.0,22.0,4,No
+1241,2018,PORSCHE 911 Carrera 4 GTS,3.0,60,Man-7,4WD,Gasoline,CA,small car,1.0,18.0,26.0,21.0,4,No
+1242,2018,PORSCHE 911 Carrera 4 GTS,3.0,60,Man-7,4WD,Gasoline,FA,small car,1.0,18.0,26.0,21.0,4,No
+1243,2018,PORSCHE 911 Carrera 4 GTS Cabriolet,3.0,60,AMS-7,4WD,Gasoline,CA,small car,1.0,20.0,25.0,22.0,4,No
+1244,2018,PORSCHE 911 Carrera 4 GTS Cabriolet,3.0,60,AMS-7,4WD,Gasoline,FA,small car,1.0,20.0,25.0,22.0,4,No
+1245,2018,PORSCHE 911 Carrera 4 GTS Cabriolet,3.0,60,Man-7,4WD,Gasoline,CA,small car,1.0,18.0,26.0,21.0,4,No
+1246,2018,PORSCHE 911 Carrera 4 GTS Cabriolet,3.0,60,Man-7,4WD,Gasoline,FA,small car,1.0,18.0,26.0,21.0,4,No
+1247,2018,PORSCHE 911 Carrera 4S,3.0,60,AMS-7,4WD,Gasoline,CA,small car,1.0,21.0,28.0,24.0,5,No
+1248,2018,PORSCHE 911 Carrera 4S,3.0,60,AMS-7,4WD,Gasoline,FA,small car,1.0,21.0,28.0,24.0,5,No
+1249,2018,PORSCHE 911 Carrera 4S,3.0,60,Man-7,4WD,Gasoline,CA,small car,1.0,20.0,28.0,23.0,5,No
+1250,2018,PORSCHE 911 Carrera 4S,3.0,60,Man-7,4WD,Gasoline,FA,small car,1.0,20.0,28.0,23.0,5,No
+1251,2018,PORSCHE 911 Carrera 4S Cabriolet,3.0,60,AMS-7,4WD,Gasoline,CA,small car,1.0,21.0,28.0,24.0,5,No
+1252,2018,PORSCHE 911 Carrera 4S Cabriolet,3.0,60,AMS-7,4WD,Gasoline,FA,small car,1.0,21.0,28.0,24.0,5,No
+1253,2018,PORSCHE 911 Carrera 4S Cabriolet,3.0,60,Man-7,4WD,Gasoline,CA,small car,1.0,19.0,28.0,22.0,4,No
+1254,2018,PORSCHE 911 Carrera 4S Cabriolet,3.0,60,Man-7,4WD,Gasoline,FA,small car,1.0,19.0,28.0,22.0,4,No
+1255,2018,PORSCHE 911 Carrera Cabriolet,3.0,60,AMS-7,2WD,Gasoline,CA,small car,1.0,22.0,28.0,24.0,5,No
+1256,2018,PORSCHE 911 Carrera Cabriolet,3.0,60,AMS-7,2WD,Gasoline,FA,small car,1.0,22.0,28.0,24.0,5,No
+1257,2018,PORSCHE 911 Carrera Cabriolet,3.0,60,Man-7,2WD,Gasoline,CA,small car,1.0,20.0,29.0,23.0,5,No
+1258,2018,PORSCHE 911 Carrera Cabriolet,3.0,60,Man-7,2WD,Gasoline,FA,small car,1.0,20.0,29.0,23.0,5,No
+1259,2018,PORSCHE 911 Carrera GTS,3.0,60,AMS-7,2WD,Gasoline,CA,small car,1.0,20.0,26.0,23.0,5,No
+1260,2018,PORSCHE 911 Carrera GTS,3.0,60,AMS-7,2WD,Gasoline,FA,small car,1.0,20.0,26.0,23.0,5,No
+1261,2018,PORSCHE 911 Carrera GTS,3.0,60,Man-7,2WD,Gasoline,CA,small car,1.0,18.0,26.0,21.0,4,No
+1262,2018,PORSCHE 911 Carrera GTS,3.0,60,Man-7,2WD,Gasoline,FA,small car,1.0,18.0,26.0,21.0,4,No
+1263,2018,PORSCHE 911 Carrera GTS Cabriolet,3.0,60,AMS-7,2WD,Gasoline,CA,small car,1.0,20.0,26.0,22.0,4,No
+1264,2018,PORSCHE 911 Carrera GTS Cabriolet,3.0,60,AMS-7,2WD,Gasoline,FA,small car,1.0,20.0,26.0,22.0,4,No
+1265,2018,PORSCHE 911 Carrera GTS Cabriolet,3.0,60,Man-7,2WD,Gasoline,CA,small car,1.0,18.0,26.0,21.0,4,No
+1266,2018,PORSCHE 911 Carrera GTS Cabriolet,3.0,60,Man-7,2WD,Gasoline,FA,small car,1.0,18.0,26.0,21.0,4,No
+1267,2018,PORSCHE 911 Carrera S,3.0,60,AMS-7,2WD,Gasoline,CA,small car,1.0,22.0,28.0,24.0,5,No
+1268,2018,PORSCHE 911 Carrera S,3.0,60,AMS-7,2WD,Gasoline,FA,small car,1.0,22.0,28.0,24.0,5,No
+1269,2018,PORSCHE 911 Carrera S,3.0,60,Man-7,2WD,Gasoline,CA,small car,1.0,20.0,29.0,23.0,5,No
+1270,2018,PORSCHE 911 Carrera S,3.0,60,Man-7,2WD,Gasoline,FA,small car,1.0,20.0,29.0,23.0,5,No
+1271,2018,PORSCHE 911 Carrera S Cabriolet,3.0,60,AMS-7,2WD,Gasoline,CA,small car,1.0,22.0,28.0,24.0,5,No
+1272,2018,PORSCHE 911 Carrera S Cabriolet,3.0,60,AMS-7,2WD,Gasoline,FA,small car,1.0,22.0,28.0,24.0,5,No
+1273,2018,PORSCHE 911 Carrera S Cabriolet,3.0,60,Man-7,2WD,Gasoline,CA,small car,1.0,20.0,28.0,23.0,5,No
+1274,2018,PORSCHE 911 Carrera S Cabriolet,3.0,60,Man-7,2WD,Gasoline,FA,small car,1.0,20.0,28.0,23.0,5,No
+1275,2018,PORSCHE 911 Targa 4,3.0,60,AMS-7,4WD,Gasoline,CA,small car,1.0,22.0,28.0,24.0,5,No
+1276,2018,PORSCHE 911 Targa 4,3.0,60,AMS-7,4WD,Gasoline,FA,small car,1.0,22.0,28.0,24.0,5,No
+1277,2018,PORSCHE 911 Targa 4,3.0,60,Man-7,4WD,Gasoline,CA,small car,1.0,19.0,28.0,22.0,4,No
+1278,2018,PORSCHE 911 Targa 4,3.0,60,Man-7,4WD,Gasoline,FA,small car,1.0,19.0,28.0,22.0,4,No
+1279,2018,PORSCHE 911 Targa 4 GTS,3.0,60,AMS-7,4WD,Gasoline,CA,small car,1.0,20.0,26.0,22.0,4,No
+1280,2018,PORSCHE 911 Targa 4 GTS,3.0,60,AMS-7,4WD,Gasoline,FA,small car,1.0,20.0,26.0,22.0,4,No
+1281,2018,PORSCHE 911 Targa 4 GTS,3.0,60,Man-7,4WD,Gasoline,CA,small car,1.0,18.0,26.0,21.0,4,No
+1282,2018,PORSCHE 911 Targa 4 GTS,3.0,60,Man-7,4WD,Gasoline,FA,small car,1.0,18.0,26.0,21.0,4,No
+1283,2018,PORSCHE 911 Targa 4S,3.0,60,AMS-7,4WD,Gasoline,CA,small car,1.0,21.0,27.0,24.0,5,No
+1284,2018,PORSCHE 911 Targa 4S,3.0,60,AMS-7,4WD,Gasoline,FA,small car,1.0,21.0,27.0,24.0,5,No
+1285,2018,PORSCHE 911 Targa 4S,3.0,60,Man-7,4WD,Gasoline,CA,small car,1.0,19.0,28.0,22.0,4,No
+1286,2018,PORSCHE 911 Targa 4S,3.0,60,Man-7,4WD,Gasoline,FA,small car,1.0,19.0,28.0,22.0,4,No
+1287,2018,PORSCHE 911 Turbo,3.8,60,AMS-7,4WD,Gasoline,CA,small car,1.0,19.0,24.0,21.0,4,No
+1288,2018,PORSCHE 911 Turbo,3.8,60,AMS-7,4WD,Gasoline,FA,small car,1.0,19.0,24.0,21.0,4,No
+1289,2018,PORSCHE 911 Turbo Cabriolet,3.8,60,AMS-7,4WD,Gasoline,CA,small car,1.0,19.0,24.0,21.0,4,No
+1290,2018,PORSCHE 911 Turbo Cabriolet,3.8,60,AMS-7,4WD,Gasoline,FA,small car,1.0,19.0,24.0,21.0,4,No
+1291,2018,PORSCHE 911 Turbo S,3.8,60,AMS-7,4WD,Gasoline,CA,small car,1.0,19.0,24.0,21.0,4,No
+1292,2018,PORSCHE 911 Turbo S,3.8,60,AMS-7,4WD,Gasoline,FA,small car,1.0,19.0,24.0,21.0,4,No
+1293,2018,PORSCHE 911 Turbo S Cabriolet,3.8,60,AMS-7,4WD,Gasoline,CA,small car,1.0,19.0,24.0,21.0,4,No
+1294,2018,PORSCHE 911 Turbo S Cabriolet,3.8,60,AMS-7,4WD,Gasoline,FA,small car,1.0,19.0,24.0,21.0,4,No
+1295,2018,PORSCHE Boxster,2.0,40,AMS-7,2WD,Gasoline,CA,small car,3.0,22.0,29.0,25.0,5,No
+1296,2018,PORSCHE Boxster,2.0,40,AMS-7,2WD,Gasoline,FA,small car,3.0,22.0,29.0,25.0,5,No
+1297,2018,PORSCHE Boxster,2.0,40,Man-6,2WD,Gasoline,CA,small car,3.0,21.0,28.0,24.0,5,No
+1298,2018,PORSCHE Boxster,2.0,40,Man-6,2WD,Gasoline,FA,small car,3.0,21.0,28.0,24.0,5,No
+1299,2018,PORSCHE Boxster S,2.5,40,AMS-7,2WD,Gasoline,CA,small car,3.0,21.0,28.0,24.0,5,No
+1300,2018,PORSCHE Boxster S,2.5,40,AMS-7,2WD,Gasoline,FA,small car,3.0,21.0,28.0,24.0,5,No
+1301,2018,PORSCHE Boxster S,2.5,40,Man-6,2WD,Gasoline,CA,small car,3.0,20.0,26.0,22.0,4,No
+1302,2018,PORSCHE Boxster S,2.5,40,Man-6,2WD,Gasoline,FA,small car,3.0,20.0,26.0,22.0,4,No
+1303,2018,PORSCHE Cayenne GTS,3.6,60,SemiAuto-8,4WD,Gasoline,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1304,2018,PORSCHE Cayenne GTS,3.6,60,SemiAuto-8,4WD,Gasoline,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1305,2018,PORSCHE Cayenne S,3.6,60,SemiAuto-8,4WD,Gasoline,FA,standard SUV,3.0,17.0,24.0,20.0,4,No
+1306,2018,PORSCHE Cayenne S,3.6,60,SemiAuto-8,4WD,Gasoline,CA,standard SUV,3.0,17.0,24.0,20.0,4,No
+1307,2018,PORSCHE Macan,2.0,40,AMS-7,4WD,Gasoline,FA,small SUV,3.0,20.0,25.0,22.0,4,No
+1308,2018,PORSCHE Macan,2.0,40,AMS-7,4WD,Gasoline,CA,small SUV,3.0,20.0,25.0,22.0,4,No
+1309,2018,PORSCHE Macan GTS,3.0,60,AMS-7,4WD,Gasoline,FA,small SUV,3.0,17.0,23.0,19.0,3,No
+1310,2018,PORSCHE Macan GTS,3.0,60,AMS-7,4WD,Gasoline,CA,small SUV,3.0,17.0,23.0,19.0,3,No
+1311,2018,PORSCHE Macan S,3.0,60,AMS-7,4WD,Gasoline,FA,small SUV,3.0,17.0,23.0,19.0,3,No
+1312,2018,PORSCHE Macan S,3.0,60,AMS-7,4WD,Gasoline,CA,small SUV,3.0,17.0,23.0,19.0,3,No
+1313,2018,PORSCHE Panamera,3.0,60,AMS-8,2WD,Gasoline,CA,large car,5.0,21.0,28.0,24.0,5,No
+1314,2018,PORSCHE Panamera,3.0,60,AMS-8,2WD,Gasoline,FA,large car,5.0,21.0,28.0,24.0,5,No
+1315,2018,PORSCHE Panamera 4,3.0,60,AMS-8,4WD,Gasoline,CA,large car,5.0,21.0,27.0,23.0,5,No
+1316,2018,PORSCHE Panamera 4,3.0,60,AMS-8,4WD,Gasoline,FA,large car,5.0,21.0,27.0,23.0,5,No
+1317,2018,PORSCHE Panamera 4 Executive,3.0,60,AMS-8,4WD,Gasoline,CA,large car,5.0,21.0,27.0,23.0,5,No
+1318,2018,PORSCHE Panamera 4 Executive,3.0,60,AMS-8,4WD,Gasoline,FA,large car,5.0,21.0,27.0,23.0,5,No
+1319,2018,PORSCHE Panamera 4S,2.9,60,AMS-8,4WD,Gasoline,CA,large car,5.0,21.0,28.0,23.0,5,No
+1320,2018,PORSCHE Panamera 4S,2.9,60,AMS-8,4WD,Gasoline,FA,large car,5.0,21.0,28.0,23.0,5,No
+1321,2018,PORSCHE Panamera 4S Executive,2.9,60,AMS-8,4WD,Gasoline,CA,large car,5.0,21.0,28.0,23.0,5,No
+1322,2018,PORSCHE Panamera 4S Executive,2.9,60,AMS-8,4WD,Gasoline,FA,large car,5.0,21.0,28.0,23.0,5,No
+1323,2018,PORSCHE Panamera Turbo,4.0,80,AMS-8,4WD,Gasoline,CA,large car,3.0,18.0,25.0,21.0,4,No
+1324,2018,PORSCHE Panamera Turbo,4.0,80,AMS-8,4WD,Gasoline,FA,large car,3.0,18.0,25.0,21.0,4,No
+1325,2018,PORSCHE Panamera Turbo Executive,4.0,80,AMS-8,4WD,Gasoline,CA,large car,3.0,18.0,25.0,21.0,4,No
+1326,2018,PORSCHE Panamera Turbo Executive,4.0,80,AMS-8,4WD,Gasoline,FA,large car,3.0,18.0,25.0,21.0,4,No
+1327,2018,RAM 1500,5.7,80,Auto-6,4WD,Gasoline,CA,pickup,3.0,13.0,18.0,14.0,1,No
+1328,2018,RAM 1500,5.7,80,Auto-6,4WD,Gasoline,FA,pickup,3.0,13.0,18.0,14.0,1,No
+1329,2018,RAM 1500,5.7,80,Auto-8,2WD,Gasoline,CA,pickup,3.0,15.0,22.0,17.0,3,No
+1330,2018,RAM 1500,5.7,80,Auto-8,2WD,Gasoline,FA,pickup,3.0,15.0,22.0,17.0,3,No
+1331,2018,RAM 1500,5.7,80,Auto-8,4WD,Gasoline,CA,pickup,3.0,15.0,21.0,17.0,3,No
+1332,2018,RAM 1500,5.7,80,Auto-8,4WD,Gasoline,FA,pickup,3.0,15.0,21.0,17.0,3,No
+1333,2018,RAM Promaster City,2.4,40,Auto-9,2WD,Gasoline,CA,special purpose,3.0,21.0,28.0,24.0,5,No
+1334,2018,RAM Promaster City,2.4,40,Auto-9,2WD,Gasoline,FA,special purpose,3.0,21.0,28.0,24.0,5,No
+1335,2018,SUBARU Crosstrek,2.0,40,Man-6,4WD,Gasoline,CA,small SUV,7.0,23.0,29.0,25.0,5,No
+1336,2018,SUBARU Crosstrek,2.0,40,Man-6,4WD,Gasoline,FA,small SUV,6.0,23.0,29.0,25.0,5,No
+1337,2018,SUBARU Crosstrek,2.0,40,SCV-7,4WD,Gasoline,CA,small SUV,7.0,27.0,33.0,29.0,6,No
+1338,2018,SUBARU Crosstrek,2.0,40,SCV-7,4WD,Gasoline,FA,small SUV,6.0,27.0,33.0,29.0,6,No
+1339,2018,SUBARU Forester,2.0,40,SCV-8,4WD,Gasoline,CA,small SUV,1.0,23.0,27.0,25.0,5,No
+1340,2018,SUBARU Forester,2.0,40,SCV-8,4WD,Gasoline,FA,small SUV,1.0,23.0,27.0,25.0,5,No
+1341,2018,SUBARU Forester,2.5,40,Man-6,4WD,Gasoline,CA,small SUV,7.0,22.0,28.0,24.0,5,No
+1342,2018,SUBARU Forester,2.5,40,Man-6,4WD,Gasoline,FA,small SUV,5.0,22.0,28.0,24.0,5,No
+1343,2018,SUBARU Forester,2.5,40,SCV-6,4WD,Gasoline,CA,small SUV,7.0,26.0,32.0,28.0,6,No
+1344,2018,SUBARU Forester,2.5,40,SCV-6,4WD,Gasoline,FA,small SUV,5.0,26.0,32.0,28.0,6,No
+1345,2018,SUBARU Impreza,2.0,40,Man-5,4WD,Gasoline,CA,midsize car,7.0,24.0,32.0,27.0,6,No
+1346,2018,SUBARU Impreza,2.0,40,Man-5,4WD,Gasoline,CA,station wagon,7.0,24.0,31.0,26.0,5,No
+1347,2018,SUBARU Impreza,2.0,40,Man-5,4WD,Gasoline,FA,midsize car,6.0,24.0,32.0,27.0,6,No
+1348,2018,SUBARU Impreza,2.0,40,Man-5,4WD,Gasoline,FA,station wagon,6.0,24.0,31.0,26.0,5,No
+1349,2018,SUBARU Impreza,2.0,40,SCV-7,4WD,Gasoline,CA,midsize car,7.0,28.0,38.0,32.0,7,Yes
+1350,2018,SUBARU Impreza,2.0,40,SCV-7,4WD,Gasoline,CA,station wagon,7.0,28.0,37.0,31.0,7,Yes
+1351,2018,SUBARU Impreza,2.0,40,SCV-7,4WD,Gasoline,FA,midsize car,6.0,28.0,38.0,32.0,7,Yes
+1352,2018,SUBARU Impreza,2.0,40,SCV-7,4WD,Gasoline,FA,station wagon,6.0,28.0,37.0,31.0,7,Yes
+1353,2018,SUBARU Impreza Sport,2.0,40,Man-5,4WD,Gasoline,CA,midsize car,7.0,23.0,31.0,26.0,5,No
+1354,2018,SUBARU Impreza Sport,2.0,40,Man-5,4WD,Gasoline,CA,station wagon,7.0,22.0,30.0,25.0,5,No
+1355,2018,SUBARU Impreza Sport,2.0,40,Man-5,4WD,Gasoline,FA,midsize car,6.0,23.0,31.0,26.0,5,No
+1356,2018,SUBARU Impreza Sport,2.0,40,Man-5,4WD,Gasoline,FA,station wagon,6.0,22.0,30.0,25.0,5,No
+1357,2018,SUBARU Impreza Sport,2.0,40,SCV-7,4WD,Gasoline,CA,midsize car,7.0,27.0,36.0,30.0,7,Yes
+1358,2018,SUBARU Impreza Sport,2.0,40,SCV-7,4WD,Gasoline,CA,station wagon,7.0,27.0,35.0,30.0,7,Yes
+1359,2018,SUBARU Impreza Sport,2.0,40,SCV-7,4WD,Gasoline,FA,midsize car,6.0,27.0,36.0,30.0,7,Yes
+1360,2018,SUBARU Impreza Sport,2.0,40,SCV-7,4WD,Gasoline,FA,station wagon,6.0,27.0,35.0,30.0,7,Yes
+1361,2018,SUBARU Legacy,2.5,40,SCV-7,4WD,Gasoline,CA,midsize car,7.0,25.0,34.0,29.0,6,No
+1362,2018,SUBARU Legacy,2.5,40,SCV-7,4WD,Gasoline,FA,midsize car,5.0,25.0,34.0,29.0,6,No
+1363,2018,SUBARU Legacy,3.6,60,SCV-6,4WD,Gasoline,CA,midsize car,3.0,20.0,28.0,23.0,5,No
+1364,2018,SUBARU Legacy,3.6,60,SCV-6,4WD,Gasoline,FA,midsize car,3.0,20.0,28.0,23.0,5,No
+1365,2018,SUBARU Outback,2.5,40,SCV-7,4WD,Gasoline,CA,small SUV,7.0,25.0,32.0,28.0,6,No
+1366,2018,SUBARU Outback,2.5,40,SCV-7,4WD,Gasoline,FA,small SUV,5.0,25.0,32.0,28.0,6,No
+1367,2018,SUBARU Outback,3.6,60,SCV-6,4WD,Gasoline,CA,small SUV,3.0,20.0,27.0,22.0,4,No
+1368,2018,SUBARU Outback,3.6,60,SCV-6,4WD,Gasoline,FA,small SUV,3.0,20.0,27.0,22.0,4,No
+1369,2018,SUBARU WRX,2.0,40,Man-6,4WD,Gasoline,CA,small car,1.0,21.0,27.0,23.0,5,No
+1370,2018,SUBARU WRX,2.0,40,Man-6,4WD,Gasoline,FA,small car,1.0,21.0,27.0,23.0,5,No
+1371,2018,SUBARU WRX,2.0,40,SCV-8,4WD,Gasoline,CA,small car,1.0,18.0,24.0,21.0,4,No
+1372,2018,SUBARU WRX,2.0,40,SCV-8,4WD,Gasoline,FA,small car,1.0,18.0,24.0,21.0,4,No
+1373,2018,SUBARU WRX,2.5,40,Man-6,4WD,Gasoline,CA,small car,1.0,17.0,22.0,19.0,3,No
+1374,2018,SUBARU WRX,2.5,40,Man-6,4WD,Gasoline,FA,small car,1.0,17.0,22.0,19.0,3,No
+1375,2018,TOYOTA 4Runner,4.0,60,SemiAuto-5,2WD,Gasoline,FA,standard SUV,3.0,17.0,21.0,18.0,3,No
+1376,2018,TOYOTA 4Runner,4.0,60,SemiAuto-5,2WD,Gasoline,CA,standard SUV,3.0,17.0,21.0,18.0,3,No
+1377,2018,TOYOTA 4Runner,4.0,60,SemiAuto-5,4WD,Gasoline,FA,standard SUV,3.0,17.0,20.0,18.0,3,No
+1378,2018,TOYOTA 4Runner,4.0,60,SemiAuto-5,4WD,Gasoline,CA,standard SUV,3.0,17.0,20.0,18.0,3,No
+1379,2018,TOYOTA Avalon,3.5,60,SemiAuto-6,2WD,Gasoline,FA,midsize car,3.0,21.0,30.0,24.0,5,No
+1380,2018,TOYOTA Avalon,3.5,60,SemiAuto-6,2WD,Gasoline,CA,midsize car,3.0,21.0,30.0,24.0,5,No
+1381,2018,TOYOTA Avalon Hybrid,2.5,40,SCV-6,2WD,Gasoline,CA,midsize car,7.0,40.0,39.0,40.0,9,Yes
+1382,2018,TOYOTA Avalon Hybrid,2.5,40,SCV-6,2WD,Gasoline,FA,midsize car,7.0,40.0,39.0,40.0,9,Yes
+1383,2018,TOYOTA C-HR,2.0,40,SCV-7,2WD,Gasoline,CA,small car,3.0,27.0,31.0,29.0,6,No
+1384,2018,TOYOTA C-HR,2.0,40,SCV-7,2WD,Gasoline,FA,small car,3.0,27.0,31.0,29.0,6,No
+1385,2018,TOYOTA Camry,2.5,40,SemiAuto-8,2WD,Gasoline,CA,midsize car,7.0,29.0,41.0,34.0,8,Yes
+1386,2018,TOYOTA Camry,2.5,40,SemiAuto-8,2WD,Gasoline,FA,midsize car,7.0,29.0,41.0,34.0,8,Yes
+1387,2018,TOYOTA Camry,3.5,60,SemiAuto-8,2WD,Gasoline,CA,midsize car,5.0,22.0,33.0,26.0,5,No
+1388,2018,TOYOTA Camry,3.5,60,SemiAuto-8,2WD,Gasoline,FA,midsize car,5.0,22.0,33.0,26.0,5,No
+1389,2018,TOYOTA Camry Hybrid LE,2.5,40,SCV-6,2WD,Gasoline,CA,midsize car,7.0,51.0,53.0,52.0,10,Elite
+1390,2018,TOYOTA Camry Hybrid LE,2.5,40,SCV-6,2WD,Gasoline,FA,midsize car,7.0,51.0,53.0,52.0,10,Elite
+1391,2018,TOYOTA Camry Hybrid XLE/SE,2.5,40,SCV-6,2WD,Gasoline,CA,midsize car,7.0,44.0,47.0,46.0,10,Elite
+1392,2018,TOYOTA Camry Hybrid XLE/SE,2.5,40,SCV-6,2WD,Gasoline,FA,midsize car,7.0,44.0,47.0,46.0,10,Elite
+1393,2018,TOYOTA Camry LE/SE,2.5,40,SemiAuto-8,2WD,Gasoline,CA,midsize car,7.0,28.0,39.0,32.0,7,Yes
+1394,2018,TOYOTA Camry LE/SE,2.5,40,SemiAuto-8,2WD,Gasoline,FA,midsize car,7.0,28.0,39.0,32.0,7,Yes
+1395,2018,TOYOTA Camry XLE/XSE,2.5,40,SemiAuto-8,2WD,Gasoline,CA,midsize car,7.0,28.0,39.0,32.0,7,Yes
+1396,2018,TOYOTA Camry XLE/XSE,2.5,40,SemiAuto-8,2WD,Gasoline,FA,midsize car,7.0,28.0,39.0,32.0,7,Yes
+1397,2018,TOYOTA Camry XSE,3.5,60,SemiAuto-8,2WD,Gasoline,CA,midsize car,5.0,22.0,32.0,26.0,5,No
+1398,2018,TOYOTA Camry XSE,3.5,60,SemiAuto-8,2WD,Gasoline,FA,midsize car,5.0,22.0,32.0,26.0,5,No
+1399,2018,TOYOTA Corolla,1.8,40,CVT,2WD,Gasoline,FA,midsize car,3.0,28.0,36.0,32.0,7,Yes
+1400,2018,TOYOTA Corolla,1.8,40,CVT,2WD,Gasoline,CA,midsize car,3.0,28.0,36.0,32.0,7,Yes
+1401,2018,TOYOTA Corolla,1.8,40,Man-6,2WD,Gasoline,FA,midsize car,3.0,27.0,35.0,30.0,7,Yes
+1402,2018,TOYOTA Corolla,1.8,40,Man-6,2WD,Gasoline,CA,midsize car,3.0,27.0,35.0,30.0,7,Yes
+1403,2018,TOYOTA Corolla,1.8,40,SCV-7,2WD,Gasoline,FA,midsize car,3.0,28.0,35.0,31.0,7,Yes
+1404,2018,TOYOTA Corolla,1.8,40,SCV-7,2WD,Gasoline,CA,midsize car,3.0,28.0,35.0,31.0,7,Yes
+1405,2018,TOYOTA Corolla LE Eco,1.8,40,CVT,2WD,Gasoline,CA,midsize car,5.0,29.0,38.0,33.0,8,Yes
+1406,2018,TOYOTA Corolla LE Eco,1.8,40,CVT,2WD,Gasoline,CA,midsize car,5.0,30.0,40.0,34.0,8,Yes
+1407,2018,TOYOTA Corolla LE Eco,1.8,40,CVT,2WD,Gasoline,FA,midsize car,5.0,29.0,38.0,33.0,8,Yes
+1408,2018,TOYOTA Corolla LE Eco,1.8,40,CVT,2WD,Gasoline,FA,midsize car,5.0,30.0,40.0,34.0,8,Yes
+1409,2018,TOYOTA Corolla iM,1.8,40,Man-6,2WD,Gasoline,CA,midsize car,5.0,27.0,35.0,30.0,7,Yes
+1410,2018,TOYOTA Corolla iM,1.8,40,Man-6,2WD,Gasoline,FA,midsize car,5.0,27.0,35.0,30.0,7,Yes
+1411,2018,TOYOTA Corolla iM,1.8,40,SCV-7,2WD,Gasoline,CA,midsize car,5.0,28.0,36.0,31.0,7,Yes
+1412,2018,TOYOTA Corolla iM,1.8,40,SCV-7,2WD,Gasoline,FA,midsize car,5.0,28.0,36.0,31.0,7,Yes
+1413,2018,TOYOTA Land Cruiser,5.7,80,SemiAuto-8,4WD,Gasoline,FA,standard SUV,3.0,13.0,18.0,15.0,2,No
+1414,2018,TOYOTA Land Cruiser,5.7,80,SemiAuto-8,4WD,Gasoline,CA,standard SUV,3.0,13.0,18.0,15.0,2,No
+1415,2018,TOYOTA Prius c,1.5,40,CVT,2WD,Gasoline,CA,small car,7.0,48.0,43.0,46.0,10,Elite
+1416,2018,TOYOTA Prius c,1.5,40,CVT,2WD,Gasoline,FA,small car,7.0,48.0,43.0,46.0,10,Elite
+1417,2018,TOYOTA RAV4,2.5,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,23.0,29.0,25.0,5,No
+1418,2018,TOYOTA RAV4,2.5,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,23.0,29.0,25.0,5,No
+1419,2018,TOYOTA RAV4,2.5,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,22.0,28.0,25.0,5,No
+1420,2018,TOYOTA RAV4,2.5,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,22.0,28.0,25.0,5,No
+1421,2018,TOYOTA RAV4 Hybrid,2.5,40,SCV-6,4WD,Gasoline,CA,small SUV,7.0,34.0,30.0,32.0,7,Yes
+1422,2018,TOYOTA RAV4 Hybrid,2.5,40,SCV-6,4WD,Gasoline,FA,small SUV,7.0,34.0,30.0,32.0,7,Yes
+1423,2018,TOYOTA RAV4 LE/XLE,2.5,40,SemiAuto-6,2WD,Gasoline,FA,small SUV,3.0,23.0,30.0,26.0,5,No
+1424,2018,TOYOTA RAV4 LE/XLE,2.5,40,SemiAuto-6,2WD,Gasoline,CA,small SUV,3.0,23.0,30.0,26.0,5,No
+1425,2018,TOYOTA RAV4 Limited,2.5,40,SemiAuto-6,4WD,Gasoline,FA,small SUV,3.0,22.0,28.0,24.0,5,No
+1426,2018,TOYOTA RAV4 Limited,2.5,40,SemiAuto-6,4WD,Gasoline,CA,small SUV,3.0,22.0,28.0,24.0,5,No
+1427,2018,TOYOTA Sequoia,5.7,80,SemiAuto-6,2WD,Gasoline,CA,standard SUV,5.0,13.0,17.0,15.0,2,No
+1428,2018,TOYOTA Sequoia,5.7,80,SemiAuto-6,2WD,Gasoline,FA,standard SUV,5.0,13.0,17.0,15.0,2,No
+1429,2018,TOYOTA Sequoia,5.7,80,SemiAuto-6,4WD,Gasoline,CA,standard SUV,5.0,13.0,17.0,14.0,1,No
+1430,2018,TOYOTA Sequoia,5.7,80,SemiAuto-6,4WD,Gasoline,FA,standard SUV,5.0,13.0,17.0,14.0,1,No
+1431,2018,TOYOTA Tundra,4.6,80,SemiAuto-6,2WD,Gasoline,FA,pickup,3.0,15.0,19.0,16.0,2,No
+1432,2018,TOYOTA Tundra,4.6,80,SemiAuto-6,2WD,Gasoline,CA,pickup,3.0,15.0,19.0,16.0,2,No
+1433,2018,TOYOTA Tundra,4.6,80,SemiAuto-6,4WD,Gasoline,FA,pickup,3.0,14.0,18.0,16.0,2,No
+1434,2018,TOYOTA Tundra,4.6,80,SemiAuto-6,4WD,Gasoline,CA,pickup,3.0,14.0,18.0,16.0,2,No
+1435,2018,TOYOTA Tundra,5.7,80,SemiAuto-6,2WD,Gasoline,CA,pickup,5.0,13.0,18.0,15.0,2,No
+1436,2018,TOYOTA Tundra,5.7,80,SemiAuto-6,2WD,Gasoline,FA,pickup,5.0,13.0,18.0,15.0,2,No
+1437,2018,TOYOTA Tundra,5.7,80,SemiAuto-6,4WD,Gasoline,CA,pickup,5.0,13.0,17.0,14.0,1,No
+1438,2018,TOYOTA Tundra,5.7,80,SemiAuto-6,4WD,Gasoline,FA,pickup,5.0,13.0,17.0,14.0,1,No
+1439,2018,TOYOTA Yaris,1.5,40,Auto-4,2WD,Gasoline,FA,small car,3.0,30.0,35.0,32.0,7,Yes
+1440,2018,TOYOTA Yaris,1.5,40,Auto-4,2WD,Gasoline,CA,small car,3.0,30.0,35.0,32.0,7,Yes
+1441,2018,TOYOTA Yaris,1.5,40,Man-5,2WD,Gasoline,FA,small car,3.0,30.0,36.0,33.0,8,Yes
+1442,2018,TOYOTA Yaris,1.5,40,Man-5,2WD,Gasoline,CA,small car,3.0,30.0,36.0,33.0,8,Yes
+1443,2018,VOLKSWAGEN Beetle,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,26.0,33.0,29.0,6,No
+1444,2018,VOLKSWAGEN Beetle,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,26.0,33.0,29.0,6,No
+1445,2018,VOLKSWAGEN Beetle Convertible,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,26.0,33.0,29.0,6,No
+1446,2018,VOLKSWAGEN Beetle Convertible,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,26.0,33.0,29.0,6,No
+1447,2018,VOLKSWAGEN Beetle Dune,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,26.0,34.0,29.0,6,No
+1448,2018,VOLKSWAGEN Beetle Dune,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,26.0,34.0,29.0,6,No
+1449,2018,VOLKSWAGEN Beetle Dune Convertible,2.0,40,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,26.0,34.0,29.0,6,No
+1450,2018,VOLKSWAGEN Beetle Dune Convertible,2.0,40,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,26.0,34.0,29.0,6,No
+1451,2018,VOLKSWAGEN Golf R,2.0,40,AMS-7,4WD,Gasoline,FA,small car,3.0,22.0,29.0,25.0,5,No
+1452,2018,VOLKSWAGEN Golf R,2.0,40,AMS-7,4WD,Gasoline,CA,small car,3.0,22.0,29.0,25.0,5,No
+1453,2018,VOLKSWAGEN Golf R,2.0,40,Man-6,4WD,Gasoline,FA,small car,3.0,21.0,29.0,24.0,5,No
+1454,2018,VOLKSWAGEN Golf R,2.0,40,Man-6,4WD,Gasoline,CA,small car,3.0,21.0,29.0,24.0,5,No
+1455,2018,VOLKSWAGEN Jetta,1.4,40,Man-5,2WD,Gasoline,FA,small car,3.0,28.0,40.0,33.0,8,Yes
+1456,2018,VOLKSWAGEN Jetta,1.4,40,Man-5,2WD,Gasoline,CA,small car,3.0,28.0,40.0,33.0,8,Yes
+1457,2018,VOLKSWAGEN Jetta,1.4,40,SemiAuto-6,2WD,Gasoline,CA,small car,5.0,28.0,38.0,32.0,7,Yes
+1458,2018,VOLKSWAGEN Jetta,1.4,40,SemiAuto-6,2WD,Gasoline,FA,small car,5.0,28.0,38.0,32.0,7,Yes
+1459,2018,VOLKSWAGEN Jetta,1.8,40,SemiAuto-6,2WD,Gasoline,CA,small car,7.0,24.0,33.0,28.0,6,No
+1460,2018,VOLKSWAGEN Jetta,1.8,40,SemiAuto-6,2WD,Gasoline,FA,small car,7.0,24.0,33.0,28.0,6,No
+1461,2018,VOLKSWAGEN Jetta,2.0,40,AMS-6,2WD,Gasoline,CA,small car,7.0,24.0,33.0,27.0,6,No
+1462,2018,VOLKSWAGEN Jetta,2.0,40,AMS-6,2WD,Gasoline,FA,small car,7.0,24.0,33.0,27.0,6,No
+1463,2018,VOLKSWAGEN Passat,2.0,40,SemiAuto-6,2WD,Gasoline,CA,midsize car,7.0,25.0,36.0,29.0,6,No
+1464,2018,VOLKSWAGEN Passat,2.0,40,SemiAuto-6,2WD,Gasoline,FA,midsize car,7.0,25.0,36.0,29.0,6,No
+1465,2018,VOLKSWAGEN Tiguan,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small SUV,7.0,22.0,27.0,24.0,5,No
+1466,2018,VOLKSWAGEN Tiguan,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small SUV,7.0,22.0,27.0,24.0,5,No
+1467,2018,VOLKSWAGEN Tiguan 4Motion,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small SUV,7.0,21.0,27.0,23.0,5,No
+1468,2018,VOLKSWAGEN Tiguan 4Motion,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small SUV,7.0,21.0,27.0,23.0,5,No
+1469,2018,VOLVO Atlas,3.6,60,SemiAuto-8,2WD,Gasoline,CA,small SUV,5.0,18.0,25.0,20.0,4,No
+1470,2018,VOLVO Atlas,3.6,60,SemiAuto-8,2WD,Gasoline,FA,small SUV,5.0,18.0,25.0,20.0,4,No
+1471,2018,VOLVO Atlas 4Motion,3.6,60,SemiAuto-8,4WD,Gasoline,CA,small SUV,5.0,17.0,23.0,19.0,3,No
+1472,2018,VOLVO Atlas 4Motion,3.6,60,SemiAuto-8,4WD,Gasoline,FA,small SUV,5.0,17.0,23.0,19.0,3,No
+1473,2018,VOLVO S60,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,25.0,36.0,29.0,6,No
+1474,2018,VOLVO S60,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,25.0,36.0,29.0,6,No
+1475,2018,VOLVO S60,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,22.0,32.0,26.0,5,No
+1476,2018,VOLVO S60,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,22.0,33.0,26.0,5,No
+1477,2018,VOLVO S60,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,22.0,32.0,26.0,5,No
+1478,2018,VOLVO S60,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,22.0,33.0,26.0,5,No
+1479,2018,VOLVO S60 CC,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,22.0,30.0,25.0,5,No
+1480,2018,VOLVO S60 CC,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,22.0,30.0,25.0,5,No
+1481,2018,VOLVO S60 Inscription,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,25.0,36.0,29.0,6,No
+1482,2018,VOLVO S60 Inscription,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,25.0,36.0,29.0,6,No
+1483,2018,VOLVO S60 Inscription,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,3.0,22.0,33.0,26.0,5,No
+1484,2018,VOLVO S60 Inscription,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,3.0,22.0,33.0,26.0,5,No
+1485,2018,VOLVO S60 Polestar,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,1.0,20.0,27.0,22.0,4,No
+1486,2018,VOLVO S60 Polestar,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,1.0,20.0,27.0,22.0,4,No
+1487,2018,VOLVO S90,2.0,40,SemiAuto-8,2WD,Gasoline,CA,midsize car,3.0,24.0,34.0,27.0,6,No
+1488,2018,VOLVO S90,2.0,40,SemiAuto-8,2WD,Gasoline,FA,midsize car,3.0,24.0,34.0,27.0,6,No
+1489,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,3.0,22.0,31.0,25.0,5,No
+1490,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,3.0,23.0,32.0,26.0,5,No
+1491,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,3.0,22.0,31.0,25.0,5,No
+1492,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,3.0,23.0,32.0,26.0,5,No
+1493,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,5.0,23.0,32.0,26.0,5,No
+1494,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,5.0,23.0,32.0,26.0,5,No
+1495,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,5.0,22.0,31.0,25.0,5,No
+1496,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,5.0,22.0,31.0,25.0,5,No
+1497,2018,VOLVO V60,2.0,40,SemiAuto-8,2WD,Gasoline,CA,station wagon,3.0,25.0,36.0,29.0,6,No
+1498,2018,VOLVO V60,2.0,40,SemiAuto-8,2WD,Gasoline,FA,station wagon,3.0,25.0,36.0,29.0,6,No
+1499,2018,VOLVO V60,2.0,40,SemiAuto-8,4WD,Gasoline,CA,station wagon,3.0,22.0,32.0,26.0,5,No
+1500,2018,VOLVO V60,2.0,40,SemiAuto-8,4WD,Gasoline,CA,station wagon,3.0,22.0,33.0,26.0,5,No
+1501,2018,VOLVO V60,2.0,40,SemiAuto-8,4WD,Gasoline,FA,station wagon,3.0,22.0,32.0,26.0,5,No
+1502,2018,VOLVO V60,2.0,40,SemiAuto-8,4WD,Gasoline,FA,station wagon,3.0,22.0,33.0,26.0,5,No
+1503,2018,VOLVO V60 CC,2.0,40,SemiAuto-8,4WD,Gasoline,CA,station wagon,3.0,22.0,30.0,25.0,5,No
+1504,2018,VOLVO V60 CC,2.0,40,SemiAuto-8,4WD,Gasoline,FA,station wagon,3.0,22.0,30.0,25.0,5,No
+1505,2018,VOLVO V60 Polestar,2.0,40,SemiAuto-8,4WD,Gasoline,CA,station wagon,1.0,20.0,27.0,22.0,4,No
+1506,2018,VOLVO V60 Polestar,2.0,40,SemiAuto-8,4WD,Gasoline,FA,station wagon,1.0,20.0,27.0,22.0,4,No
+1507,2018,VOLVO V90,2.0,40,SemiAuto-8,2WD,Gasoline,CA,station wagon,5.0,24.0,34.0,27.0,6,No
+1508,2018,VOLVO V90,2.0,40,SemiAuto-8,2WD,Gasoline,FA,station wagon,5.0,24.0,34.0,27.0,6,No
+1509,2018,VOLVO V90,2.0,40,SemiAuto-8,4WD,Gasoline,CA,station wagon,5.0,22.0,31.0,25.0,5,No
+1510,2018,VOLVO V90,2.0,40,SemiAuto-8,4WD,Gasoline,FA,station wagon,5.0,22.0,31.0,25.0,5,No
+1511,2018,VOLVO V90 CC,2.0,40,SemiAuto-8,4WD,Gasoline,CA,station wagon,5.0,23.0,31.0,26.0,5,No
+1512,2018,VOLVO V90 CC,2.0,40,SemiAuto-8,4WD,Gasoline,FA,station wagon,5.0,23.0,31.0,26.0,5,No
+1513,2018,VOLVO V90 CC,2.0,40,SemiAuto-8,4WD,Gasoline,CA,station wagon,5.0,22.0,29.0,25.0,5,No
+1514,2018,VOLVO V90 CC,2.0,40,SemiAuto-8,4WD,Gasoline,FA,station wagon,5.0,22.0,29.0,25.0,5,No
+1515,2018,VOLVO XC 60,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small SUV,5.0,22.0,28.0,24.0,5,No
+1516,2018,VOLVO XC 60,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small SUV,5.0,22.0,28.0,24.0,5,No
+1517,2018,VOLVO XC 60,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small SUV,5.0,21.0,27.0,23.0,5,No
+1518,2018,VOLVO XC 60,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small SUV,5.0,21.0,27.0,23.0,5,No
+1519,2018,VOLVO XC 90,2.0,40,SemiAuto-8,2WD,Gasoline,CA,standard SUV,5.0,22.0,29.0,25.0,5,No
+1520,2018,VOLVO XC 90,2.0,40,SemiAuto-8,2WD,Gasoline,FA,standard SUV,5.0,22.0,29.0,25.0,5,No
+1521,2018,VOLVO XC 90,2.0,40,SemiAuto-8,4WD,Gasoline,CA,standard SUV,5.0,22.0,28.0,24.0,5,No
+1522,2018,VOLVO XC 90,2.0,40,SemiAuto-8,4WD,Gasoline,FA,standard SUV,5.0,22.0,28.0,24.0,5,No
+1523,2018,VOLVO XC 90,2.0,40,SemiAuto-8,4WD,Gasoline,CA,standard SUV,5.0,20.0,27.0,23.0,5,No
+1524,2018,VOLVO XC 90,2.0,40,SemiAuto-8,4WD,Gasoline,FA,standard SUV,5.0,20.0,27.0,23.0,5,No
+1525,2018,BMW 330e,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,3.0,28.0,34.0,30.0,10,Yes
+1526,2018,BMW 330e,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,3.0,28.0,34.0,30.0,10,Yes
+1527,2018,BMW 530e,2.0,40,SemiAuto-8,2WD,Gasoline,CA,small car,7.0,27.0,31.0,29.0,10,Elite
+1528,2018,BMW 530e,2.0,40,SemiAuto-8,2WD,Gasoline,FA,small car,7.0,27.0,31.0,29.0,10,Elite
+1529,2018,BMW 530e,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small car,7.0,27.0,31.0,28.0,10,Elite
+1530,2018,BMW 530e,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small car,7.0,27.0,31.0,28.0,10,Elite
+1531,2018,BMW 740e,2.0,40,SemiAuto-8,4WD,Gasoline,CA,large car,3.0,25.0,29.0,27.0,9,Yes
+1532,2018,BMW 740e,2.0,40,SemiAuto-8,4WD,Gasoline,FA,large car,3.0,25.0,29.0,27.0,9,Yes
+1533,2018,CHEVROLET Impala,3.6,60,SemiAuto-6,2WD,Ethanol,CA,large car,5.0,14.0,20.0,16.0,4,No
+1534,2018,CHEVROLET Impala,3.6,60,SemiAuto-6,2WD,Ethanol,FA,large car,5.0,14.0,20.0,16.0,4,No
+1535,2018,CHEVROLET Silverado 15,4.3,60,Auto-6,2WD,Ethanol,CA,pickup,5.0,12.0,16.0,14.0,4,No
+1536,2018,CHEVROLET Silverado 15,4.3,60,Auto-6,2WD,Ethanol,FA,pickup,5.0,12.0,16.0,14.0,4,No
+1537,2018,CHEVROLET Silverado 15,4.3,60,Auto-6,4WD,Ethanol,CA,pickup,5.0,12.0,15.0,13.0,3,No
+1538,2018,CHEVROLET Silverado 15,4.3,60,Auto-6,4WD,Ethanol,FA,pickup,5.0,12.0,15.0,13.0,3,No
+1539,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,2WD,Ethanol,CA,pickup,3.0,12.0,17.0,14.0,3,No
+1540,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,2WD,Ethanol,FA,pickup,3.0,12.0,17.0,14.0,3,No
+1541,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,2WD,Ethanol,CA,standard SUV,3.0,12.0,17.0,14.0,3,No
+1542,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,2WD,Ethanol,FA,standard SUV,3.0,12.0,17.0,14.0,3,No
+1543,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,4WD,Ethanol,CA,standard SUV,3.0,11.0,15.0,12.0,3,No
+1544,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,4WD,Ethanol,FA,standard SUV,3.0,11.0,15.0,12.0,3,No
+1545,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,2WD,Ethanol,CA,standard SUV,3.0,12.0,17.0,14.0,3,No
+1546,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,2WD,Ethanol,FA,standard SUV,3.0,12.0,17.0,14.0,3,No
+1547,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,4WD,Ethanol,CA,standard SUV,3.0,11.0,16.0,13.0,3,No
+1548,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,4WD,Ethanol,FA,standard SUV,3.0,11.0,16.0,13.0,3,No
+1549,2018,CHEVROLET Volt,1.5,40,CVT,2WD,Gasoline,CA,small car,3.0,43.0,42.0,42.0,10,Yes
+1550,2018,CHEVROLET Volt,1.5,40,CVT,2WD,Gasoline,FA,small car,3.0,43.0,42.0,42.0,10,Yes
+1551,2018,CHEVROLET Volt,1.5,40,CVT,2WD,Gasoline,CA,small car,7.0,43.0,42.0,42.0,10,Elite
+1552,2018,CHEVROLET Volt,1.5,40,CVT,2WD,Gasoline,FA,small car,7.0,43.0,42.0,42.0,10,Elite
+1553,2018,CHRYSLER 300,3.6,60,Auto-8,2WD,Ethanol,CA,large car,3.0,14.0,22.0,17.0,5,No
+1554,2018,CHRYSLER 300,3.6,60,Auto-8,2WD,Ethanol,FA,large car,3.0,14.0,22.0,17.0,5,No
+1555,2018,CHRYSLER 300,3.6,60,Auto-8,4WD,Ethanol,CA,large car,3.0,13.0,20.0,16.0,4,No
+1556,2018,CHRYSLER 300,3.6,60,Auto-8,4WD,Ethanol,FA,large car,3.0,13.0,20.0,16.0,4,No
+1557,2018,DODGE Charger,3.6,60,Auto-8,2WD,Ethanol,CA,large car,3.0,14.0,22.0,17.0,5,No
+1558,2018,DODGE Charger,3.6,60,Auto-8,2WD,Ethanol,FA,large car,3.0,14.0,22.0,17.0,5,No
+1559,2018,DODGE Charger,3.6,60,Auto-8,4WD,Ethanol,CA,large car,3.0,13.0,20.0,16.0,4,No
+1560,2018,DODGE Charger,3.6,60,Auto-8,4WD,Ethanol,FA,large car,3.0,13.0,20.0,16.0,4,No
+1561,2018,DODGE Journey,3.6,60,Auto-6,2WD,Ethanol,FA,small SUV,3.0,12.0,18.0,14.0,3,No
+1562,2018,FORD Fusion Energi Plug-in Hybrid,2.0,40,CVT,2WD,Gasoline,CA,midsize car,7.0,43.0,41.0,42.0,10,Elite
+1563,2018,FORD Fusion Energi Plug-in Hybrid,2.0,40,CVT,2WD,Gasoline,FA,midsize car,7.0,43.0,41.0,42.0,10,Elite
+1564,2018,FORD Transit Connect,2.5,40,SemiAuto-6,2WD,Ethanol,FA,special purpose,3.0,14.0,19.0,16.0,4,No
+1565,2018,FORD Transit Connect,2.5,40,SemiAuto-6,2WD,Ethanol,FA,special purpose,3.0,15.0,20.0,17.0,5,No
+1566,2018,GMC Sierra 15,4.3,60,Auto-6,2WD,Ethanol,CA,pickup,5.0,12.0,16.0,14.0,4,No
+1567,2018,GMC Sierra 15,4.3,60,Auto-6,2WD,Ethanol,FA,pickup,5.0,12.0,16.0,14.0,4,No
+1568,2018,GMC Sierra 15,4.3,60,Auto-6,4WD,Ethanol,CA,pickup,5.0,12.0,15.0,13.0,3,No
+1569,2018,GMC Sierra 15,4.3,60,Auto-6,4WD,Ethanol,FA,pickup,5.0,12.0,15.0,13.0,3,No
+1570,2018,GMC Sierra 15,5.3,80,Auto-6,2WD,Ethanol,CA,pickup,3.0,12.0,17.0,14.0,3,No
+1571,2018,GMC Sierra 15,5.3,80,Auto-6,2WD,Ethanol,FA,pickup,3.0,12.0,17.0,14.0,3,No
+1572,2018,GMC Yukon 1500,5.3,80,Auto-6,2WD,Ethanol,CA,standard SUV,3.0,12.0,17.0,14.0,3,No
+1573,2018,GMC Yukon 1500,5.3,80,Auto-6,2WD,Ethanol,FA,standard SUV,3.0,12.0,17.0,14.0,3,No
+1574,2018,GMC Yukon 1500,5.3,80,Auto-6,4WD,Ethanol,CA,standard SUV,3.0,11.0,16.0,13.0,3,No
+1575,2018,GMC Yukon 1500,5.3,80,Auto-6,4WD,Ethanol,FA,standard SUV,3.0,11.0,16.0,13.0,3,No
+1576,2018,GMC Yukon 1500 XL,5.3,80,Auto-6,2WD,Ethanol,CA,standard SUV,3.0,12.0,17.0,14.0,3,No
+1577,2018,GMC Yukon 1500 XL,5.3,80,Auto-6,2WD,Ethanol,FA,standard SUV,3.0,12.0,17.0,14.0,3,No
+1578,2018,GMC Yukon XL 1500,5.3,80,Auto-6,4WD,Ethanol,CA,standard SUV,3.0,11.0,15.0,12.0,3,No
+1579,2018,GMC Yukon XL 1500,5.3,80,Auto-6,4WD,Ethanol,FA,standard SUV,3.0,11.0,15.0,12.0,3,No
+1580,2018,JEEP Cherokee,2.4,40,Auto-9,2WD,Ethanol,CA,small SUV,3.0,15.0,22.0,18.0,5,No
+1581,2018,JEEP Cherokee,2.4,40,Auto-9,2WD,Ethanol,FA,small SUV,3.0,15.0,22.0,18.0,5,No
+1582,2018,JEEP Cherokee,2.4,40,Auto-9,4WD,Ethanol,CA,small SUV,3.0,14.0,21.0,17.0,5,No
+1583,2018,JEEP Cherokee,2.4,40,Auto-9,4WD,Ethanol,FA,small SUV,3.0,14.0,21.0,17.0,5,No
+1584,2018,KARMA Revero,2.0,40,Auto-1,2WD,Gasoline,FA,small car,1.0,20.0,21.0,20.0,10,No
+1585,2018,KARMA Revero,2.0,40,Auto-1,2WD,Gasoline,CA,small car,1.0,20.0,21.0,20.0,10,No
+1586,2018,MERCEDES-BENZ CLA250 4Matic,2.0,40,AutoMan-7,4WD,Ethanol,CA,small car,5.0,17.0,24.0,20.0,6,No
+1587,2018,MERCEDES-BENZ CLA250 4Matic,2.0,40,AutoMan-7,4WD,Ethanol,FA,small car,5.0,17.0,24.0,20.0,6,No
+1588,2018,MERCEDES-BENZ GLA250 4Matic,2.0,40,AutoMan-7,4WD,Ethanol,CA,small SUV,5.0,17.0,23.0,19.0,5,No
+1589,2018,MERCEDES-BENZ GLA250 4Matic,2.0,40,AutoMan-7,4WD,Ethanol,FA,small SUV,5.0,17.0,23.0,19.0,5,No
+1590,2018,MERCEDES-BENZ GLE350 4Matic,3.5,60,Auto-7,4WD,Ethanol,FA,standard SUV,1.0,13.0,17.0,14.0,3,No
+1591,2018,MERCEDES-BENZ GLE350 4Matic,3.5,60,Auto-7,4WD,Ethanol,CA,standard SUV,3.0,13.0,17.0,14.0,3,No
+1592,2018,MINI Cooper SE Countryman All4,1.5,30,SemiAuto-6,4WD,Gasoline,FA,midsize car,3.0,28.0,27.0,27.0,9,Yes
+1593,2018,MINI Cooper SE Countryman All4,1.5,30,SemiAuto-6,4WD,Gasoline,CA,midsize car,3.0,28.0,27.0,27.0,9,Yes
+1594,2018,TOYOTA Sequoia FFV,5.7,80,SemiAuto-6,4WD,Ethanol,CA,standard SUV,5.0,9.0,13.0,10.0,1,No
+1595,2018,TOYOTA Sequoia FFV,5.7,80,SemiAuto-6,4WD,Ethanol,FA,standard SUV,5.0,9.0,13.0,10.0,1,No
+1596,2018,TOYOTA Tundra FFV,5.7,80,SemiAuto-6,4WD,Ethanol,CA,pickup,5.0,9.0,12.0,10.0,2,No
+1597,2018,TOYOTA Tundra FFV,5.7,80,SemiAuto-6,4WD,Ethanol,FA,pickup,5.0,9.0,12.0,10.0,2,No
+1598,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,CA,midsize car,7.0,26.0,33.0,29.0,10,Elite
+1599,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Gasoline,FA,midsize car,7.0,26.0,33.0,29.0,10,Elite
+1600,2018,VOLVO XC 60,2.0,40,SemiAuto-8,4WD,Gasoline,CA,small SUV,7.0,26.0,28.0,26.0,10,Elite
+1601,2018,VOLVO XC 60,2.0,40,SemiAuto-8,4WD,Gasoline,FA,small SUV,7.0,26.0,28.0,26.0,10,Elite
+1602,2018,VOLVO XC 90,2.0,40,SemiAuto-8,4WD,Gasoline,CA,standard SUV,7.0,26.0,30.0,27.0,10,Elite
+1603,2018,VOLVO XC 90,2.0,40,SemiAuto-8,4WD,Gasoline,FA,standard SUV,7.0,26.0,30.0,27.0,10,Elite
+1604,2018,BMW 330e,2.0,40,SemiAuto-8,2WD,Electricity,CA,small car,3.0,66.0,78.0,71.0,10,Yes
+1605,2018,BMW 330e,2.0,40,SemiAuto-8,2WD,Electricity,FA,small car,3.0,66.0,78.0,71.0,10,Yes
+1606,2018,BMW 530e,2.0,40,SemiAuto-8,2WD,Electricity,CA,small car,7.0,70.0,75.0,72.0,10,Elite
+1607,2018,BMW 530e,2.0,40,SemiAuto-8,2WD,Electricity,FA,small car,7.0,70.0,75.0,72.0,10,Elite
+1608,2018,BMW 530e,2.0,40,SemiAuto-8,4WD,Electricity,CA,small car,7.0,66.0,68.0,67.0,10,Elite
+1609,2018,BMW 530e,2.0,40,SemiAuto-8,4WD,Electricity,FA,small car,7.0,66.0,68.0,67.0,10,Elite
+1610,2018,BMW 740e,2.0,40,SemiAuto-8,4WD,Electricity,CA,large car,3.0,62.0,68.0,64.0,9,Yes
+1611,2018,BMW 740e,2.0,40,SemiAuto-8,4WD,Electricity,FA,large car,3.0,62.0,68.0,64.0,9,Yes
+1612,2018,CHEVROLET Impala,3.6,60,SemiAuto-6,2WD,Gas,CA,large car,5.0,18.0,28.0,22.0,4,No
+1613,2018,CHEVROLET Impala,3.6,60,SemiAuto-6,2WD,Gas,FA,large car,5.0,18.0,28.0,22.0,4,No
+1614,2018,CHEVROLET Silverado 15,4.3,60,Auto-6,2WD,Gas,CA,pickup,5.0,18.0,24.0,20.0,4,No
+1615,2018,CHEVROLET Silverado 15,4.3,60,Auto-6,2WD,Gas,FA,pickup,5.0,18.0,24.0,20.0,4,No
+1616,2018,CHEVROLET Silverado 15,4.3,60,Auto-6,4WD,Gas,CA,pickup,5.0,17.0,22.0,19.0,3,No
+1617,2018,CHEVROLET Silverado 15,4.3,60,Auto-6,4WD,Gas,FA,pickup,5.0,17.0,22.0,19.0,3,No
+1618,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,2WD,Gas,CA,pickup,3.0,16.0,23.0,19.0,3,No
+1619,2018,CHEVROLET Silverado 15,5.3,80,Auto-6,2WD,Gas,FA,pickup,3.0,16.0,23.0,19.0,3,No
+1620,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,2WD,Gas,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1621,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,2WD,Gas,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1622,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,4WD,Gas,CA,standard SUV,3.0,16.0,22.0,18.0,3,No
+1623,2018,CHEVROLET Suburban 1500,5.3,80,Auto-6,4WD,Gas,FA,standard SUV,3.0,16.0,22.0,18.0,3,No
+1624,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,2WD,Gas,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1625,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,2WD,Gas,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1626,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,4WD,Gas,CA,standard SUV,3.0,16.0,22.0,18.0,3,No
+1627,2018,CHEVROLET Tahoe 1500,5.3,80,Auto-6,4WD,Gas,FA,standard SUV,3.0,16.0,22.0,18.0,3,No
+1628,2018,CHEVROLET Volt,1.5,40,CVT,2WD,Electricity,CA,small car,3.0,113.0,99.0,106.0,10,Yes
+1629,2018,CHEVROLET Volt,1.5,40,CVT,2WD,Electricity,FA,small car,3.0,113.0,99.0,106.0,10,Yes
+1630,2018,CHEVROLET Volt,1.5,40,CVT,2WD,Electricity,CA,small car,7.0,113.0,99.0,106.0,10,Elite
+1631,2018,CHEVROLET Volt,1.5,40,CVT,2WD,Electricity,FA,small car,7.0,113.0,99.0,106.0,10,Elite
+1632,2018,CHRYSLER 300,3.6,60,Auto-8,2WD,Gas,CA,large car,3.0,19.0,30.0,23.0,5,No
+1633,2018,CHRYSLER 300,3.6,60,Auto-8,2WD,Gas,FA,large car,3.0,19.0,30.0,23.0,5,No
+1634,2018,CHRYSLER 300,3.6,60,Auto-8,4WD,Gas,CA,large car,3.0,18.0,27.0,21.0,4,No
+1635,2018,CHRYSLER 300,3.6,60,Auto-8,4WD,Gas,FA,large car,3.0,18.0,27.0,21.0,4,No
+1636,2018,DODGE Charger,3.6,60,Auto-8,2WD,Gas,CA,large car,3.0,19.0,30.0,23.0,5,No
+1637,2018,DODGE Charger,3.6,60,Auto-8,2WD,Gas,FA,large car,3.0,19.0,30.0,23.0,5,No
+1638,2018,DODGE Charger,3.6,60,Auto-8,4WD,Gas,CA,large car,3.0,18.0,27.0,21.0,4,No
+1639,2018,DODGE Charger,3.6,60,Auto-8,4WD,Gas,FA,large car,3.0,18.0,27.0,21.0,4,No
+1640,2018,DODGE Journey,3.6,60,Auto-6,2WD,Gas,FA,small SUV,3.0,17.0,25.0,19.0,3,No
+1641,2018,FORD Fusion Energi Plug-in Hybrid,2.0,40,CVT,2WD,Electricity,CA,midsize car,7.0,102.0,91.0,97.0,10,Elite
+1642,2018,FORD Fusion Energi Plug-in Hybrid,2.0,40,CVT,2WD,Electricity,FA,midsize car,7.0,102.0,91.0,97.0,10,Elite
+1643,2018,FORD Transit Connect,2.5,40,SemiAuto-6,2WD,Gas,FA,special purpose,3.0,19.0,27.0,22.0,4,No
+1644,2018,FORD Transit Connect,2.5,40,SemiAuto-6,2WD,Gas,FA,special purpose,3.0,20.0,27.0,23.0,5,No
+1645,2018,GMC Sierra 15,4.3,60,Auto-6,2WD,Gas,CA,pickup,5.0,18.0,24.0,20.0,4,No
+1646,2018,GMC Sierra 15,4.3,60,Auto-6,2WD,Gas,FA,pickup,5.0,18.0,24.0,20.0,4,No
+1647,2018,GMC Sierra 15,4.3,60,Auto-6,4WD,Gas,CA,pickup,5.0,17.0,22.0,19.0,3,No
+1648,2018,GMC Sierra 15,4.3,60,Auto-6,4WD,Gas,FA,pickup,5.0,17.0,22.0,19.0,3,No
+1649,2018,GMC Sierra 15,5.3,80,Auto-6,2WD,Gas,CA,pickup,3.0,16.0,23.0,19.0,3,No
+1650,2018,GMC Sierra 15,5.3,80,Auto-6,2WD,Gas,FA,pickup,3.0,16.0,23.0,19.0,3,No
+1651,2018,GMC Yukon 1500,5.3,80,Auto-6,2WD,Gas,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1652,2018,GMC Yukon 1500,5.3,80,Auto-6,2WD,Gas,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1653,2018,GMC Yukon 1500,5.3,80,Auto-6,4WD,Gas,CA,standard SUV,3.0,16.0,22.0,18.0,3,No
+1654,2018,GMC Yukon 1500,5.3,80,Auto-6,4WD,Gas,FA,standard SUV,3.0,16.0,22.0,18.0,3,No
+1655,2018,GMC Yukon 1500 XL,5.3,80,Auto-6,2WD,Gas,CA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1656,2018,GMC Yukon 1500 XL,5.3,80,Auto-6,2WD,Gas,FA,standard SUV,3.0,16.0,23.0,19.0,3,No
+1657,2018,GMC Yukon XL 1500,5.3,80,Auto-6,4WD,Gas,CA,standard SUV,3.0,16.0,22.0,18.0,3,No
+1658,2018,GMC Yukon XL 1500,5.3,80,Auto-6,4WD,Gas,FA,standard SUV,3.0,16.0,22.0,18.0,3,No
+1659,2018,JEEP Cherokee,2.4,40,Auto-9,2WD,Gas,CA,small SUV,3.0,21.0,30.0,25.0,5,No
+1660,2018,JEEP Cherokee,2.4,40,Auto-9,2WD,Gas,FA,small SUV,3.0,21.0,30.0,25.0,5,No
+1661,2018,JEEP Cherokee,2.4,40,Auto-9,4WD,Gas,CA,small SUV,3.0,21.0,28.0,23.0,5,No
+1662,2018,JEEP Cherokee,2.4,40,Auto-9,4WD,Gas,FA,small SUV,3.0,21.0,28.0,23.0,5,No
+1663,2018,KARMA Revero,2.0,40,Auto-1,2WD,Electricity,FA,small car,1.0,59.0,61.0,60.0,10,No
+1664,2018,KARMA Revero,2.0,40,Auto-1,2WD,Electricity,CA,small car,1.0,59.0,61.0,60.0,10,No
+1665,2018,MERCEDES-BENZ CLA250 4Matic,2.0,40,AutoMan-7,4WD,Gas,CA,small car,5.0,24.0,32.0,27.0,6,No
+1666,2018,MERCEDES-BENZ CLA250 4Matic,2.0,40,AutoMan-7,4WD,Gas,FA,small car,5.0,24.0,32.0,27.0,6,No
+1667,2018,MERCEDES-BENZ GLA250 4Matic,2.0,40,AutoMan-7,4WD,Gas,CA,small SUV,5.0,23.0,31.0,26.0,5,No
+1668,2018,MERCEDES-BENZ GLA250 4Matic,2.0,40,AutoMan-7,4WD,Gas,FA,small SUV,5.0,23.0,31.0,26.0,5,No
+1669,2018,MERCEDES-BENZ GLE350 4Matic,3.5,60,Auto-7,4WD,Gas,FA,standard SUV,1.0,18.0,22.0,19.0,3,No
+1670,2018,MERCEDES-BENZ GLE350 4Matic,3.5,60,Auto-7,4WD,Gas,CA,standard SUV,3.0,18.0,22.0,19.0,3,No
+1671,2018,MINI Cooper SE Countryman All4,1.5,30,SemiAuto-6,4WD,Electricity,FA,midsize car,3.0,63.0,66.0,65.0,9,Yes
+1672,2018,MINI Cooper SE Countryman All4,1.5,30,SemiAuto-6,4WD,Electricity,CA,midsize car,3.0,63.0,66.0,65.0,9,Yes
+1673,2018,TOYOTA Sequoia FFV,5.7,80,SemiAuto-6,4WD,Gas,CA,standard SUV,5.0,13.0,17.0,14.0,1,No
+1674,2018,TOYOTA Sequoia FFV,5.7,80,SemiAuto-6,4WD,Gas,FA,standard SUV,5.0,13.0,17.0,14.0,1,No
+1675,2018,TOYOTA Tundra FFV,5.7,80,SemiAuto-6,4WD,Gas,CA,pickup,5.0,13.0,17.0,15.0,2,No
+1676,2018,TOYOTA Tundra FFV,5.7,80,SemiAuto-6,4WD,Gas,FA,pickup,5.0,13.0,17.0,15.0,2,No
+1677,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Electricity,CA,midsize car,7.0,70.0,72.0,71.0,10,Elite
+1678,2018,VOLVO S90,2.0,40,SemiAuto-8,4WD,Electricity,FA,midsize car,7.0,70.0,72.0,71.0,10,Elite
+1679,2018,VOLVO XC 60,2.0,40,SemiAuto-8,4WD,Electricity,CA,small SUV,7.0,60.0,58.0,59.0,10,Elite
+1680,2018,VOLVO XC 60,2.0,40,SemiAuto-8,4WD,Electricity,FA,small SUV,7.0,60.0,58.0,59.0,10,Elite
+1681,2018,VOLVO XC 90,2.0,40,SemiAuto-8,4WD,Electricity,CA,standard SUV,7.0,63.0,61.0,62.0,10,Elite
+1682,2018,VOLVO XC 90,2.0,40,SemiAuto-8,4WD,Electricity,FA,standard SUV,7.0,63.0,61.0,62.0,10,Elite
